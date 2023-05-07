@@ -7,7 +7,6 @@ The aim of this project is to scrape data from the IMDb database and then use th
 ## Data Sources
 
 * IMDb: We will scrape movie data from the IMDb website, which is one of the most comprehensive sources for movie information.
-* Netflix: We will use the team member's Netflix view history to understand what kind of movies we would love to watch as a team.
 
 ## Tools and Techniques
 
