@@ -1,4 +1,4 @@
-# Netflix Movie Recommendation Project
+# IMDb Movie Analysis Project
 
 ## Introduction
 
@@ -26,3 +26,47 @@ The aim of this project is to scrape data from the IMDb database and then use th
 ## Conclusion
 
 This project aims to provide insights into what kind of movies we would love to watch as a team based on our Netflix view history and IMDb data. We will use a combination of web scraping, exploratory data analysis, linear regression, and feature engineering to build a predictive model. Our project will showcase our data science skills and provide us with valuable experience in working with real-world datasets.
+
+
+## License
+This project is licensed under the MIT License.
+
+
+## Contributors
+<table style="table-layout: fixed; width: 100%;">
+  <tr>
+    <td>
+      <div>
+        <a href="https://www.linkedin.com/in/muhammedmaral/"><img src="https://avatars.githubusercontent.com/u/78436518?v=4" width=150></a>
+      </div>
+      <a href="https://www.linkedin.com/in/muhammedmaral/"> Muhammed Maral </a>
+    </td>
+     <td>
+      <div>
+        <a href="https://github.com/hkolatan"><img src="https://avatars.githubusercontent.com/u/85988507?s=400&u=35029c900a7a6b10fc244a4f9f7df8252778360c&v=4" width=150></a>
+      </div>
+      <a href="https://github.com/hkolatan"> Halil Kolatan </a>
+    </td>
+ <td>
+      <div>
+        <a href="https://github.com/Egemendogruel35"><img src="https://avatars.githubusercontent.com/u/121460987?v=4" width=150></a>
+      </div>
+      <a href="https://github.com/Egemendogruel35"> Egemen Doğruel </a>
+    </td>     
+ <td>
+      <div>
+        <a href="https://github.com/aycetintugce"><img src="https://avatars.githubusercontent.com/u/126796817?v=4" width=150></a>
+      </div>
+      <a href="https://github.com/aycetintugce"> Tuğçe Ayçetin </a>
+    </td>   
+ <td>
+      <div>
+        <a href="https://github.com/ebrarolcer"><img src="https://avatars.githubusercontent.com/u/125158029?v=4" width=150></a>
+      </div>
+      <a href="https://github.com/ebrarolcer"> Ebrar Ölçer </a>
+    </td>    
+  </tr>
+</table>
+
+### Contact
+Please feel free to contact the project team for any questions or feedback.
