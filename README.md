@@ -1,8 +1,6 @@
 # IMDb Movie Analysis Project
 
-## Introduction
-
-The aim of this project is to scrape data from the IMDb database and then use the team member's Netflix view history to predict what kind of movies we would love to watch as a team. This project is part of our Data Science practice where we will apply techniques such as EDA, Linear regression, web scraping with beautifulsoup, selenium, and feature engineering.
+This project involves analyzing the data obtained from the IMDb website using web scraping method and predicting the ratings of movies with a series of linear regression models.
 
 ## Data Sources
 
