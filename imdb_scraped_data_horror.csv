@@ -1,0 +1,1518 @@
+Number,Title,Year,Runtime,Genre,Rating,Budget,Gross US & Canada,Votes,Metascore
+1.,The Shining,(1980),146 min,Drama -  Horror,8.4,"$19,000,000","44,017,374",1046194,66
+2.,Alien,(1979),117 min,Horror -  Sci-Fi,8.5,"$11,000,000","78,900,000",901097,89
+3.,I Am Legend,(2007),101 min,Action -  Drama -  Horror,7.2,"$150,000,000","256,386,216",778116,65
+4.,World War Z,(2013),116 min,Action -  Adventure -  Horror,7.0,"$190,000,000","202,359,711",685918,63
+5.,Psycho,(1960),109 min,Horror -  Mystery -  Thriller,8.5,"$806,947","32,000,000",685911,97
+6.,American Psycho,(2000),102 min,Crime -  Drama -  Horror,7.6,"$7,000,000","15,070,285",652970,64
+7.,Get Out,(I) (2017),104 min,Horror -  Mystery -  Thriller,7.7,"$4,500,000","176,040,665",638144,85
+8.,Zombieland,(2009),88 min,Action -  Comedy -  Horror,7.6,"$23,600,000","75,590,286",593934,73
+9.,Shaun of the Dead,(2004),99 min,Comedy -  Horror,7.9,"£4,000,000","13,542,874",570131,76
+10.,It,(I) (2017),135 min,Horror,7.3,"$35,000,000","327,481,748",567594,69
+11.,A Quiet Place,(2018),90 min,Drama -  Horror -  Sci-Fi,7.5,"$17,000,000","188,024,361",547476,82
+12.,The Conjuring,(2013),112 min,Horror -  Mystery -  Thriller,7.5,"$20,000,000","137,400,141",523367,68
+13.,Split,(IX) (2016),117 min,Horror -  Thriller,7.3,"$9,000,000","138,291,365",516016,62
+14.,The Thing,(1982),109 min,Horror -  Mystery -  Sci-Fi,8.2,"$15,000,000","13,782,838",437279,57
+15.,Doctor Strange in the Multiverse of Madness,(2022),126 min,Action -  Adventure -  Fantasy,6.9,"$200,000,000","411,331,607",436475,60
+16.,Saw,(2004),103 min,Horror -  Mystery -  Thriller,7.6,"$1,200,000","56,000,369",434162,46
+17.,Predator,(1987),107 min,Action -  Adventure -  Horror,7.8,"$15,000,000","59,735,548",433424,47
+18.,The Cabin in the Woods,(2011),95 min,Horror -  Mystery -  Thriller,7.0,"$30,000,000","42,073,277",429942,72
+19.,28 Days Later,(2002),113 min,Drama -  Horror -  Sci-Fi,7.5,"$8,000,000","45,064,915",424211,73
+20.,The Exorcist,(1973),122 min,Horror,8.1,"$11,000,000","232,906,145",419988,81
+21.,Cloverfield,(2008),85 min,Action -  Adventure -  Horror,7.0,"$25,000,000","80,048,433",407942,64
+22.,The Others,(2001),104 min,Horror -  Mystery -  Thriller,7.6,"$17,000,000","96,522,687",375898,74
+23.,Sweeney Todd: The Demon Barber of Fleet Street,(2007),116 min,Drama -  Horror -  Musical,7.3,"$50,000,000","52,898,073",375581,83
+24.,Sleepy Hollow,(1999),105 min,Fantasy -  Horror -  Mystery,7.3,"$100,000,000","101,071,502",369268,65
+25.,Scream,(1996),111 min,Horror -  Mystery,7.4,"$14,000,000","103,046,663",362529,65
+26.,The Ring,(2002),115 min,Horror -  Mystery,7.1,"$48,000,000","129,128,133",359291,57
+27.,Constantine,(2005),121 min,Action -  Fantasy -  Horror,7.0,"$100,000,000","75,976,178",357382,50
+28.,Bird Box,(2018),124 min,Horror -  Mystery -  Sci-Fi,6.6,,,357358,51
+29.,Midsommar,(2019),148 min,Drama -  Horror -  Mystery,7.1,"$9,000,000","27,331,977",348808,72
+30.,Hereditary,(2018),127 min,Drama -  Horror -  Mystery,7.3,"$10,000,000","44,069,456",339392,87
+31.,10 Cloverfield Lane,(2016),103 min,Drama -  Horror -  Mystery,7.2,"$15,000,000","72,082,998",338917,76
+32.,Annihilation,(I) (2018),115 min,Adventure -  Drama -  Horror,6.8,"$40,000,000","32,732,301",338167,79
+33.,Hellboy,(2004),122 min,Action -  Adventure -  Fantasy,6.8,"$66,000,000","59,623,958",337794,72
+34.,Interview with the Vampire: The Vampire Chronicles,(1994),123 min,Drama -  Fantasy -  Horror,7.5,"$60,000,000","105,264,608",331981,59
+35.,From Dusk Till Dawn,(1996),108 min,Action -  Crime -  Horror,7.2,"$19,000,000","25,753,840",324309,48
+36.,The Mist,(2007),126 min,Horror -  Sci-Fi -  Thriller,7.1,"$18,000,000","25,594,957",321719,58
+37.,Insidious,(I) (2010),103 min,Horror -  Mystery -  Thriller,6.8,"$1,500,000","54,009,150",317962,52
+38.,Us,(II) (2019),116 min,Horror -  Mystery -  Thriller,6.8,"$20,000,000","175,084,580",314044,81
+39.,The Menu,(2022),107 min,Comedy -  Horror -  Thriller,7.2,"$35,000,000",,308269,71
+40.,Alien³,(1992),114 min,Action -  Horror -  Sci-Fi,6.4,"$50,000,000","55,473,600",307083,59
+41.,Alien: Covenant,(2017),122 min,Horror -  Sci-Fi -  Thriller,6.4,"$97,000,000","74,262,031",289051,65
+42.,Halloween,(1978),91 min,Horror -  Thriller,7.7,"$325,000","47,000,000",288098,87
+43.,Don't Breathe,(2016),88 min,Crime -  Horror -  Thriller,7.1,"$9,900,000","89,217,875",284806,71
+44.,Blade,(1998),120 min,Action -  Horror -  Sci-Fi,7.1,"$45,000,000","70,087,718",283691,47
+45.,28 Weeks Later,(2007),100 min,Action -  Adventure -  Horror,6.9,"$15,000,000","28,638,916",283000,78
+46.,1408,(2007),104 min,Fantasy -  Horror -  Mystery,6.8,"$25,000,000","71,985,628",281073,64
+47.,The Conjuring 2,(2016),134 min,Horror -  Mystery -  Thriller,7.3,"$40,000,000","102,470,008",280783,65
+48.,It Chapter Two,(2019),169 min,Drama -  Fantasy -  Horror,6.5,"$79,000,000","211,593,228",278817,58
+49.,Resident Evil,(2002),100 min,Action -  Horror -  Sci-Fi,6.6,"$33,000,000","40,119,709",278066,33
+50.,Hellboy II: The Golden Army,(2008),120 min,Action -  Adventure -  Fantasy,7.0,"$85,000,000","75,754,670",277904,78
+51.,The Witch,(2015),92 min,Drama -  Fantasy -  Horror,6.9,"$4,000,000","25,138,705",275608,83
+52.,Dark Shadows,(2012),113 min,Comedy -  Fantasy -  Horror,6.2,"$150,000,000","79,727,149",272658,55
+53.,The Blair Witch Project,(1999),81 min,Horror -  Mystery,6.5,"$60,000","140,539,099",269973,81
+54.,Hotel Transylvania,(2012),91 min,Animation -  Adventure -  Comedy,7.0,"$85,000,000","148,313,048",264973,47
+55.,Final Destination,(2000),98 min,Horror -  Thriller,6.7,"$23,000,000","53,331,147",264762,36
+56.,Sinister,(I) (2012),110 min,Horror -  Mystery -  Thriller,6.8,"$3,000,000","48,086,903",262605,53
+57.,Dawn of the Dead,(2004),101 min,Action -  Horror,7.3,"$26,000,000","59,020,957",261727,59
+58.,Saw II,(2005),93 min,Horror -  Mystery,6.6,"$4,000,000","87,039,965",259755,40
+59.,Alien: Resurrection,(1997),109 min,Action -  Horror -  Sci-Fi,6.2,"$75,000,000","47,748,610",253723,63
+60.,Glass,(2019),129 min,Drama -  Horror -  Sci-Fi,6.6,"$20,000,000","111,048,468",252607,43
+61.,It Follows,(2014),100 min,Horror -  Mystery -  Thriller,6.8,"$1,000,000","14,674,077",251946,83
+62.,A Nightmare on Elm Street,(1984),91 min,Horror,7.4,"$1,800,000","25,504,513",247674,76
+63.,Paranormal Activity,(2007),86 min,Horror -  Mystery,6.3,"$15,000","107,918,810",246567,68
+64.,Pitch Black,(2000),109 min,Action -  Horror -  Sci-Fi,7.1,"$23,000,000","39,240,659",246446,49
+65.,A Quiet Place Part II,(2020),97 min,Drama -  Horror -  Sci-Fi,7.2,"$55,000,000","160,072,261",246088,71
+66.,The Platform,(2019),94 min,Horror -  Sci-Fi -  Thriller,7.0,,,243252,73
+67.,Life,(I) (2017),104 min,Horror -  Sci-Fi -  Thriller,6.6,"$58,000,000","30,234,022",239063,54
+68.,Orphan,(2009),123 min,Horror -  Mystery -  Thriller,7.0,"$20,000,000","41,596,251",238536,42
+69.,Cube,(1997),90 min,Drama -  Horror -  Mystery,7.2,"CA$365,000","501,818",237977,61
+70.,The Invisible Man,(I) (2020),124 min,Drama -  Horror -  Mystery,7.1,"$7,000,000","70,410,000",236898,72
+71.,Silent Hill,(2006),125 min,Horror -  Mystery,6.5,"$50,000,000","46,982,632",235947,31
+72.,Warm Bodies,(2013),98 min,Comedy -  Horror -  Romance,6.8,"$35,000,000","66,380,662",235839,60
+73.,Mother!,(2017),121 min,Drama -  Horror -  Mystery,6.6,"$30,000,000","17,800,004",235026,75
+74.,Gremlins,(1984),106 min,Comedy -  Fantasy -  Horror,7.3,"$11,000,000","148,170,000",233547,70
+75.,Train to Busan,(2016),118 min,Action -  Horror -  Thriller,7.6,"₩10,000,000,000","2,129,768",233390,73
+76.,The Babadook,(2014),94 min,Horror -  Mystery,6.8,"$2,000,000","924,279",233109,86
+77.,The Descent,(2005),99 min,Adventure -  Horror -  Thriller,7.2,"£3,500,000","26,024,456",232596,71
+78.,The Purge,(I) (2013),85 min,Horror -  Sci-Fi -  Thriller,5.7,"$3,000,000","64,473,115",230084,41
+79.,Nope,(2022),130 min,Horror -  Mystery -  Sci-Fi,6.8,"$68,000,000","123,277,080",225685,77
+80.,Blade II,(2002),117 min,Action -  Horror -  Sci-Fi,6.7,"$54,000,000","82,348,319",225099,52
+81.,Dracula,(1992),128 min,Drama -  Fantasy -  Horror,7.4,"$40,000,000","82,522,790",224993,57
+82.,Rosemary's Baby,(1968),137 min,Drama -  Horror,8.0,"$2,300,000",,223065,96
+83.,Let the Right One In,(2008),114 min,Drama -  Fantasy -  Horror,7.9,"$4,000,000","2,122,065",221203,82
+84.,The Evil Dead,(1981),85 min,Horror,7.4,"$350,000","2,400,000",219707,71
+85.,Planet Terror,(2007),105 min,Action -  Comedy -  Horror,7.1,,,216385,
+86.,Hansel & Gretel: Witch Hunters,(2013),88 min,Action -  Fantasy -  Horror,6.1,"$50,000,000","55,703,475",210936,23
+87.,Drag Me to Hell,(2009),99 min,Horror,6.6,"$30,000,000","42,100,625",209438,83
+88.,Prey,(I) (2022),100 min,Action -  Adventure -  Drama,7.1,"$65,000,000",,205844,71
+89.,Alien vs. Predator,(2004),101 min,Action -  Adventure -  Horror,5.6,"$60,000,000","80,282,231",205274,29
+90.,Resident Evil: Apocalypse,(2004),94 min,Action -  Horror -  Sci-Fi,6.1,"$45,000,000","51,201,453",204125,35
+91.,Doctor Sleep,(2019),152 min,Drama -  Fantasy -  Horror,7.3,"$45,000,000","31,581,712",201056,59
+92.,Dracula Untold,(2014),92 min,Action -  Drama -  Fantasy,6.2,"$70,000,000","56,280,355",200828,40
+93.,Resident Evil: Extinction,(2007),94 min,Action -  Horror -  Sci-Fi,6.2,"$45,000,000","50,648,679",199928,41
+94.,Saw III,(2006),108 min,Horror -  Mystery -  Thriller,6.2,"$10,000,000","80,238,724",199268,48
+95.,Scream 2,(1997),120 min,Horror -  Mystery,6.3,"$24,000,000","101,363,301",196367,63
+96.,The Mummy,(2017),110 min,Action -  Adventure -  Fantasy,5.4,"$125,000,000","80,101,125",195914,34
+97.,The Birds,(1963),119 min,Drama -  Horror -  Mystery,7.6,"$2,500,000","11,403,529",195490,90
+98.,Carrie,(1976),98 min,Horror -  Mystery,7.4,"$1,800,000","33,800,000",194285,86
+99.,The Fly,(1986),96 min,Drama -  Horror -  Sci-Fi,7.6,"$15,000,000","40,456,565",190395,79
+100.,The Crow,(1994),102 min,Action -  Crime -  Drama,7.5,"$23,000,000","50,693,162",189925,71
+101.,What We Do in the Shadows,(2014),86 min,Comedy -  Horror,7.6,"$1,600,000","3,333,000",189784,76
+102.,Zombieland: Double Tap,(2019),99 min,Action -  Comedy -  Horror,6.7,"$42,000,000","73,123,082",188185,55
+103.,Event Horizon,(1997),96 min,Horror -  Sci-Fi -  Thriller,6.6,"$60,000,000","26,673,242",187531,35
+104.,The Woman in Black,(2012),95 min,Drama -  Fantasy -  Horror,6.4,"$17,000,000","54,333,290",187508,62
+105.,Grindhouse,(2007),191 min,Action -  Horror -  Thriller,7.5,"$67,000,000","25,037,897",187288,77
+106.,REC,(2007),78 min,Horror -  Mystery -  Thriller,7.4,"€1,500,000",,186831,71
+107.,Tucker and Dale vs Evil,(2010),89 min,Comedy -  Horror,7.5,,"223,838",185934,65
+108.,Mama,(I) (2013),100 min,Fantasy -  Horror -  Thriller,6.2,"$15,000,000","71,628,180",185527,57
+109.,Army of Darkness,(1992),81 min,Comedy -  Horror,7.4,"$13,000,000","11,502,976",185295,59
+110.,Hostel,(2005),94 min,Horror,5.9,"$4,800,000","47,326,473",184639,55
+111.,Evil Dead,(2013),91 min,Horror,6.5,"$17,000,000","54,239,856",183983,57
+112.,Pi,(1998),84 min,Drama -  Horror -  Mystery,7.3,"$60,000","3,216,970",182487,72
+113.,Blade: Trinity,(2004),113 min,Action -  Horror -  Sci-Fi,5.8,"$65,000,000","52,411,906",182248,38
+114.,30 Days of Night,(2007),113 min,Action -  Adventure -  Horror,6.6,"$30,000,000","39,568,996",182054,53
+115.,The Meg,(2018),113 min,Action -  Horror -  Sci-Fi,5.6,"$130,000,000","143,005,856",178438,46
+116.,Army of the Dead,(2021),148 min,Action -  Crime -  Drama,5.7,"$70,000,000","1,000,000",177866,57
+117.,Insidious: Chapter 2,(2013),106 min,Horror -  Mystery -  Thriller,6.5,"$5,000,000","83,586,447",176427,40
+118.,The Hills Have Eyes,(2006),107 min,Horror -  Thriller,6.4,"$15,000,000","41,778,863",176343,52
+119.,Resident Evil: Afterlife,(2010),96 min,Action -  Horror -  Sci-Fi,5.8,"$60,000,000","60,128,566",174938,37
+120.,Predator 2,(1990),108 min,Action -  Horror -  Sci-Fi,6.3,"$35,000,000","30,669,413",174143,46
+121.,Final Destination 2,(2003),90 min,Horror -  Thriller,6.2,"$26,000,000","46,961,214",173237,38
+122.,Evil Dead II,(1987),84 min,Comedy -  Horror,7.7,"$3,600,000","5,923,044",172103,72
+123.,Poltergeist,(1982),114 min,Horror -  Thriller,7.3,"$10,700,000","76,606,280",170175,79
+124.,The Texas Chain Saw Massacre,(1974),83 min,Horror,7.4,"$300,000","30,859,000",169761,87
+125.,Scary Movie 2,(2001),83 min,Comedy -  Horror,5.3,"$45,000,000","71,308,997",167017,29
+126.,The Mummy: Tomb of the Dragon Emperor,(2008),112 min,Action -  Adventure -  Fantasy,5.2,"$145,000,000","102,491,776",165569,31
+127.,The Black Phone,(2021),103 min,Horror -  Thriller,6.9,"$18,000,000","90,123,230",165221,65
+128.,Annabelle,(I) (2014),99 min,Horror -  Mystery -  Thriller,5.4,"$6,500,000","84,273,813",165134,37
+129.,The Killing of a Sacred Deer,(2017),121 min,Drama -  Horror -  Mystery,7.0,,"2,291,901",163519,73
+130.,Ready or Not,(I) (2019),95 min,Action -  Comedy -  Horror,6.8,"$6,000,000","28,714,231",162669,64
+131.,Scream 4,(2011),111 min,Comedy -  Horror -  Mystery,6.2,"$40,000,000","38,180,928",160713,52
+132.,Halloween,(I) (2018),106 min,Crime -  Horror -  Thriller,6.5,"$10,000,000","159,342,015",160057,67
+133.,From Hell,(2001),122 min,Horror -  Mystery -  Thriller,6.7,"$35,000,000","31,602,566",159327,54
+134.,The Orphanage,(2007),105 min,Drama -  Horror -  Mystery,7.4,"€3,400,000","7,161,284",159131,74
+135.,Abraham Lincoln: Vampire Hunter,(2012),105 min,Action -  Fantasy -  Horror,5.9,"$69,000,000","37,519,139",158355,42
+136.,The Skin I Live In,(2011),120 min,Drama -  Horror -  Mystery,7.6,"€10,002,914","3,185,812",157893,70
+137.,Underworld: Awakening,(2012),88 min,Action -  Fantasy -  Horror,6.3,"$70,000,000","62,321,039",157576,39
+138.,The Rocky Horror Picture Show,(1975),100 min,Comedy -  Horror -  Musical,7.4,"$1,200,000","139,876,417",157443,65
+139.,The Purge: Anarchy,(2014),103 min,Action -  Horror -  Sci-Fi,6.4,"$9,000,000","71,962,800",156395,50
+140.,Saw IV,(2007),93 min,Horror -  Mystery -  Thriller,5.9,"$10,000,000","63,300,095",154796,36
+141.,Pandorum,(2009),108 min,Action -  Horror -  Mystery,6.7,"$33,000,000","10,330,853",154603,28
+142.,Scream 3,(2000),116 min,Horror -  Mystery,5.6,"$40,000,000","89,138,076",153988,56
+143.,Crimson Peak,(2015),119 min,Drama -  Horror -  Mystery,6.5,"$55,000,000","31,090,320",152543,66
+144.,I Know What You Did Last Summer,(1997),101 min,Horror -  Mystery,5.8,"$17,000,000","72,586,134",151654,52
+145.,Devil,(2010),80 min,Horror -  Mystery -  Thriller,6.3,"$10,000,000","33,583,175",151052,44
+146.,Happy Death Day,(2017),96 min,Comedy -  Horror -  Mystery,6.6,"$4,800,000","55,683,845",150592,58
+147.,The Lost Boys,(1987),97 min,Comedy -  Horror,7.2,"$8,500,000","32,222,567",149684,63
+148.,Last Night in Soho,(2021),116 min,Drama -  Horror -  Mystery,7.0,"$43,000,000",,149165,65
+149.,Under the Skin,(I) (2013),108 min,Drama -  Horror -  Mystery,6.3,"$13,300,000","2,605,039",148938,80
+150.,The Grudge,(2004),91 min,Horror -  Mystery -  Thriller,5.9,"$10,000,000","110,359,362",147501,49
+151.,The Nun,(2018),96 min,Horror -  Mystery -  Thriller,5.3,"$22,000,000","117,450,119",147278,46
+152.,Final Destination 3,(2006),93 min,Horror -  Thriller,5.8,"$25,000,000","54,098,051",147116,41
+153.,The Texas Chainsaw Massacre,(2003),98 min,Crime -  Horror,6.2,"$9,500,000","80,571,655",146644,38
+154.,Barbarian,(2022),102 min,Horror -  Mystery -  Thriller,7.0,"$4,500,000",,146245,78
+155.,Friday the 13th,(1980),95 min,Horror -  Mystery -  Thriller,6.4,"$550,000","39,754,601",145933,22
+156.,Resident Evil: Retribution,(2012),95 min,Action -  Horror -  Sci-Fi,5.3,"$65,000,000","42,345,531",145883,39
+157.,Hocus Pocus,(1993),96 min,Comedy -  Family -  Fantasy,6.9,"$28,000,000","44,342,713",145561,43
+158.,Carrie,(2013),100 min,Drama -  Horror,5.8,"$30,000,000","35,266,619",143674,53
+159.,Hush,(I) (2016),82 min,Horror -  Thriller,6.6,"$1,000,000",,143604,67
+160.,Tremors,(1990),96 min,Comedy -  Horror,7.1,"$11,000,000","16,667,084",142789,65
+161.,The Visit,(I) (2015),94 min,Horror -  Mystery -  Thriller,6.2,"$5,000,000","65,206,105",141145,55
+162.,Jennifer's Body,(2009),102 min,Comedy -  Horror,5.4,"$16,000,000","16,204,793",140741,47
+163.,Annabelle: Creation,(2017),109 min,Horror -  Mystery -  Thriller,6.5,"$15,000,000","102,092,201",140591,62
+164.,The Thing,(I) (2011),103 min,Horror -  Mystery -  Sci-Fi,6.2,"$38,000,000","16,928,670",139057,49
+165.,The Predator,(2018),107 min,Action -  Adventure -  Horror,5.3,"$88,000,000","51,024,708",137516,48
+166.,The Shallows,(2016),86 min,Action -  Drama -  Horror,6.3,"$17,000,000","55,124,043",137400,59
+167.,I Saw the Devil,(2010),144 min,Action -  Crime -  Drama,7.8,,"128,392",136568,67
+168.,The Mortal Instruments: City of Bones,(2013),130 min,Action -  Adventure -  Fantasy,5.8,"$60,000,000","31,165,421",136247,33
+169.,Morbius,(2022),104 min,Action -  Adventure -  Horror,5.2,"$75,000,000","73,865,530",135887,35
+170.,The Strangers,(2008),86 min,Horror -  Mystery -  Thriller,6.1,"$9,000,000","52,597,610",135693,47
+171.,They Live,(1988),94 min,Action -  Horror -  Sci-Fi,7.2,"$4,000,000","13,008,928",135592,55
+172.,Lights Out,(II) (2016),81 min,Horror -  Mystery,6.3,"$4,900,000","67,268,835",135001,58
+173.,Scream,(I) (2022),114 min,Horror -  Mystery -  Thriller,6.3,"$24,000,000","81,641,405",134824,60
+174.,Jeepers Creepers,(2001),90 min,Horror -  Mystery,6.2,"$10,000,000","37,904,175",134514,49
+175.,Hollow Man,(2000),112 min,Action -  Horror -  Sci-Fi,5.8,"$95,000,000","73,209,340",134235,24
+176.,The Exorcism of Emily Rose,(2005),119 min,Drama -  Horror -  Thriller,6.7,"$19,000,000","75,072,454",134002,46
+177.,Old,(2021),108 min,Drama -  Horror -  Mystery,5.8,"$18,000,000","48,276,510",133711,55
+178.,Hotel Transylvania 2,(2015),89 min,Animation -  Adventure -  Comedy,6.6,"$80,000,000","169,700,110",133578,44
+179.,Oculus,(2013),104 min,Horror -  Mystery -  Thriller,6.5,"$5,000,000","27,695,246",133414,61
+180.,Night of the Living Dead,(1968),96 min,Horror -  Thriller,7.8,"$114,000","89,029",133012,89
+181.,Hellraiser,(1987),94 min,Horror -  Thriller,6.9,"£1,000,000","14,564,027",132196,56
+182.,Daybreakers,(2009),98 min,Action -  Horror -  Sci-Fi,6.4,"$20,000,000","30,101,577",131497,57
+183.,Green Room,(2015),95 min,Crime -  Drama -  Horror,7.0,"$5,000,000","3,219,029",130832,79
+184.,Antichrist,(2009),108 min,Drama -  Horror -  Thriller,6.5,"$11,000,000","397,070",130647,49
+185.,What Lies Beneath,(2000),130 min,Drama -  Horror -  Mystery,6.6,"$100,000,000","155,464,351",130319,51
+186.,Escape Room,(I) (2019),99 min,Action -  Adventure -  Horror,6.4,"$9,000,000","57,005,601",129804,48
+187.,Aliens vs. Predator: Requiem,(2007),94 min,Action -  Adventure -  Horror,4.6,"$40,000,000","41,797,066",129044,29
+188.,House of Wax,(2005),113 min,Horror -  Thriller,5.4,"$40,000,000","32,064,800",128616,41
+189.,Saw V,(2008),92 min,Horror -  Thriller,5.8,"$10,800,000","56,746,769",128494,20
+190.,The Faculty,(1998),104 min,Horror -  Mystery -  Sci-Fi,6.6,"$15,000,000","40,064,955",128285,61
+191.,X,(II) (2022),105 min,Horror -  Mystery -  Thriller,6.6,"$1,000,000",,127996,79
+192.,The Host,(2006),120 min,Drama -  Horror -  Sci-Fi,7.1,"₩12,215,500,000","2,201,923",126498,85
+193.,The Autopsy of Jane Doe,(2016),86 min,Horror -  Mystery -  Thriller,6.8,,"10,474",125902,65
+194.,Halloween,(2007),109 min,Horror,6.0,"$15,000,000","58,272,029",125594,47
+195.,Wrong Turn,(I) (2003),84 min,Horror -  Thriller,6.1,"$12,600,000","15,417,771",125172,32
+196.,Smile,(V) (2022),115 min,Horror -  Mystery -  Thriller,6.5,"$17,000,000",,125087,68
+197.,The Crazies,(2010),101 min,Horror -  Thriller,6.5,"$20,000,000","39,123,589",124797,56
+198.,Let Me In,(I) (2010),116 min,Drama -  Fantasy -  Horror,7.1,"$20,000,000","12,134,420",124270,79
+199.,The Omen,(1976),111 min,Horror -  Mystery,7.5,"$2,800,000","4,273,886",124098,62
+200.,Dawn of the Dead,(1978),127 min,Horror -  Thriller,7.8,"$650,000","5,100,000",123976,71
+201.,Death Becomes Her,(1992),104 min,Comedy -  Fantasy -  Horror,6.6,"$55,000,000","58,422,650",123936,56
+202.,The Brothers Grimm,(2005),118 min,Action -  Adventure -  Comedy,5.9,"$88,000,000","37,916,267",123677,51
+203.,The Conjuring: The Devil Made Me Do It,(2021),112 min,Horror -  Mystery -  Thriller,6.3,"$39,000,000","65,631,050",123654,53
+204.,Freddy vs. Jason,(2003),97 min,Action -  Horror,5.7,"$30,000,000","82,622,655",122635,37
+205.,Priest,(2011),87 min,Action -  Fantasy -  Horror,5.7,"$60,000,000","29,136,626",121730,41
+206.,Pacific Rim: Uprising,(2018),111 min,Action -  Adventure -  Fantasy,5.6,"$150,000,000","59,874,525",120956,44
+207.,Eraserhead,(1977),89 min,Fantasy -  Horror,7.3,"$10,000","7,000,000",120882,87
+208.,Final Destination 5,(2011),92 min,Horror -  Thriller,5.9,"$40,000,000","42,587,643",120066,50
+209.,Exam,(2009),101 min,Crime -  Horror -  Mystery,6.8,,,119702,
+210.,The Hunt,(II) (2020),90 min,Action -  Horror -  Thriller,6.5,"$14,000,000","5,812,500",119382,50
+211.,The Skeleton Key,(2005),104 min,Drama -  Horror -  Mystery,6.5,"$43,000,000","47,806,295",118578,47
+212.,Gerald's Game,(2017),103 min,Drama -  Horror -  Thriller,6.5,,,116208,77
+213.,Saw VI,(2009),90 min,Horror -  Mystery -  Thriller,6.0,"$11,000,000","27,693,292",115892,30
+214.,Doom,(2005),105 min,Action -  Horror -  Sci-Fi,5.2,"$60,000,000","28,212,337",115822,34
+215.,Gothika,(2003),98 min,Horror -  Mystery -  Thriller,5.8,"$40,000,000","59,694,580",115814,38
+216.,The Amityville Horror,(2005),90 min,Horror,5.9,"$19,000,000","65,233,369",114347,33
+217.,Red Riding Hood,(2011),100 min,Fantasy -  Horror -  Mystery,5.4,"$42,000,000","37,662,162",113837,29
+218.,The Invitation,(I) (2015),100 min,Drama -  Horror -  Mystery,6.6,,"231,703",113637,74
+219.,End of Days,(1999),122 min,Action -  Fantasy -  Horror,5.8,"$100,000,000","66,889,043",113142,33
+220.,An American Werewolf in London,(1981),97 min,Comedy -  Horror,7.5,"$10,000,000","30,565,292",112516,55
+221.,Jacob's Ladder,(I) (1990),113 min,Drama -  Horror -  Mystery,7.4,"$25,000,000","26,118,851",112417,62
+222.,Frankenweenie,(2012),87 min,Animation -  Comedy -  Drama,6.9,"$39,000,000","35,291,068",111651,74
+223.,Friday the 13th,(2009),97 min,Horror -  Mystery -  Thriller,5.5,"$19,000,000","65,002,019",111512,34
+224.,Mirrors,(I) (2008),110 min,Horror -  Mystery,6.1,"$35,000,000","30,691,439",110048,35
+225.,The Final Destination,(2009),82 min,Horror -  Thriller,5.1,"$40,000,000","66,477,700",109982,30
+226.,Fright Night,(2011),106 min,Comedy -  Horror,6.4,"$30,000,000","18,298,649",109514,64
+227.,Insidious: Chapter 3,(2015),97 min,Horror -  Mystery -  Thriller,6.1,"$10,000,000","52,218,558",108750,52
+228.,Pet Sematary,(1989),103 min,Fantasy -  Horror -  Thriller,6.5,"$11,500,000","57,469,467",108674,38
+229.,The Wolfman,(2010),103 min,Drama -  Fantasy -  Horror,5.8,"$150,000,000","61,979,680",108636,43
+230.,The Cloverfield Paradox,(2018),102 min,Action -  Adventure -  Horror,5.5,"$45,000,000",,108614,37
+231.,Child's Play,(1988),87 min,Horror -  Thriller,6.6,"$9,000,000","33,244,684",108219,58
+232.,Gremlins 2: The New Batch,(1990),106 min,Comedy -  Fantasy -  Horror,6.4,"$50,000,000","41,482,207",107743,69
+233.,The Ritual,(I) (2017),94 min,Horror -  Mystery -  Thriller,6.3,,,107670,57
+234.,Legion,(2010),100 min,Action -  Fantasy -  Horror,5.2,"$26,000,000","40,168,080",107668,32
+235.,Anaconda,(1997),89 min,Action -  Adventure -  Horror,4.8,"$45,000,000","65,885,767",107576,37
+236.,Bone Tomahawk,(2015),132 min,Drama -  Horror -  Western,7.1,"$1,800,000",,107087,72
+237.,Paranormal Activity 2,(2010),91 min,Horror -  Mystery,5.7,"$3,000,000","84,752,907",106780,53
+238.,Where the Wild Things Are,(2009),101 min,Adventure -  Drama -  Family,6.7,"$100,000,000","77,233,467",106640,71
+239.,The Cell,(2000),107 min,Crime -  Horror -  Sci-Fi,6.4,"$33,000,000","61,334,059",105388,40
+240.,The Purge: Election Year,(2016),108 min,Action -  Horror -  Sci-Fi,6.0,"$10,000,000","79,213,375",104867,55
+241.,Ghost Ship,(2002),91 min,Horror -  Mystery -  Thriller,5.5,"$20,000,000","30,113,491",104499,28
+242.,The Pale Blue Eye,(2022),128 min,Crime -  Horror -  Mystery,6.6,"$72,000,000",,104388,56
+243.,Only Lovers Left Alive,(2013),123 min,Comedy -  Drama -  Fantasy,7.2,"$7,000,000","1,879,534",103830,79
+244.,Vacancy,(2007),85 min,Horror -  Thriller,6.2,"$19,000,000","19,363,565",103721,54
+245.,A Cure for Wellness,(2016),146 min,Drama -  Fantasy -  Horror,6.4,"$40,000,000","8,106,986",103646,47
+246.,A Nightmare on Elm Street,(2010),95 min,Crime -  Drama -  Horror,5.2,"$35,000,000","63,075,011",103534,35
+247.,Take Shelter,(2011),120 min,Drama -  Horror -  Sci-Fi,7.3,"$5,000,000","1,729,969",103534,85
+248.,You're Next,(2011),95 min,Horror -  Thriller,6.6,"$1,000,000","18,474,268",103491,66
+249.,eXistenZ,(1999),97 min,Horror -  Mystery -  Sci-Fi,6.8,"$15,000,000","2,840,417",103261,68
+250.,The Devil's Rejects,(2005),107 min,Crime -  Horror -  Western,6.7,"$7,000,000","17,044,981",102810,53
+251.,Overlord,(2018),110 min,Action -  Horror -  Sci-Fi,6.6,"$38,000,000","21,704,844",102446,60
+252.,Brightburn,(2019),90 min,Drama -  Horror -  Mystery,6.1,"$6,000,000","17,300,439",102051,44
+253.,Saw 3D,(2010),90 min,Horror -  Mystery,5.5,"$20,000,000","45,710,178",101759,24
+254.,Nosferatu,(1922),94 min,Fantasy -  Horror,7.9,,,100563,
+255.,"As Above, So Below",(2014),93 min,Horror -  Mystery -  Thriller,6.2,"$5,000,000","21,197,315",100238,39
+256.,Twin Peaks: Fire Walk with Me,(1992),134 min,Drama -  Horror -  Mystery,7.2,"$10,000,000","4,160,851",100233,45
+257.,The Rite,(2011),114 min,Drama -  Horror -  Mystery,6.0,"$37,000,000","33,047,633",100233,38
+258.,Dead Alive,(1992),94 min,Comedy -  Fantasy -  Horror,7.5,"$3,000,000","242,623",99870,54
+259.,The Babysitter,(I) (2017),85 min,Comedy -  Horror,6.3,,,99680,
+260.,M3GAN,(2022),102 min,Horror -  Sci-Fi -  Thriller,6.4,"$12,000,000","93,883,550",99675,72
+261.,Splice,(2009),104 min,Horror -  Sci-Fi,5.8,"$30,000,000","16,999,046",99613,66
+262.,The Neon Demon,(2016),117 min,Horror -  Thriller,6.1,"$7,000,000","1,333,124",99399,51
+263.,Martyrs,(2008),99 min,Horror,7.0,"€3,390,000",,99277,
+264.,The Craft,(1996),101 min,Drama -  Fantasy -  Horror,6.4,"$15,000,000","24,881,000",99238,55
+265.,Knock Knock,(I) (2015),99 min,Crime -  Drama -  Horror,4.9,"$2,500,000","36,336",98697,53
+266.,Land of the Dead,(2005),93 min,Horror -  Sci-Fi -  Thriller,6.2,"$15,000,000","20,700,082",98558,71
+267.,The Ring Two,(2005),110 min,Horror -  Mystery,5.4,"$50,000,000","76,231,249",98346,44
+268.,Suspiria,(1977),92 min,Horror,7.3,,,98136,79
+269.,It Comes at Night,(2017),91 min,Drama -  Horror -  Mystery,6.2,"$5,000,000","13,985,117",97638,78
+270.,Dead Silence,(2007),89 min,Horror -  Mystery -  Thriller,6.1,"$20,000,000","16,809,076",97611,34
+271.,Malignant,(I) (2021),111 min,Crime -  Horror -  Mystery,6.2,"$40,000,000",,97331,51
+272.,Videodrome,(1983),87 min,Horror -  Sci-Fi -  Thriller,7.2,"$5,952,000","2,120,439",97227,60
+273.,Paranormal Activity 3,(2011),83 min,Horror -  Mystery,5.8,"$5,000,000","104,007,828",97208,59
+274.,Resident Evil: The Final Chapter,(2016),107 min,Action -  Horror -  Sci-Fi,5.5,"$40,000,000","26,830,068",97165,49
+275.,Trick 'r Treat,(2007),82 min,Comedy -  Horror,6.7,"$12,000,000",,96866,
+276.,The Boy,(2016),97 min,Horror -  Mystery -  Thriller,6.0,"$10,000,000","35,819,556",96642,42
+277.,The Last House on the Left,(2009),110 min,Horror -  Thriller,6.5,"$15,000,000","32,752,215",96238,42
+278.,Halloween II,(1981),92 min,Horror,6.5,"$2,500,000","25,533,818",95607,40
+279.,Candyman,(1992),99 min,Horror -  Thriller,6.7,"$6,000,000","25,792,310",95145,61
+280.,Pet Sematary,(2019),101 min,Horror -  Mystery -  Thriller,5.7,"$21,000,000","54,724,696",94528,57
+281.,Dreamcatcher,(2003),134 min,Drama -  Horror -  Sci-Fi,5.5,"$68,000,000","33,715,436",94367,35
+282.,Piranha 3D,(2010),88 min,Comedy -  Horror,5.5,"$24,000,000","25,003,155",93741,53
+283.,Hellboy,(2019),120 min,Action -  Adventure -  Fantasy,5.2,"$50,000,000","21,903,748",93673,31
+284.,Hostel: Part II,(2007),94 min,Horror,5.5,"$10,200,000","17,609,452",92701,46
+285.,The X Files: I Want to Believe,(2008),104 min,Crime -  Drama -  Horror,5.9,"$30,000,000","20,982,478",92560,47
+286.,Goosebumps,(2015),103 min,Adventure -  Comedy -  Fantasy,6.3,"$58,000,000","80,080,379",91578,60
+287.,The Frighteners,(1996),110 min,Comedy -  Fantasy -  Horror,7.1,"$30,000,000","16,759,216",91520,52
+288.,Angel Heart,(1987),113 min,Horror -  Mystery -  Thriller,7.2,"$17,000,000","17,185,632",91412,61
+289.,Halloween Kills,(2021),105 min,Horror -  Thriller,5.5,"$20,000,000","92,002,155",90277,42
+290.,Case 39,(2009),109 min,Horror -  Mystery -  Thriller,6.2,"$26,000,000","13,248,477",89883,25
+291.,Thir13en Ghosts,(2001),91 min,Fantasy -  Horror,5.6,"$42,000,000","41,867,960",89827,30
+292.,Flatliners,(1990),115 min,Drama -  Horror -  Sci-Fi,6.5,"$26,000,000","61,490,000",89794,55
+293.,House of 1000 Corpses,(2003),89 min,Horror,6.0,"$7,000,000","12,634,962",89129,31
+294.,Eden Lake,(2008),91 min,Horror -  Thriller,6.7,,"5,824",88856,65
+295.,Crawl,(I) (2019),87 min,Action -  Adventure -  Horror,6.1,"$13,500,000","39,014,193",88047,60
+296.,King Kong,(1933),100 min,Adventure -  Horror -  Sci-Fi,7.9,"$670,000","10,000,000",87747,92
+297.,I Spit on Your Grave,(2010),108 min,Horror -  Thriller,6.2,"$2,000,000","93,051",87586,27
+298.,Underwater,(2020),95 min,Action -  Horror -  Sci-Fi,5.9,"$80,000,000","17,291,078",87553,48
+299.,Death Note,(I) (2017),101 min,Crime -  Drama -  Fantasy,4.5,"$50,000,000",,87292,43
+300.,Christine,(1983),110 min,Horror -  Thriller,6.7,"$9,700,000","21,200,000",87050,57
+301.,Hide and Seek,(2005),101 min,Horror -  Mystery,5.9,"$30,000,000","51,100,486",86881,35
+302.,Fear Street: Part One - 1994,(2021),107 min,Drama -  Horror -  Mystery,6.2,,,85932,67
+303.,Horns,(2013),120 min,Comedy -  Crime -  Drama,6.4,,"164,480",85511,46
+304.,Slither,(2006),95 min,Comedy -  Horror -  Sci-Fi,6.5,"$15,000,000","7,774,730",85368,69
+305.,A Nightmare on Elm Street 3: Dream Warriors,(1987),96 min,Fantasy -  Horror,6.6,"$4,500,000","44,793,222",85183,49
+306.,The Wicker Man,(1973),88 min,Horror -  Mystery -  Thriller,7.5,"$810,000","60,891",84676,87
+307.,Audition,(1999),115 min,Drama -  Horror -  Mystery,7.1,,,84496,70
+308.,Suspiria,(I) (2018),152 min,Drama -  Fantasy -  Horror,6.7,"$20,000,000","2,474,044",84022,64
+309.,Stir of Echoes,(1999),99 min,Horror -  Mystery -  Thriller,6.9,"$12,000,000","21,133,087",83946,67
+310.,The New Mutants,(2020),94 min,Action -  Horror -  Mystery,5.3,"$67,000,000","23,855,569",83771,43
+311.,Mandy,(I) (2018),121 min,Action -  Fantasy -  Horror,6.5,"$6,000,000","1,214,525",83398,82
+312.,Jigsaw,(I) (2017),92 min,Horror -  Mystery -  Thriller,5.7,"$10,000,000","38,052,832",83199,39
+313.,Raw,(2016),99 min,Drama -  Horror,7.0,"€3,500,000","508,425",82622,81
+314.,Day Shift,(2022),113 min,Action -  Comedy -  Fantasy,6.1,"$100,000,000",,82552,51
+315.,The Uninvited,(2009),87 min,Drama -  Fantasy -  Horror,6.3,,"28,573,173",82361,43
+316.,The Human Centipede (First Sequence),(2009),92 min,Horror,4.4,"€1,500,000","181,467",82331,33
+317.,The Mothman Prophecies,(2002),119 min,Drama -  Horror -  Mystery,6.4,"$32,000,000","35,746,370",82309,52
+318.,The House That Jack Built,(2018),152 min,Crime -  Drama -  Horror,6.8,"€8,700,000","87,008",82229,42
+319.,Species,(1995),108 min,Action -  Horror -  Sci-Fi,5.8,"$35,000,000","60,074,103",82184,49
+320.,The Dead Don't Die,(2019),104 min,Comedy -  Fantasy -  Horror,5.4,,"6,563,605",81799,53
+321.,Deliver Us from Evil,(I) (2014),118 min,Action -  Adventure -  Crime,6.2,"$30,000,000","30,577,122",80664,40
+322.,Jaws 2,(1978),116 min,Adventure -  Horror -  Thriller,5.8,"$20,000,000","102,922,376",80612,51
+323.,Cabin Fever,(2002),93 min,Horror,5.6,"$1,500,000","21,158,188",80595,56
+324.,Little Shop of Horrors,(1986),94 min,Comedy -  Horror -  Musical,7.1,"$25,000,000","38,747,385",80276,81
+325.,Scary Stories to Tell in the Dark,(2019),108 min,Adventure -  Horror -  Mystery,6.2,"$25,000,000","68,947,075",79933,61
+326.,Annabelle Comes Home,(2019),106 min,Horror -  Mystery -  Thriller,5.9,"$30,000,000","74,152,591",79735,53
+327.,The Fourth Kind,(2009),98 min,Horror -  Mystery -  Sci-Fi,5.9,"$10,000,000","25,464,480",79574,34
+328.,Happy Death Day 2U,(2019),100 min,Comedy -  Horror -  Mystery,6.2,"$9,000,000","28,148,130",79075,57
+329.,Krampus,(I) (2015),98 min,Comedy -  Drama -  Fantasy,6.2,"$15,000,000","42,592,530",78822,49
+330.,House at the End of the Street,(2012),101 min,Drama -  Horror -  Thriller,5.5,"$10,000,000","31,611,916",78708,31
+331.,Halloween H20: 20 Years Later,(1998),86 min,Horror -  Thriller,5.8,"$17,000,000","55,041,738",78551,52
+332.,Hotel Transylvania 3: Summer Vacation,(2018),97 min,Animation -  Adventure -  Comedy,6.3,"$80,000,000","167,510,016",78486,54
+333.,Underworld: Blood Wars,(2016),91 min,Action -  Adventure -  Fantasy,5.7,"$35,000,000","30,353,973",78214,23
+334.,The Haunting,(1999),113 min,Fantasy -  Horror -  Mystery,5.0,"$80,000,000","91,411,151",78193,42
+335.,Unfriended,(2014),83 min,Horror -  Mystery -  Thriller,5.6,"$1,000,000","32,482,090",78151,59
+336.,The Fog,(1980),89 min,Horror -  Thriller,6.8,"$1,000,000","21,378,000",77806,55
+337.,The Ruins,(2008),90 min,Adventure -  Horror -  Thriller,5.9,"$8,000,000","17,432,844",77603,44
+338.,Dark Skies,(2013),97 min,Horror -  Sci-Fi -  Thriller,6.3,"$3,500,000","17,411,930",77556,50
+339.,Troll Hunter,(2010),103 min,Drama -  Fantasy -  Horror,6.9,"NOK 19,900,000","252,652",77196,61
+340.,I Still Know What You Did Last Summer,(1998),100 min,Horror -  Mystery -  Thriller,4.7,"$65,000,000","40,002,112",76102,21
+341.,[Rec]²,(2009),85 min,Horror -  Thriller,6.5,"$5,600,000","27,766",75556,52
+342.,Frankenstein,(1931),70 min,Drama -  Horror -  Sci-Fi,7.8,"$291,000",,75491,91
+343.,Wolf Creek,(2005),99 min,Horror -  Thriller,6.2,"$1,000,000","16,188,180",75239,54
+344.,Quarantine,(2008),89 min,Horror -  Sci-Fi -  Thriller,5.9,"$12,000,000","31,691,811",75108,53
+345.,The Texas Chainsaw Massacre: The Beginning,(2006),91 min,Horror -  Thriller,5.8,"$16,000,000","39,517,763",74837,30
+346.,Solomon Kane,(2009),104 min,Action -  Adventure -  Fantasy,6.1,"$45,000,000",,74792,48
+347.,High Tension,(2003),91 min,Horror,6.7,"€2,200,000","3,681,066",74446,42
+348.,Scary Movie V,(2013),86 min,Comedy -  Horror,3.5,"$20,000,000","32,015,787",74131,11
+349.,Fright Night,(1985),106 min,Fantasy -  Horror,7.0,"$9,000,000","24,922,237",74086,62
+350.,In the Mouth of Madness,(1994),95 min,Drama -  Fantasy -  Horror,7.1,"$8,000,000","8,946,600",73660,53
+351.,The Dead Zone,(1983),103 min,Drama -  Horror -  Sci-Fi,7.2,"$10,000,000","20,766,000",73308,69
+352.,The Witches of Eastwick,(1987),118 min,Comedy -  Fantasy -  Horror,6.5,"$22,000,000","63,766,510",73232,67
+353.,The Wailing,(2016),156 min,Drama -  Horror -  Mystery,7.4,"$6,420,000",,73194,81
+354.,Ringu,(1998),96 min,Horror -  Mystery,7.2,"$1,200,000",,73153,
+355.,Climax,(I) (2018),97 min,Drama -  Horror -  Music,6.9,"€2,600,000","804,112",73067,67
+356.,A Nightmare on Elm Street 2: Freddy's Revenge,(1985),87 min,Horror,5.4,"$3,000,000","29,999,213",73026,43
+357.,Arachnophobia,(1990),109 min,Comedy -  Horror -  Thriller,6.5,"$22,000,000","53,208,180",72321,67
+358.,Friday the 13th Part 2,(1981),87 min,Horror -  Mystery -  Thriller,6.1,"$1,250,000","21,722,776",72029,26
+359.,The Gift,(2000),111 min,Drama -  Fantasy -  Horror,6.7,"$10,000,000","12,008,642",71742,62
+360.,Day of the Dead,(1985),101 min,Horror -  Thriller,7.1,"$3,500,000","5,804,262",71387,60
+361.,Knock at the Cabin,(2023),100 min,Horror -  Mystery -  Thriller,6.1,"$20,000,000",,71342,63
+362.,Stigmata,(1999),103 min,Horror,6.2,"$29,000,000","50,046,268",70192,28
+363.,Spawn,(1997),96 min,Action -  Drama -  Horror,5.2,"$40,000,000","54,967,359",70110,34
+364.,Candyman,(2021),91 min,Horror -  Thriller,5.9,"$22,000,000","61,186,570",70012,72
+365.,The Wicker Man,(2006),102 min,Horror -  Mystery -  Thriller,3.7,"$40,000,000","23,643,531",69483,36
+366.,Urban Legend,(1998),99 min,Horror -  Mystery -  Thriller,5.6,"$14,000,000","38,072,438",68716,35
+367.,Fear Street: Part Two - 1978,(2021),109 min,Drama -  Horror -  Mystery,6.7,,,68599,61
+368.,Cube²: Hypercube,(2002),94 min,Horror -  Mystery -  Sci-Fi,5.5,,,68573,
+369.,Dead Snow,(2009),91 min,Comedy -  Fantasy -  Horror,6.3,"$800,000","41,709",68502,61
+370.,Brotherhood of the Wolf,(2001),142 min,Action -  Adventure -  Drama,7.0,"$29,000,000","11,260,096",68488,57
+371.,The Devil's Backbone,(2001),106 min,Drama -  Horror -  Thriller,7.4,"$4,500,000","754,749",68487,78
+372.,Paranormal Activity 4,(2012),88 min,Horror -  Mystery,4.6,"$5,000,000","53,921,300",68239,40
+373.,The Collector,(I) (2009),90 min,Action -  Horror -  Thriller,6.3,"$6,000,000","7,706,394",68233,29
+374.,Ouija: Origin of Evil,(2016),99 min,Drama -  Horror -  Mystery,6.2,"$9,000,000","35,144,505",68095,65
+375.,The Stepford Wives,(2004),93 min,Comedy -  Horror -  Sci-Fi,5.3,"$90,000,000","59,484,742",67884,42
+376.,The Awakening,(I) (2011),102 min,Drama -  Horror -  Mystery,6.4,"£3,000,000",,67690,53
+377.,Re-Animator,(1985),84 min,Comedy -  Horror -  Sci-Fi,7.2,"$900,000","2,023,414",67658,73
+378.,Jeepers Creepers 2,(2003),104 min,Horror,5.6,"$17,000,000","35,667,218",67635,36
+379.,The Midnight Meat Train,(2008),100 min,Horror -  Mystery -  Thriller,6.0,"$15,000,000","83,361",67303,58
+380.,Diabolique,(1955),117 min,Crime -  Drama -  Horror,8.1,,"1,090,000",67272,
+381.,Chernobyl Diaries,(2012),86 min,Horror -  Mystery -  Thriller,5.0,"$1,000,000","18,119,640",67248,
+382.,A Serbian Film,(2010),104 min,Horror -  Mystery -  Thriller,5.0,,,67239,
+383.,1922,(2017),102 min,Crime -  Drama -  Horror,6.2,,,66947,70
+384.,Scream VI,(2023),122 min,Horror -  Mystery -  Thriller,6.7,"$35,000,000",,66937,61
+385.,The Cabinet of Dr. Caligari,(1920),67 min,Horror -  Mystery -  Thriller,8.0,"$18,000",,66433,
+386.,The First Purge,(2018),97 min,Action -  Horror -  Sci-Fi,5.2,"$13,000,000","69,488,745",66254,54
+387.,Timecrimes,(2007),92 min,Horror -  Mystery -  Sci-Fi,7.1,"$2,600,000","38,108",65918,68
+388.,The Hills Have Eyes 2,(2007),89 min,Horror -  Thriller,5.1,"$15,000,000","20,804,166",65764,32
+389.,Red State,(2011),88 min,Action -  Crime -  Horror,6.1,"$4,000,000","1,104,682",65701,50
+390.,V/H/S,(2012),116 min,Horror,5.8,"$242,000","99,770",65143,54
+391.,Silent Hill: Revelation,(2012),95 min,Horror -  Mystery -  Thriller,4.9,"$20,000,000","17,529,157",65132,16
+392.,A Tale of Two Sisters,(2003),114 min,Drama -  Horror -  Mystery,7.1,,,64806,65
+393.,Freaky,(2020),102 min,Comedy -  Horror -  Thriller,6.3,"$5,000,000",,64366,67
+394.,The Return of the Living Dead,(1985),91 min,Comedy -  Horror -  Sci-Fi,7.3,"$4,000,000","14,237,000",64256,66
+395.,Dark Water,(2005),105 min,Drama -  Horror -  Mystery,5.6,"$30,000,000","25,473,352",64088,52
+396.,Vivarium,(2019),97 min,Horror -  Mystery -  Sci-Fi,5.9,"$4,000,000",,63940,64
+397.,Invasion of the Body Snatchers,(1978),115 min,Horror -  Sci-Fi,7.4,"$3,500,000","24,946,533",63701,75
+398.,Insidious: The Last Key,(2018),103 min,Horror -  Mystery -  Thriller,5.7,"$10,000,000","67,745,330",63547,49
+399.,Velvet Buzzsaw,(2019),113 min,Horror -  Mystery -  Thriller,5.7,,,63493,61
+400.,The Haunting in Connecticut,(2009),92 min,Drama -  Horror -  Mystery,5.8,"$10,000,000","55,389,516",63364,33
+401.,Lake Placid,(1999),82 min,Action -  Comedy -  Horror,5.8,"$35,000,000","31,770,414",63144,34
+402.,Dog Soldiers,(2002),105 min,Action -  Horror -  Thriller,6.8,"$2,000,000",,62733,
+403.,Mindhunters,(2004),106 min,Crime -  Horror -  Thriller,6.3,"$27,000,000","4,480,744",62551,33
+404.,Fresh,(2022),114 min,Horror -  Thriller,6.7,,,62506,67
+405.,Don't Breathe 2,(2021),98 min,Action -  Crime -  Horror,6.0,,"32,638,038",62446,46
+406.,The Darkest Hour,(2011),89 min,Action -  Adventure -  Horror,4.9,"$30,000,000","21,426,805",62236,18
+407.,The Girl with All the Gifts,(2016),111 min,Action -  Adventure -  Drama,6.6,"£4,000,000",,62079,67
+408.,The Possession,(I) (2012),92 min,Horror -  Mystery -  Thriller,5.9,"$14,000,000","49,130,154",61509,45
+409.,Vampires,(1998),108 min,Action -  Horror -  Thriller,6.1,"$20,000,000","20,241,395",61267,42
+410.,Bride of Chucky,(1998),89 min,Comedy -  Horror -  Thriller,5.6,"$25,000,000","32,404,188",61115,48
+411.,New Nightmare,(1994),112 min,Fantasy -  Horror -  Mystery,6.4,"$8,000,000","18,090,181",60957,64
+412.,Scooby-Doo 2: Monsters Unleashed,(2004),93 min,Adventure -  Comedy -  Family,5.2,"$80,000,000","84,216,833",60934,34
+413.,Circle,(II) (2015),87 min,Drama -  Horror -  Mystery,6.0,"$250,000",,60664,
+414.,The Omen,(2006),110 min,Drama -  Fantasy -  Horror,5.5,"$25,000,000","54,607,383",60627,43
+415.,Session 9,(2001),97 min,Drama -  Horror -  Mystery,6.4,"$1,500,000","378,176",60568,58
+416.,Grave Encounters,(2011),92 min,Horror -  Mystery,6.1,"CA$100,000",,60465,33
+417.,Creep,(I) (2014),77 min,Horror -  Thriller,6.3,,,60164,74
+418.,Halloween Ends,(2022),111 min,Horror -  Thriller,5.0,"$20,000,000",,59889,47
+419.,The Voices,(2014),103 min,Comedy -  Crime -  Horror,6.3,,,59645,58
+420.,In the Tall Grass,(2019),101 min,Horror -  Mystery -  Sci-Fi,5.4,,,59639,46
+421.,Poltergeist,(2015),93 min,Horror -  Thriller,4.9,"$35,000,000","47,425,125",59490,47
+422.,The Night House,(2020),107 min,Horror -  Mystery -  Thriller,6.5,,,59214,68
+423.,Truth or Dare,(I) (2018),100 min,Horror -  Thriller,5.2,"$3,500,000","41,411,015",58907,35
+424.,Eight Legged Freaks,(2002),99 min,Action -  Adventure -  Comedy,5.5,"$30,000,000","17,322,606",58689,53
+425.,What Ever Happened to Baby Jane?,(1962),134 min,Drama -  Horror -  Thriller,8.0,"$980,000","4,050,000",58668,75
+426.,Don't Look Now,(1973),110 min,Drama -  Horror -  Mystery,7.1,"$1,500,000","979,337",58603,95
+427.,Jason X,(2001),92 min,Action -  Horror -  Sci-Fi,4.4,"$11,000,000","13,121,555",58534,25
+428.,My Bloody Valentine,(2009),101 min,Horror -  Mystery -  Thriller,5.4,"$15,000,000","51,545,952",58435,51
+429.,A Nightmare on Elm Street 4: The Dream Master,(1988),93 min,Horror,5.6,"$13,000,000","49,369,899",58372,56
+430.,Scanners,(1981),103 min,Horror -  Sci-Fi -  Thriller,6.7,"CA$4,100,000","14,225,876",58363,60
+431.,House on Haunted Hill,(1999),93 min,Horror -  Mystery -  Thriller,5.6,"$37,000,000","40,846,082",58358,28
+432.,Stonehearst Asylum,(2014),112 min,Drama -  Horror -  Mystery,6.8,,,58351,52
+433.,Pride and Prejudice and Zombies,(2016),108 min,Action -  Comedy -  Fantasy,5.8,"$28,000,000","10,907,291",58281,45
+434.,Victor Frankenstein,(2015),110 min,Drama -  Horror -  Sci-Fi,5.9,"$65,000,000","5,775,076",58241,36
+435.,Wolf,(1994),125 min,Drama -  Horror -  Romance,6.2,"$70,000,000","65,012,000",58132,
+436.,Cannibal Holocaust,(1980),95 min,Adventure -  Horror,5.8,"$100,000",,58060,22
+437.,Tusk,(I) (2014),102 min,Comedy -  Horror,5.3,"$3,000,000","1,821,983",58050,55
+438.,Laxmii,(2020),141 min,Action -  Comedy -  Horror,2.5,,,57859,
+439.,Spiral,(2021),93 min,Horror -  Mystery -  Thriller,5.2,"$20,000,000",,57857,40
+440.,47 Meters Down,(2017),89 min,Adventure -  Drama -  Horror,5.6,"$5,300,000","44,307,193",57796,52
+441.,Resident Evil: Welcome to Raccoon City,(2021),107 min,Action -  Horror -  Sci-Fi,5.2,"$25,000,000","17,000,612",57786,44
+442.,Queen of the Damned,(2002),101 min,Drama -  Fantasy -  Horror,5.2,"$35,000,000","30,336,800",57770,30
+443.,Sinister 2,(2015),97 min,Horror -  Mystery -  Thriller,5.3,"$10,000,000","27,736,779",57424,32
+444.,Halloween II,(2009),105 min,Horror,4.7,"$15,000,000","33,392,973",57200,35
+445.,Fear Street: Part Three - 1666,(2021),114 min,Horror -  Mystery,6.6,,,57128,68
+446.,Mary Shelley's Frankenstein,(1994),123 min,Drama -  Horror -  Romance,6.3,"$45,000,000","22,006,296",57087,49
+447.,Halloween III: Season of the Witch,(1982),98 min,Horror -  Mystery -  Sci-Fi,5.1,"$2,500,000","14,400,000",57025,50
+448.,Goodnight Mommy,(2014),99 min,Horror -  Mystery -  Thriller,6.7,,"1,168,902",56812,81
+449.,Apollo 18,(2011),86 min,Horror -  Mystery -  Sci-Fi,5.2,"$5,000,000","17,686,929",56619,24
+450.,Friday the 13th Part III,(1982),95 min,Horror -  Thriller,5.6,"$2,300,000","36,690,067",56334,30
+451.,Texas Chainsaw Massacre,(2022),81 min,Crime -  Horror -  Thriller,4.7,"$20,000,000",,56262,34
+452.,Ghosts of Mars,(2001),98 min,Action -  Horror -  Sci-Fi,4.9,"$28,000,000","8,434,601",56080,35
+453.,Pearl,(2022),103 min,Drama -  Horror -  Thriller,7.0,,,55834,76
+454.,Vampire Academy,(2014),104 min,Action -  Comedy -  Drama,5.4,"$30,000,000","7,791,979",55815,31
+455.,Captive State,(2019),109 min,Action -  Horror -  Sci-Fi,6.0,"$25,000,000","5,958,315",55713,54
+456.,Ma,(I) (2019),99 min,Horror -  Mystery -  Thriller,5.6,"$5,000,000","45,373,120",55562,53
+457.,Apostle,(2018),130 min,Drama -  Fantasy -  Horror,6.3,,,55471,62
+458.,Halloween 4: The Return of Michael Myers,(1988),88 min,Horror -  Thriller,5.8,"$5,000,000","17,768,757",55458,34
+459.,How It Ends,(2018),113 min,Action -  Drama -  Horror,5.0,"$20,000,000",,55423,36
+460.,Odd Thomas,(2013),97 min,Comedy -  Fantasy -  Horror,6.8,"$27,000,000",,55162,45
+461.,Dracula,(1931),75 min,Drama -  Fantasy -  Horror,7.4,"$355,000",,55032,71
+462.,Open Water,(2003),79 min,Adventure -  Drama -  Horror,5.8,"$500,000","30,610,863",54996,63
+463.,Friday the 13th: The Final Chapter,(1984),91 min,Horror -  Thriller,6.0,"$2,600,000","32,980,000",54931,33
+464.,Repulsion,(1965),105 min,Drama -  Horror -  Thriller,7.6,"$300,000",,54875,91
+465.,The Eye,(2008),98 min,Horror -  Mystery,5.4,"$12,000,000","31,418,697",54816,36
+466.,Fantasy Island,(2020),109 min,Fantasy -  Horror -  Mystery,4.9,"$7,000,000","27,309,289",54811,22
+467.,Ouija,(II) (2014),89 min,Horror -  Mystery -  Thriller,4.5,"$5,000,000","50,856,010",54673,38
+468.,Children of the Corn,(1984),92 min,Horror -  Thriller,5.6,"$800,000","14,568,989",54635,45
+469.,Night Watch,(2004),114 min,Action -  Fantasy -  Horror,6.4,"$4,200,000","1,487,477",54629,58
+470.,Child's Play 2,(1990),84 min,Horror -  Thriller,5.9,"$13,000,000","28,501,605",54296,37
+471.,Child's Play,(2019),90 min,Drama -  Horror -  Sci-Fi,5.7,"$10,000,000","29,208,403",53900,48
+472.,The Belko Experiment,(2016),89 min,Horror -  Thriller,6.1,"$5,000,000","10,164,675",53876,44
+473.,Texas Chainsaw,(2013),92 min,Horror -  Thriller,4.8,"$20,000,000","34,341,945",53442,
+474.,Mimic,(1997),105 min,Horror -  Sci-Fi,6.0,"$30,000,000","25,480,490",53349,55
+475.,The Curse of La Llorona,(2019),93 min,Horror -  Mystery -  Thriller,5.2,"$9,000,000","54,733,739",52976,41
+476.,Hellbound: Hellraiser II,(1988),97 min,Horror -  Thriller,6.4,"£3,000,000","11,090,735",52971,41
+477.,Tumbbad,(2018),104 min,Drama -  Fantasy -  Horror,8.2,,,52615,
+478.,The Unborn,(2009),88 min,Horror -  Mystery -  Thriller,4.7,"$16,000,000","42,670,410",52459,30
+479.,Scouts Guide to the Zombie Apocalypse,(2015),93 min,Action -  Comedy -  Horror,6.3,"$15,000,000","3,635,292",52442,32
+480.,The Witches,(1990),91 min,Adventure -  Comedy -  Family,6.8,,"10,360,553",52258,78
+481.,Invasion of the Body Snatchers,(1956),80 min,Drama -  Horror -  Sci-Fi,7.7,"$417,000",,52053,92
+482.,The Collection,(II) (2012),82 min,Action -  Adventure -  Horror,6.1,"$7,500,000","12,842,058",51681,38
+483.,Color Out of Space,(2019),111 min,Horror -  Mystery -  Sci-Fi,6.2,"$6,000,000",,51472,70
+484.,The Haunted Mansion,(2003),88 min,Comedy -  Family -  Fantasy,5.1,"$90,000,000","75,847,266",51333,34
+485.,The Lodge,(2019),108 min,Drama -  Horror -  Mystery,6.0,,,51328,64
+486.,Blood Red Sky,(2021),121 min,Action -  Adventure -  Drama,6.1,"€15,000,000",,51238,43
+487.,The Last Exorcism,(2010),87 min,Horror -  Mystery -  Thriller,5.7,"$1,800,000","41,034,350",50799,63
+488.,The Covenant,(2006),97 min,Action -  Adventure -  Fantasy,5.1,"$20,000,000","23,292,105",50666,19
+489.,Men,(2022),100 min,Drama -  Fantasy -  Horror,6.1,,,50560,65
+490.,Dead Ringers,(1988),116 min,Drama -  Horror -  Thriller,7.2,"$13,000,000","9,134,733",50486,86
+491.,Escape Room: Tournament of Champions,(2021),88 min,Action -  Adventure -  Horror,5.7,"$15,000,000","25,188,958",50450,48
+492.,The Bride of Frankenstein,(1935),75 min,Drama -  Horror -  Sci-Fi,7.8,"$397,024","4,360,000",50432,95
+493.,The Grudge 2,(2006),102 min,Horror -  Thriller,5.0,"$20,000,000","39,143,839",50358,33
+494.,Creepshow,(1982),120 min,Comedy -  Fantasy -  Horror,6.8,"$8,000,000","21,028,755",50224,59
+495.,Bubba Ho-Tep,(2002),92 min,Comedy -  Fantasy -  Horror,6.9,"$1,000,000","2,003,420",50033,57
+496.,Vampires Suck,(2010),82 min,Comedy -  Horror,3.4,"$20,000,000","36,661,504",49981,18
+497.,White Noise,(I) (2005),101 min,Drama -  Horror -  Mystery,5.5,"$10,000,000","56,386,759",49864,30
+498.,Titane,(2021),108 min,Drama -  Horror -  Sci-Fi,6.5,"€5,700,000",,49746,75
+499.,Don't Be Afraid of the Dark,(2010),99 min,Fantasy -  Horror -  Thriller,5.5,"$25,000,000","24,042,490",49713,56
+500.,Black Death,(2010),102 min,Action -  Drama -  History,6.4,,"22,554",49600,71
+501.,Psycho,(1998),105 min,Horror -  Mystery -  Thriller,4.6,"$60,000,000","21,456,130",49452,47
+502.,Ginger Snaps,(2000),108 min,Drama -  Fantasy -  Horror,6.8,"$5,000,000","2,554",49336,70
+503.,The Descent: Part 2,(2009),94 min,Adventure -  Horror -  Thriller,5.7,,,49106,
+504.,Thirst,(2009),134 min,Drama -  Fantasy -  Horror,7.1,"$5,000,000","296,441",49085,73
+505.,Flatliners,(2017),109 min,Drama -  Horror -  Mystery,5.2,"$19,000,000","16,866,403",48956,27
+506.,Before I Wake,(2016),97 min,Drama -  Fantasy -  Horror,6.2,,,48925,68
+507.,Bodies Bodies Bodies,(2022),94 min,Comedy -  Horror -  Thriller,6.2,,,48828,69
+508.,The House of the Devil,(2009),95 min,Horror -  Mystery,6.3,"$900,000","100,659",48799,73
+509.,The Final Girls,(2015),91 min,Comedy -  Fantasy -  Horror,6.5,"$6,538,513",,48636,59
+510.,Freddy's Dead: The Final Nightmare,(1991),89 min,Fantasy -  Horror,4.7,"$11,000,000","34,872,033",48521,39
+511.,Diary of the Dead,(2007),95 min,Fantasy -  Horror -  Sci-Fi,5.5,"$2,000,000","958,961",48301,66
+512.,Freaks,(1932),64 min,Drama -  Horror,7.8,"$310,607","630,020",48191,80
+513.,A Haunted House,(2013),86 min,Comedy -  Fantasy -  Horror,5.0,"$2,500,000","40,041,683",48115,20
+514.,A Nightmare on Elm Street: The Dream Child,(1989),89 min,Fantasy -  Horror,5.0,"$6,000,000","22,168,359",48043,54
+515.,Unsane,(2018),98 min,Drama -  Horror -  Mystery,6.4,"$1,500,000","7,732,899",48041,63
+516.,Bad Taste,(1987),91 min,Comedy -  Horror -  Sci-Fi,6.5,"NZ$200,000",,47996,52
+517.,Cujo,(1983),93 min,Horror -  Thriller,6.1,"$5,000,000","21,200,000",47946,57
+518.,The Silence,(II) (2019),90 min,Drama -  Horror -  Sci-Fi,5.3,,,47774,25
+519.,Blair Witch,(2016),89 min,Horror -  Mystery -  Thriller,5.0,"$5,000,000","20,777,061",47690,47
+520.,Friday the 13th Part VI: Jason Lives,(1986),86 min,Horror -  Thriller,6.0,"$3,000,000","19,472,057",47557,30
+521.,Hobo with a Shotgun,(2011),86 min,Action -  Comedy -  Horror,6.1,"$3,000,000","703,002",47415,55
+522.,Seed of Chucky,(2004),87 min,Comedy -  Horror -  Thriller,4.9,"$12,000,000","17,083,732",47380,46
+523.,Jaws: The Revenge,(1987),89 min,Adventure -  Horror -  Thriller,3.0,"$23,000,000","20,763,013",47343,15
+524.,Time Lapse,(2014),104 min,Horror -  Sci-Fi -  Thriller,6.5,,,47212,50
+525.,When a Stranger Calls,(2006),87 min,Horror -  Thriller,5.1,"$15,000,000","47,860,214",47126,27
+526.,Buffy the Vampire Slayer,(1992),86 min,Action -  Comedy -  Fantasy,5.7,"$7,000,000","16,624,456",46835,48
+527.,Shutter,(II) (2004),97 min,Horror -  Mystery -  Thriller,7.0,,,46763,
+528.,Prince of Darkness,(1987),102 min,Horror,6.7,"$3,000,000","14,182,492",46744,50
+529.,Halloween: Resurrection,(2002),90 min,Horror -  Thriller,3.9,"$13,000,000","30,354,442",46730,19
+530.,The Green Inferno,(2013),100 min,Adventure -  Horror,5.3,"$5,000,000","7,192,291",46498,38
+531.,The Perfection,(2018),90 min,Drama -  Horror -  Music,6.2,,,46418,60
+532.,The Colony,(I) (2013),95 min,Action -  Horror -  Sci-Fi,5.3,"$16,000,000",,46187,28
+533.,Alone in the Dark,(2005),96 min,Action -  Horror -  Sci-Fi,2.4,"$20,000,000","5,178,569",46178,9
+534.,Ju-on: The Grudge,(2002),92 min,Horror,6.7,"$3,500,000","325,661",46152,48
+535.,Jaws 3-D,(1983),99 min,Adventure -  Horror -  Thriller,3.7,"$20,500,000","45,517,055",45719,27
+536.,Cargo,(I) (2017),105 min,Drama -  Horror -  Sci-Fi,6.3,,,45636,65
+537.,Revenge,(II) (2017),108 min,Action -  Drama -  Horror,6.4,"$3,000,000","102,091",45520,81
+538.,The Endless,(I) (2017),111 min,Drama -  Fantasy -  Horror,6.5,,"272,020",45490,80
+539.,The Babysitter: Killer Queen,(2020),101 min,Comedy -  Horror,5.8,,,45459,22
+540.,Maggie,(I) (2015),95 min,Drama -  Horror -  Sci-Fi,5.6,,"187,112",45396,52
+541.,Idle Hands,(1999),92 min,Comedy -  Fantasy -  Horror,6.2,"$25,000,000","4,002,955",44918,31
+542.,Teeth,(I) (2007),94 min,Comedy -  Fantasy -  Horror,5.4,,"347,578",44853,57
+543.,The Lazarus Effect,(2015),83 min,Horror -  Mystery -  Sci-Fi,5.2,"$3,300,000","25,799,043",44850,31
+544.,His House,(2020),93 min,Drama -  Horror -  Thriller,6.5,,,44741,72
+545.,Byzantium,(2012),118 min,Drama -  Fantasy -  Horror,6.5,"£8,000,000","84,293",44716,66
+546.,Morgan,(2016),92 min,Action -  Horror -  Sci-Fi,5.8,"$8,000,000","3,912,052",44703,48
+547.,Sleep Tight,(2011),102 min,Crime -  Drama -  Horror,7.2,"$5,000,000",,44505,70
+548.,Halloween 5: The Revenge of Michael Myers,(1989),96 min,Horror -  Thriller,4.9,"$5,000,000","11,642,254",44445,28
+549.,The Forest,(I) (2016),93 min,Horror -  Mystery -  Thriller,4.8,"$10,000,000","26,583,369",44342,34
+550.,The Hidden Face,(2011),97 min,Drama -  Horror -  Mystery,7.3,"$2,600,000",,44210,
+551.,Black Christmas,(1974),98 min,Horror -  Mystery -  Thriller,7.1,"$620,000","4,053,000",44181,65
+552.,Paranormal Activity: The Marked Ones,(2014),84 min,Horror -  Mystery,5.0,"$5,000,000","32,462,372",44084,42
+553.,Piranha 3DD,(2012),83 min,Comedy -  Horror -  Sci-Fi,3.8,"$5,000,000","376,512",43971,24
+554.,The Reaping,(2007),99 min,Horror -  Thriller,5.6,"$40,000,000","25,117,498",43888,36
+555.,Night of the Living Dead,(1990),92 min,Horror,6.8,"$4,200,000","5,835,247",43776,54
+556.,Verónica,(I) (2017),105 min,Horror,6.2,,,43761,
+557.,The Ward,(2010),89 min,Horror -  Mystery -  Thriller,5.5,"$10,000,000",,43565,38
+558.,Child's Play 3,(1991),90 min,Horror -  Thriller,5.1,"$13,000,000","14,960,255",43553,27
+559.,Dracula: Dead and Loving It,(1995),88 min,Comedy -  Fantasy -  Horror,5.8,"$30,000,000","10,772,144",43417,
+560.,The Witches,(2020),106 min,Adventure -  Comedy -  Family,5.3,,"203,571",43396,47
+561.,Stake Land,(2010),98 min,Drama -  Horror -  Sci-Fi,6.4,"$650,000","18,469",43338,66
+562.,#Alive,(2020),98 min,Action -  Drama -  Horror,6.3,,,43169,
+563.,Summer of 84,(2018),105 min,Drama -  Horror -  Mystery,6.7,,"85,200",43051,57
+564.,Would You Rather,(2012),93 min,Horror -  Thriller,5.7,,,42992,20
+565.,Shadow of the Vampire,(2000),92 min,Drama -  Horror,6.9,"$8,000,000","8,293,784",42959,71
+566.,Kill List,(2011),95 min,Action -  Crime -  Horror,6.4,"£500,000","26,297",42681,67
+567.,Evil Dead Rise,(2023),96 min,Horror,7.0,"$12,000,000",,42641,69
+568.,Inside,(2007),82 min,Horror,6.7,"€2,400,000",,42564,
+569.,Near Dark,(1987),94 min,Horror,6.9,"$5,000,000","3,369,307",42496,78
+570.,The Addams Family,(2019),86 min,Animation -  Comedy -  Family,5.8,"$24,000,000","100,044,905",42487,46
+571.,The Loved Ones,(2009),84 min,Crime -  Horror,6.6,,,42315,73
+572.,The Tall Man,(2012),106 min,Crime -  Drama -  Horror,5.9,"€15,000,000",,42116,52
+573.,Dead Calm,(1989),96 min,Horror -  Thriller,6.8,"$10,400,000","7,825,009",42060,70
+574.,Better Watch Out,(II) (2016),89 min,Comedy -  Horror -  Thriller,6.5,,"20,369",41872,67
+575.,Rings,(2017),102 min,Drama -  Horror -  Mystery,4.5,"$25,000,000","27,793,018",41850,25
+576.,V/H/S/2,(2013),96 min,Horror -  Sci-Fi,6.0,,"21,833",41766,49
+577.,The Amityville Horror,(1979),117 min,Horror,6.1,"$4,700,000","86,432,520",41633,28
+578.,Ravenous,(1999),101 min,Adventure -  Drama -  Horror,6.9,"$12,000,000","2,060,953",41447,46
+579.,Countdown,(III) (2019),90 min,Horror -  Thriller,5.4,"$6,500,000",,41408,31
+580.,Regression,(I) (2015),106 min,Adventure -  Crime -  Drama,5.6,"$20,000,000","54,734",41388,32
+581.,Terrifier,(2016),85 min,Horror -  Thriller,5.6,"$35,000",,41383,
+582.,Black Sheep,(2006),87 min,Comedy -  Horror -  Sci-Fi,5.8,,"82,987",41329,62
+583.,Curse of Chucky,(2013),97 min,Horror -  Thriller,5.6,"$5,000,000","3,800,000",41302,58
+584.,Saint Maud,(2019),84 min,Drama -  Horror -  Mystery,6.7,,,41291,83
+585.,Killer Klowns from Outer Space,(1988),88 min,Comedy -  Horror -  Sci-Fi,6.2,"$2,000,000","15,625,095",41251,43
+586.,Hellraiser,(2022),121 min,Horror -  Mystery -  Thriller,6.0,,,41157,55
+587.,Antlers,(2021),99 min,Drama -  Horror -  Mystery,5.9,,,41153,57
+588.,Friday the 13th: A New Beginning,(1985),92 min,Horror -  Mystery -  Thriller,4.7,"$2,200,000","21,930,418",40811,16
+589.,The Haunting,(1963),112 min,Horror,7.4,"$1,400,000","2,616,000",40595,74
+590.,The Human Centipede 2 (Full Sequence),(2011),91 min,Horror,3.8,,"122,890",40576,17
+591.,The Messengers,(2007),90 min,Drama -  Horror -  Mystery,5.3,"$16,000,000","35,374,833",40535,34
+592.,Possessor,(2020),103 min,Horror -  Mystery -  Sci-Fi,6.5,,,40509,72
+593.,Thesis,(1996),125 min,Crime -  Horror -  Mystery,7.4,"€721,214",,40399,
+594.,Bones and All,(2022),131 min,Drama -  Horror -  Romance,6.8,"$16,000,000",,40346,74
+595.,Friday the 13th Part VIII: Jason Takes Manhattan,(1989),100 min,Adventure -  Horror -  Thriller,4.5,"$5,000,000","14,343,976",40181,14
+596.,The Blob,(1988),95 min,Horror -  Sci-Fi -  Thriller,6.6,"$19,000,000","8,247,943",40133,
+597.,The Roommate,(I) (2011),91 min,Drama -  Horror -  Thriller,4.8,"$16,000,000","37,300,107",40107,23
+598.,The Cave,(2005),97 min,Adventure -  Horror -  Sci-Fi,5.1,"$30,000,000","15,007,991",40080,30
+599.,Deep Red,(1975),127 min,Horror -  Mystery -  Thriller,7.5,,,39986,89
+600.,Severance,(2006),96 min,Comedy -  Horror,6.4,"£5,000,000","136,432",39747,62
+601.,Turistas,(2006),93 min,Horror -  Mystery -  Thriller,5.4,"$10,000,000","7,025,803",39597,36
+602.,Halloween: The Curse of Michael Myers,(1995),87 min,Horror -  Thriller,4.7,"$5,000,000","15,116,634",39535,10
+603.,John Dies at the End,(2012),99 min,Comedy -  Fantasy -  Horror,6.3,,"141,307",39404,53
+604.,Friday the 13th Part VII: The New Blood,(1988),88 min,Horror -  Thriller,5.2,"$2,800,000","19,170,001",39391,13
+605.,Twilight Zone: The Movie,(1983),101 min,Horror -  Sci-Fi,6.4,"$10,000,000","29,500,000",39381,44
+606.,Plan 9 from Outer Space,(1957),79 min,Horror -  Sci-Fi,3.9,"$60,000",,39371,56
+607.,Splinter,(I) (2008),82 min,Crime -  Horror -  Sci-Fi,6.1,,,39281,58
+608.,Book of Shadows: Blair Witch 2,(2000),90 min,Adventure -  Fantasy -  Horror,4.0,"$15,000,000","26,437,094",39024,15
+609.,Maniac,(2012),89 min,Horror -  Thriller,6.1,"$6,000,000","20,551",38903,47
+610.,Phantasm,(1979),89 min,Horror -  Sci-Fi,6.6,"$300,000","11,988,469",38869,72
+611.,Deep Rising,(1998),97 min,Action -  Adventure -  Horror,6.1,"$45,000,000","11,203,026",38792,
+612.,Orphan: First Kill,(2022),99 min,Crime -  Drama -  Horror,5.9,"$10,000,000",,38780,54
+613.,The Void,(I) (2016),90 min,Horror -  Mystery -  Sci-Fi,5.9,,"150,372",38742,62
+614.,The Last House on the Left,(1972),84 min,Crime -  Horror -  Thriller,5.9,"$90,000","3,100,000",38628,68
+615.,Rubber,(2010),82 min,Comedy -  Fantasy -  Horror,5.7,"$500,000","98,017",38588,59
+616.,May,(2002),93 min,Comedy -  Drama -  Horror,6.6,"$500,000","150,277",38569,58
+617.,Henry: Portrait of a Serial Killer,(1986),83 min,Biography -  Crime -  Drama,7.0,"$111,000","609,939",38284,80
+618.,Eli,(I) (2019),98 min,Drama -  Horror -  Mystery,5.8,"$14,113,729",,38218,
+619.,White Noise,(I) (2022),136 min,Comedy -  Drama -  Horror,5.7,"$80,000,000",,38186,66
+620.,The Fog,(2005),100 min,Horror -  Mystery,3.7,"$18,000,000","29,511,112",38157,27
+621.,Nosferatu the Vampyre,(1979),107 min,Drama -  Horror,7.4,,,38049,79
+622.,High Life,(2018),113 min,Adventure -  Drama -  Horror,5.8,"€8,000,000","1,225,852",37918,78
+623.,The Howling,(1981),91 min,Horror,6.5,"$1,000,000","17,986,000",37918,68
+624.,The Last Days on Mars,(2013),98 min,Adventure -  Horror -  Sci-Fi,5.5,"£7,000,000","23,838",37904,46
+625.,Exorcist: The Beginning,(2004),114 min,Horror -  Mystery -  Thriller,5.1,"$80,000,000","41,821,986",37857,30
+626.,House of the Dead,(2003),90 min,Action -  Adventure -  Horror,2.1,"$12,000,000","10,249,719",37850,15
+627.,13 Sins,(2014),93 min,Horror -  Thriller,6.3,"$4,000,000","9,134",37657,44
+628.,The Divide,(2011),112 min,Drama -  Horror -  Sci-Fi,5.8,"$3,000,000","22,000",37607,28
+629.,The Forever Purge,(2021),103 min,Action -  Crime -  Horror,5.4,"$18,000,000","44,539,245",37383,53
+630.,The Lawnmower Man,(1992),108 min,Horror -  Sci-Fi,5.4,"$10,000,000","32,101,000",37360,42
+631.,The Invisible Man,(1933),71 min,Horror -  Sci-Fi,7.6,"$328,033",,37342,87
+632.,The Call,(2020),112 min,Crime -  Horror -  Mystery,7.1,,,37187,
+633.,Critters,(1986),86 min,Comedy -  Horror -  Sci-Fi,6.1,"$2,000,000","13,167,232",37130,52
+634.,Meet the Blacks,(2016),94 min,Comedy -  Horror,4.8,"$900,000","9,093,856",37099,26
+635.,Peeping Tom,(1960),101 min,Drama -  Horror -  Thriller,7.6,"£135,000","83,957",37077,
+636.,The People Under the Stairs,(1991),102 min,Comedy -  Horror -  Mystery,6.4,"$6,000,000","24,204,154",37022,57
+637.,The Hills Have Eyes,(1977),90 min,Horror -  Thriller,6.3,"$230,000","25,000,000",36967,64
+638.,A Girl Walks Home Alone at Night,(2014),101 min,Drama -  Horror -  Romance,6.9,,,36950,81
+639.,The Changeling,(1980),107 min,Horror -  Mystery,7.2,"CA$7,600,000",,36947,70
+640.,Prom Night,(I) (2008),88 min,Horror,3.9,"$20,000,000","43,869,350",36870,17
+641.,Manos: The Hands of Fate,(1966),70 min,Horror,1.6,"$19,000",,36862,
+642.,Altered States,(1980),102 min,Horror -  Sci-Fi -  Thriller,6.9,,"19,853,892",36704,58
+643.,[REC] 3: Genesis,(2012),80 min,Horror -  Thriller,5.0,"$6,400,000","8,973",36619,45
+644.,The Devil Inside,(2012),83 min,Horror,4.2,"$1,000,000","53,261,944",36601,18
+645.,Los ojos de Julia,(2010),118 min,Horror -  Mystery -  Thriller,6.7,"€5,000,000",,36368,
+646.,BloodRayne,(2005),95 min,Action -  Fantasy -  Horror,2.9,"$25,000,000","2,405,420",36316,18
+647.,Housebound,(2014),107 min,Comedy -  Horror -  Mystery,6.7,"NZ$350,000",,36307,76
+648.,Possession,(1981),124 min,Drama -  Horror,7.3,,"1,113,538",36275,75
+649.,Bug,(2006),102 min,Drama -  Horror -  Thriller,6.1,"$4,000,000","7,006,708",36253,62
+650.,The Innkeepers,(2011),101 min,Drama -  Horror -  Mystery,5.5,"$750,000","77,501",36194,64
+651.,Shutter,(I) (2008),85 min,Horror -  Mystery -  Thriller,5.2,"$8,000,000","25,926,543",36043,37
+652.,Slender Man,(I) (2018),93 min,Horror -  Mystery -  Thriller,3.2,"$10,000,000","30,569,484",35903,30
+653.,An American Crime,(2007),98 min,Biography -  Crime -  Drama,7.2,"$2,000,000",,35715,
+654.,Stree,(2018),128 min,Comedy -  Horror,7.5,,,35690,
+655.,The Open House,(2018),94 min,Horror -  Thriller,3.3,"$100,000",,35584,
+656.,Ghost Stories,(I) (2017),98 min,Drama -  Horror,6.4,,"135,095",35550,68
+657.,Incident in a Ghostland,(2018),91 min,Drama -  Horror -  Mystery,6.4,,,35540,44
+658.,Firestarter,(1984),114 min,Action -  Horror -  Sci-Fi,6.0,"$15,000,000","15,100,000",35508,50
+659.,Godzilla,(1954),83 min,Action -  Horror -  Sci-Fi,7.5,"$175,000","2,423,423",35506,78
+660.,The Taking of Deborah Logan,(2014),90 min,Horror -  Mystery -  Thriller,6.0,"$1,500,000",,35289,
+661.,Winchester,(2018),99 min,Drama -  Fantasy -  Horror,5.4,"$3,500,000","25,091,816",35272,28
+662.,6 Souls,(2010),112 min,Horror -  Thriller,6.0,"$22,000,000",,35242,28
+663.,P2,(2007),98 min,Crime -  Horror -  Thriller,5.9,"$8,000,000","3,992,339",35149,37
+664.,The Texas Chainsaw Massacre 2,(1986),101 min,Comedy -  Horror,5.6,"$4,700,000","8,025,872",35112,42
+665.,Dracula 2000,(2000),99 min,Action -  Fantasy -  Horror,4.9,"$54,000,000","33,022,767",35039,26
+666.,Unfriended: Dark Web,(2018),92 min,Horror -  Mystery -  Thriller,6.0,"$1,000,000","8,783,985",34979,53
+667.,Peninsula,(2020),116 min,Action -  Horror -  Thriller,5.5,"$16,000,000","1,231,407",34912,51
+668.,Day Watch,(2006),132 min,Action -  Fantasy -  Horror,6.4,"$4,200,000","450,686",34876,59
+669.,Sleepaway Camp,(1983),84 min,Horror,6.2,"$350,000","11,000,000",34855,58
+670.,The Rental,(2020),88 min,Drama -  Horror -  Mystery,5.7,"$3,500,000",,34850,62
+671.,Marrowbone,(2017),110 min,Adventure -  Drama -  Horror,6.7,"€8,000,000","1,377",34811,63
+672.,Synchronic,(2019),102 min,Drama -  Horror -  Mystery,6.2,,,34461,64
+673.,The Island of Dr. Moreau,(1996),96 min,Horror -  Sci-Fi -  Thriller,4.5,"$40,000,000","27,663,982",34414,37
+674.,Crimes of the Future,(2022),107 min,Drama -  Horror -  Sci-Fi,5.9,"$35,000,000",,34413,67
+675.,Jason Goes to Hell: The Final Friday,(1993),87 min,Fantasy -  Horror -  Thriller,4.1,"$3,000,000","15,935,068",34341,17
+676.,Thelma,(2017),116 min,Drama -  Fantasy -  Horror,7.0,"NOK 47,500,000","147,391",34329,74
+677.,The Exorcist III,(1990),110 min,Drama -  Horror -  Mystery,6.5,,"26,098,824",34251,48
+678.,Terrifier 2,(2022),138 min,Horror,6.2,"$250,000",,34074,59
+679.,Tideland,(2005),120 min,Drama -  Fantasy -  Horror,6.3,"$19,300,000","66,453",34003,26
+680.,King Kong,(1976),134 min,Adventure -  Horror,5.9,"$24,000,000","52,614,445",33968,61
+681.,All the Boys Love Mandy Lane,(2006),90 min,Horror -  Mystery -  Thriller,5.5,"$750,000",,33936,44
+682.,Cursed,(2005),97 min,Comedy -  Horror,5.0,"$38,000,000","19,297,522",33934,31
+683.,Hotel Transylvania 4: Transformania,(2022),87 min,Animation -  Adventure -  Comedy,6.0,,,33906,46
+684.,Mr. Harrigan's Phone,(2022),104 min,Drama -  Horror -  Mystery,6.0,,,33896,55
+685.,Maximum Overdrive,(1986),98 min,Action -  Comedy -  Horror,5.4,"$10,000,000","7,433,663",33869,24
+686.,Cam,(2018),94 min,Drama -  Horror -  Mystery,5.9,,,33829,71
+687.,Troll 2,(1990),95 min,Comedy -  Fantasy -  Horror,2.9,"$100,000",,33673,
+688.,The Monster Squad,(1987),79 min,Action -  Comedy -  Fantasy,6.9,"$12,000,000","3,769,990",33607,61
+689.,Damien: Omen II,(1978),107 min,Horror,6.2,"$6,800,000","3,880,880",33601,45
+690.,Pontypool,(2008),93 min,Horror -  Sci-Fi,6.5,"$950,000",,33601,54
+691.,Dark Water,(2002),101 min,Drama -  Horror -  Mystery,6.7,,,33576,
+692.,Host,(II) (2020),57 min,Horror -  Mystery,6.5,,,33541,73
+693.,Things Heard & Seen,(2021),121 min,Drama -  Horror -  Mystery,5.3,,,33513,49
+694.,The Bad Batch,(2016),118 min,Action -  Horror -  Mystery,5.2,"$6,000,000","177,680",33466,62
+695.,Vampire Hunter D: Bloodlust,(2000),103 min,Animation -  Action -  Drama,7.6,,"151,086",33378,62
+696.,Beast,(I) (2022),93 min,Action -  Adventure -  Drama,5.6,"$36,000,000","31,846,530",33361,54
+697.,Wrong Turn,(2021),109 min,Horror -  Thriller,5.5,,,33269,46
+698.,Hellraiser III: Hell on Earth,(1992),97 min,Horror,5.5,"$5,000,000","12,534,961",33171,50
+699.,Stay Alive,(2006),85 min,Fantasy -  Horror -  Mystery,5.0,"$7,000,000","23,086,480",33167,24
+700.,Eyes Without a Face,(1960),90 min,Drama -  Horror,7.6,,"52,709",33166,90
+701.,One Missed Call,(2008),87 min,Horror -  Mystery,4.0,"$20,000,000","26,876,529",33116,24
+702.,Village of the Damned,(1995),98 min,Horror -  Sci-Fi -  Thriller,5.6,"$22,000,000","9,417,567",33000,41
+703.,The Empty Man,(2020),137 min,Drama -  Horror -  Mystery,6.2,,,32842,
+704.,Pathology,(2008),95 min,Crime -  Horror -  Thriller,5.9,"$8,000,000","108,662",32816,55
+705.,Feast,(2005),95 min,Action -  Comedy -  Horror,6.2,"$3,200,000","54,556",32789,43
+706.,The Fearless Vampire Killers,(1967),91 min,Comedy -  Horror,7.1,"$2,000,000",,32692,56
+707.,Anacondas: The Hunt for the Blood Orchid,(2004),97 min,Action -  Adventure -  Horror,4.7,"$20,000,000","32,238,923",32612,40
+708.,Willy's Wonderland,(2021),88 min,Action -  Comedy -  Horror,5.5,"$5,500,000",,32611,44
+709.,Darkness Falls,(2003),86 min,Fantasy -  Horror -  Mystery,4.9,"$11,000,000","32,551,396",32549,23
+710.,The Strangers: Prey at Night,(2018),85 min,Horror,5.2,"$5,000,000","24,431,472",32536,48
+711.,Gretel & Hansel,(2020),87 min,Fantasy -  Horror -  Mystery,5.5,"$5,000,000","15,347,654",32260,64
+712.,Thinner,(1996),93 min,Fantasy -  Horror,5.8,"$8,000,000","15,171,475",32217,33
+713.,Dora and the Lost City of Gold,(2019),102 min,Action -  Adventure -  Comedy,6.1,"$49,000,000","60,477,943",32200,63
+714.,Creature from the Black Lagoon,(1954),79 min,Horror -  Sci-Fi,6.9,,"1,300,000",32183,68
+715.,The Brood,(1979),92 min,Horror -  Sci-Fi,6.8,"CA$1,400,000",,32164,63
+716.,Hatchet,(2006),93 min,Comedy -  Horror -  Thriller,5.6,"$1,500,000","155,873",32141,57
+717.,The Prophecy,(1995),98 min,Action -  Crime -  Drama,6.4,"$8,000,000","16,115,878",32129,44
+718.,Resident Evil: Degeneration,(2008),98 min,Animation -  Action -  Horror,6.4,,,32124,
+719.,Rogue,(2007),89 min,Action -  Drama -  Horror,6.2,"A$26,900,000","10,452",31986,
+720.,Lamb,(2021),106 min,Drama -  Fantasy -  Horror,6.3,,,31979,68
+721.,Haunt,(I) (2019),92 min,Horror -  Thriller,6.3,"$5,000,000",,31971,69
+722.,Bhool Bhulaiyaa 2,(2022),143 min,Comedy -  Drama -  Horror,5.7,,,31938,
+723.,Cronos,(1992),94 min,Drama -  Fantasy -  Horror,6.7,"$2,000,000","621,392",31764,70
+724.,Boogeyman,(2005),89 min,Drama -  Horror -  Mystery,4.2,"$20,000,000","46,752,382",31752,32
+725.,Watcher,(I) (2022),96 min,Drama -  Horror -  Thriller,6.3,,,31657,72
+726.,The Innocents,(1961),100 min,Horror,7.8,"£430,000","2,616,000",31556,88
+727.,Sorority Row,(2009),101 min,Horror -  Mystery,5.1,"$12,500,000","11,956,207",31507,24
+728.,The Thing from Another World,(1951),87 min,Horror -  Sci-Fi,7.1,"$1,600,000",,31358,
+729.,Them,(2006),77 min,Horror -  Thriller,6.4,,,31308,60
+730.,The Lords of Salem,(2012),101 min,Horror -  Thriller,5.2,"$1,500,000","1,163,508",31157,57
+731.,I Spit on Your Grave 2,(2013),106 min,Horror -  Thriller,5.7,,441,31035,
+732.,Club Dread,(2004),104 min,Comedy -  Horror -  Mystery,5.6,"$8,600,000","4,992,159",30779,45
+733.,Creep,(I) (2004),85 min,Horror -  Mystery -  Thriller,5.6,"£5,000,000",,30765,
+734.,Open Grave,(2013),102 min,Horror -  Mystery -  Sci-Fi,6.2,,,30563,33
+735.,Rare Exports,(2010),84 min,Adventure -  Fantasy -  Horror,6.6,"€1,948,000","263,210",30288,71
+736.,Dead End,(I) (2003),85 min,Adventure -  Horror -  Mystery,6.5,"$900,000",,30263,
+737.,I Know Who Killed Me,(2007),105 min,Horror -  Mystery -  Thriller,3.6,"$12,000,000","7,498,716",30244,16
+738.,Species II,(1998),93 min,Action -  Horror -  Sci-Fi,4.5,"$25,000,000","19,165,560",30156,19
+739.,House,(1977),88 min,Comedy -  Horror,7.3,,,30140,
+740.,Bhool Bhulaiyaa,(2007),159 min,Comedy -  Horror -  Mystery,7.4,,"1,069,952",30090,
+741.,The Toxic Avenger,(1984),82 min,Action -  Comedy -  Horror,6.2,"$475,000",,29992,42
+742.,Pulse,(I) (2006),90 min,Horror -  Sci-Fi -  Thriller,4.7,"$20,500,000","20,259,297",29961,27
+743.,The Oxford Murders,(2008),108 min,Crime -  Horror -  Mystery,6.1,"$10,000,000","3,607",29833,
+744.,Spring,(I) (2014),109 min,Horror -  Romance -  Sci-Fi,6.7,,"48,949",29763,70
+745.,Tale of Tales,(2015),134 min,Drama -  Fantasy -  Horror,6.4,"€12,000,000","80,809",29748,72
+746.,Fido,(2006),93 min,Comedy -  Drama -  Horror,6.7,"$8,000,000","298,110",29665,70
+747.,I Spit on Your Grave,(1978),101 min,Horror -  Thriller,5.6,"$650,000",,29660,19
+748.,Shin Godzilla,(2016),120 min,Action -  Drama -  Horror,6.8,,"1,918,403",29598,67
+749.,The Eye,(2002),99 min,Fantasy -  Horror -  Mystery,6.6,"SGD 4,500,000","503,714",29598,66
+750.,Sightseers,(2012),88 min,Adventure -  Comedy -  Crime,6.5,"£1,300,000","35,722",29472,69
+751.,Silver Bullet,(1985),95 min,Horror,6.4,"$7,000,000","5,400,000",29430,26
+752.,Paranormal Activity: The Ghost Dimension,(2015),88 min,Horror -  Mystery,4.6,"$10,000,000","18,300,124",29272,30
+753.,Zombie,(1979),91 min,Horror,6.8,"ITL 410,000,000",,29243,54
+754.,Valentine,(2001),96 min,Horror -  Mystery -  Thriller,4.9,"$29,000,000","20,384,136",29236,18
+755.,The Blue Elephant,(2014),170 min,Drama -  Horror -  Mystery,8.0,"$3,500,000",,29060,
+756.,Cell,(I) (2016),98 min,Action -  Adventure -  Horror,4.4,,,29054,38
+757.,Creep 2,(2017),78 min,Crime -  Drama -  Horror,6.4,,,28948,75
+758.,The Relic,(1997),110 min,Horror -  Mystery -  Sci-Fi,5.8,"$40,000,000","33,956,608",28927,55
+759.,The Woman in Black 2: Angel of Death,(2014),98 min,Drama -  Horror -  Thriller,4.8,"$15,000,000","26,496,583",28920,42
+760.,Virus,(1999),99 min,Action -  Horror -  Sci-Fi,5.0,"$75,000,000","14,010,690",28912,19
+761.,House on Haunted Hill,(1959),75 min,Crime -  Horror -  Mystery,6.8,"$200,000",,28900,
+762.,Bacurau,(2019),131 min,Action -  Adventure -  Drama,7.3,"R$7,700,000",,28890,82
+763.,Black Christmas,(2006),95 min,Horror,4.6,"$9,000,000","16,235,293",28885,22
+764.,The Resident,(2011),91 min,Crime -  Drama -  Horror,5.3,"$20,000,000",,28873,
+765.,Turbo Kid,(2015),93 min,Action -  Adventure -  Comedy,6.7,"CA$60,000","50,000",28838,60
+766.,Infinity Pool,(2023),117 min,Crime -  Horror -  Mystery,6.1,,,28837,72
+767.,Psycho II,(1983),113 min,Crime -  Horror -  Mystery,6.6,"$5,000,000","34,725,000",28818,54
+768.,Return to Oz,(1985),113 min,Adventure -  Family -  Fantasy,6.7,"$25,000,000",,28778,42
+769.,Under the Shadow,(2016),84 min,Drama -  Fantasy -  Horror,6.8,,"30,999",28739,83
+770.,The Wolf Man,(1941),70 min,Horror -  Mystery -  Romance,7.2,"$180,000",,28612,72
+771.,Leprechaun,(1993),92 min,Comedy -  Fantasy -  Horror,4.8,"$900,000","8,556,940",28555,17
+772.,47 Meters Down: Uncaged,(2019),90 min,Adventure -  Drama -  Horror,5.0,"$12,000,000","22,260,900",28549,43
+773.,Shadow in the Cloud,(2020),83 min,Action -  Horror -  War,5.0,,,28486,66
+774.,The Bay,(II) (2012),84 min,Horror -  Sci-Fi -  Thriller,5.7,,"30,474",28448,65
+775.,Poltergeist II: The Other Side,(1986),91 min,Horror,5.6,"$19,000,000","40,996,665",28403,49
+776.,House,(1985),93 min,Comedy -  Fantasy -  Horror,6.1,"$3,000,000","19,444,631",28399,44
+777.,Antebellum,(2020),105 min,Drama -  Horror -  Mystery,5.8,,,28372,43
+778.,Screamers,(1995),108 min,Horror -  Sci-Fi -  Thriller,6.3,"$20,000,000","5,781,885",28319,
+779.,Phenomena,(1985),116 min,Crime -  Horror -  Mystery,6.7,"$3,800,000",,28295,57
+780.,The Mummy,(1932),73 min,Fantasy -  Horror,7.0,"$196,000",,28233,
+781.,Relic,(2020),89 min,Drama -  Horror -  Mystery,6.0,,,28070,77
+782.,From Beyond,(1986),85 min,Horror -  Sci-Fi,6.6,"$4,500,000","1,261,000",28023,60
+783.,See No Evil,(2006),84 min,Action -  Horror -  Thriller,5.0,"$8,000,000","15,032,800",27974,17
+784.,Cry Wolf,(2005),90 min,Drama -  Horror -  Mystery,5.8,"$1,000,000","10,047,674",27939,39
+785.,The Bar,(2017),102 min,Horror -  Thriller,6.3,"€5,134,248",,27923,
+786.,Frontier(s),(2007),108 min,Horror,6.2,"$3,000,000",,27728,44
+787.,The Blob,(1958),86 min,Horror -  Sci-Fi,6.3,"$240,000",,27719,58
+788.,The Girl Next Door,(2007),91 min,Crime -  Drama -  Horror,6.5,,,27682,29
+789.,The Grudge,(I) (2020),94 min,Fantasy -  Horror,4.4,"$10,000,000",,27669,41
+790.,The Hunger,(1983),97 min,Drama -  Horror,6.6,,"5,979,292",27633,52
+791.,The Prodigy,(2019),92 min,Fantasy -  Horror -  Mystery,5.9,"$6,000,000","14,856,291",27408,45
+792.,Lifeforce,(1985),101 min,Action -  Horror -  Mystery,6.1,"$25,000,000","11,603,545",27342,50
+793.,Cult of Chucky,(2017),91 min,Horror -  Thriller,5.2,,,27257,69
+794.,Cooties,(2014),88 min,Action -  Comedy -  Horror,5.7,,"55,749",27096,49
+795.,Friend Request,(2016),92 min,Horror -  Mystery -  Thriller,5.2,"$9,900,000","3,759,046",27072,31
+796.,Bhoot Police,(2021),129 min,Comedy -  Horror,6.9,,,26960,
+797.,Creepshow 2,(1987),92 min,Fantasy -  Horror,6.0,"$3,500,000","14,000,000",26917,39
+798.,The Vanishing,(1993),109 min,Drama -  Horror -  Mystery,6.3,"$20,000,000","14,543,394",26840,49
+799.,Vanishing on 7th Street,(2010),92 min,Horror -  Mystery -  Thriller,4.9,"$10,000,000","22,197",26739,50
+800.,One Cut of the Dead,(2017),96 min,Comedy -  Drama -  Horror,7.6,"¥3,000,000",,26726,86
+801.,American Mary,(2012),103 min,Drama -  Horror,6.2,,,26724,46
+802.,Cat's Eye,(1985),94 min,Comedy -  Horror -  Thriller,6.3,"$7,000,000","13,086,000",26710,70
+803.,Renfield,(2023),93 min,Comedy -  Fantasy -  Horror,6.4,"$65,000,000",,26660,53
+804.,Honeymoon,(2014),87 min,Drama -  Fantasy -  Horror,5.7,"$1,000,000","9,168",26624,65
+805.,The Serpent and the Rainbow,(1988),98 min,Fantasy -  Horror,6.4,"$7,000,000","19,595,031",26606,64
+806.,Shark Night,(2011),90 min,Horror -  Thriller,4.0,"$25,000,000","18,872,522",26580,22
+807.,Speak No Evil,(2022),97 min,Drama -  Horror -  Thriller,6.6,"$3,200,000",,26438,78
+808.,Berlin Syndrome,(2017),116 min,Drama -  Horror -  Mystery,6.3,,"28,660",26369,70
+809.,Horror of Dracula,(1958),82 min,Drama -  Horror,7.2,"£81,000",,26349,67
+810.,An American Haunting,(2005),83 min,Drama -  Horror -  Mystery,5.0,"$14,000,000","16,298,046",26324,38
+811.,Needful Things,(1993),120 min,Crime -  Drama -  Fantasy,6.2,,"15,185,672",26189,43
+812.,Devil's Pass,(2013),100 min,Horror -  Mystery -  Thriller,5.7,,,26170,49
+813.,Grave Encounters 2,(2012),98 min,Horror -  Mystery,5.1,"$1,400,000",,26085,
+814.,Godsend,(2004),102 min,Action -  Drama -  Fantasy,4.8,"$25,000,000","14,379,751",26051,24
+815.,An American Werewolf in Paris,(1997),98 min,Comedy -  Fantasy -  Horror,5.1,"$25,000,000","26,570,463",26038,31
+816.,Carnival of Souls,(1962),78 min,Horror -  Mystery,7.0,"$30,000",,25982,
+817.,Exorcist II: The Heretic,(1977),117 min,Horror,3.8,"$14,000,000","30,749,142",25827,39
+818.,Dead Snow 2: Red vs. Dead,(2014),100 min,Action -  Comedy -  Fantasy,6.8,"NOK 35,000,000",,25726,59
+819.,Repo! The Genetic Opera,(2008),98 min,Horror -  Musical -  Sci-Fi,6.4,"$8,500,000","140,244",25723,32
+820.,Pumpkinhead,(1988),86 min,Fantasy -  Horror,6.2,"$3,500,000","4,385,516",25707,47
+821.,Leatherface,(2017),90 min,Crime -  Horror -  Thriller,5.0,,,25510,40
+822.,Tenebrae,(1982),101 min,Drama -  Horror -  Mystery,7.0,,,25500,83
+823.,Sputnik,(2020),113 min,Drama -  Horror -  Mystery,6.4,"RUR 190,000,000",,25491,61
+824.,The Pyramid,(2014),89 min,Horror -  Mystery -  Thriller,4.6,"$6,500,000","2,756,333",25375,24
+825.,Mom and Dad,(2017),86 min,Comedy -  Horror -  Thriller,5.5,"$7,000,000",,25333,59
+826.,We Have a Ghost,(2023),126 min,Adventure -  Comedy -  Family,6.1,,,25319,53
+827.,Lake Mungo,(2008),87 min,Drama -  Horror -  Mystery,6.3,"A$1,400,000",,25231,
+828.,The Invitation,(II) (2022),105 min,Horror -  Thriller,5.3,"$10,000,000",,25209,45
+829.,Clown,(2014),100 min,Horror -  Thriller,5.7,"$1,500,000","55,007",25201,42
+830.,The Woman,(I) (2011),101 min,Drama -  Horror -  Thriller,6.0,,,25040,58
+831.,The Bye Bye Man,(2017),96 min,Drama -  Fantasy -  Horror,4.3,"$7,400,000","22,377,458",25033,37
+832.,Tales from the Crypt: Demon Knight,(1995),92 min,Action -  Fantasy -  Horror,6.7,"$13,000,000","21,088,568",25032,48
+833.,Jessabelle,(2014),90 min,Drama -  Horror -  Mystery,5.4,,,24958,37
+834.,Demons,(1985),88 min,Horror,6.6,"$1,800,000",,24942,53
+835.,The Pact,(II) (2012),89 min,Horror -  Mystery -  Thriller,5.7,"$400,000",,24855,54
+836.,My Name Is Bruce,(2007),84 min,Comedy -  Fantasy -  Horror,6.2,"$1,500,000","173,066",24814,36
+837.,Night of the Creeps,(1986),88 min,Comedy -  Horror -  Sci-Fi,6.7,"$5,000,000","591,366",24798,62
+838.,Nightbreed,(1990),102 min,Action -  Fantasy -  Horror,6.5,"$11,000,000","8,862,354",24724,40
+839.,Bad Samaritan,(2018),110 min,Crime -  Horror -  Thriller,6.4,,"3,435,047",24724,42
+840.,Afflicted,(2013),85 min,Action -  Adventure -  Horror,6.2,,"121,179",24679,56
+841.,Behind the Mask: The Rise of Leslie Vernon,(2006),92 min,Comedy -  Horror -  Thriller,6.7,,"69,136",24662,66
+842.,The Unholy,(2021),99 min,Drama -  Horror -  Mystery,5.1,,,24633,36
+843.,ATM,(I) (2012),90 min,Horror -  Thriller,4.7,"$3,000,000","2,034",24605,34
+844.,The Trip,(2021),113 min,Action -  Comedy -  Horror,6.9,,,24446,
+845.,Super Dark Times,(2017),103 min,Crime -  Drama -  Horror,6.6,,"33,109",24414,75
+846.,Birdemic: Shock and Terror,(2010),105 min,Fantasy -  Horror -  Mystery,1.7,"$10,000",,24410,
+847.,The Fly,(1958),94 min,Drama -  Horror -  Sci-Fi,7.1,"$700,000","3,000,000",24364,62
+848.,Vampire in Brooklyn,(1995),100 min,Comedy -  Fantasy -  Horror,4.6,"$20,000,000","19,751,736",24319,27
+849.,Texas Chainsaw Massacre: The Next Generation,(1995),87 min,Comedy -  Horror -  Thriller,3.3,"$600,000","141,626",24308,50
+850.,Cat People,(1942),73 min,Fantasy -  Horror -  Thriller,7.2,"$134,000","4,000,000",24267,85
+851.,Wishmaster,(1997),90 min,Fantasy -  Horror,5.8,"$5,000,000","15,719,109",24188,
+852.,The Possession of Hannah Grace,(2018),86 min,Horror -  Mystery -  Thriller,5.2,"$7,700,000","14,837,422",24177,37
+853.,Tetsuo: The Iron Man,(1989),67 min,Horror -  Sci-Fi,6.9,,,24161,
+854.,Wind Chill,(2007),91 min,Adventure -  Drama -  Horror,5.8,"$6,000,000","20,146",24010,52
+855.,The Beyond,(1981),87 min,Horror,6.6,"$400,000","123,843",23994,38
+856.,Disturbing Behavior,(1998),84 min,Horror -  Mystery -  Sci-Fi,5.6,"$15,000,000","17,411,331",23987,
+857.,Igor,(2008),87 min,Animation -  Comedy -  Family,5.9,"$25,000,000","19,528,602",23827,40
+858.,The Blackcoat's Daughter,(I) (2015),93 min,Horror -  Mystery -  Thriller,5.9,,"19,980",23791,68
+859.,The Fly II,(1989),105 min,Drama -  Horror -  Sci-Fi,5.1,,"20,021,322",23787,36
+860.,Awake,(III) (2021),96 min,Action -  Adventure -  Drama,4.9,,,23753,35
+861.,Excision,(2012),81 min,Comedy -  Drama -  Horror,6.1,,,23559,
+862.,Silent House,(2011),86 min,Horror -  Thriller,5.2,"$2,000,000","12,555,230",23465,49
+863.,Sleepwalkers,(1992),91 min,Fantasy -  Horror,5.3,"$15,000,000","30,524,763",23455,38
+864.,My Bloody Valentine,(1981),90 min,Horror -  Mystery -  Thriller,6.2,"CA$2,300,000","5,672,031",23445,46
+865.,Captivity,(2007),96 min,Crime -  Horror -  Mystery,4.6,"$17,000,000","2,626,800",23429,24
+866.,Choose or Die,(2022),84 min,Drama -  Horror -  Thriller,4.8,,,23348,43
+867.,Mayhem,(2017),86 min,Action -  Comedy -  Horror,6.4,,,23276,62
+868.,Hellraiser: Bloodline,(1996),85 min,Horror -  Sci-Fi,5.0,"$4,000,000","16,675,000",23271,21
+869.,Hidden,(I) (2015),84 min,Horror -  Sci-Fi -  Thriller,6.4,,,23264,
+870.,Below,(2002),105 min,Action -  Horror -  Mystery,6.1,"$40,000,000","605,562",23238,55
+871.,You Should Have Left,(2020),93 min,Horror -  Thriller,5.4,,,23169,46
+872.,Piranha,(1978),94 min,Comedy -  Horror -  Sci-Fi,5.9,"$600,000","6,000,000",23078,71
+873.,Them!,(1954),94 min,Horror -  Sci-Fi,7.2,,,23003,74
+874.,The Pope's Exorcist,(2023),103 min,Horror -  Thriller,6.1,"$18,000,000",,23002,45
+875.,Alone,(V) (2020),98 min,Drama -  Horror -  Mystery,6.2,"$750,000",,22993,70
+876.,The Wolf of Snow Hollow,(2020),85 min,Comedy -  Horror -  Mystery,6.2,"$2,000,000",,22917,67
+877.,Jeepers Creepers III,(2017),100 min,Horror,3.9,"$6,200,000","2,235,162",22911,
+878.,Pulse,(2001),119 min,Horror -  Mystery -  Sci-Fi,6.5,,"49,046",22892,70
+879.,Cat People,(1982),118 min,Fantasy -  Horror -  Thriller,6.2,"$18,000,000","7,000,000",22748,61
+880.,Inferno,(1980),106 min,Horror,6.5,"ITL 3,000,000",,22647,69
+881.,Life After Beth,(2014),89 min,Comedy -  Fantasy -  Horror,5.6,"$2,400,000","80,315",22633,50
+882.,The Day of the Beast,(1995),99 min,Action -  Comedy -  Crime,7.3,"€2,100,000","15,324",22617,
+883.,Backcountry,(I) (2014),92 min,Adventure -  Drama -  Horror,6.0,,,22532,62
+884.,The Bird with the Crystal Plumage,(1970),96 min,Horror -  Mystery -  Thriller,7.1,"$500,000","422,490",22530,
+885.,Doghouse,(2009),89 min,Comedy -  Horror -  Sci-Fi,6.0,"$4,000,000",,22482,
+886.,A Haunted House 2,(2014),86 min,Comedy -  Fantasy -  Horror,4.7,"$4,000,000","17,329,486",22469,17
+887.,Little Evil,(2017),94 min,Comedy -  Fantasy -  Horror,5.7,,,22358,
+888.,My Friend Dahmer,(2017),107 min,Biography -  Drama -  Horror,6.2,,"1,355,664",22334,68
+889.,Pet Sematary II,(1992),100 min,Fantasy -  Horror -  Thriller,4.9,"$8,000,000","17,092,453",22250,35
+890.,Goosebumps 2: Slappy's Revenge,(2018),90 min,Adventure -  Comedy -  Fantasy,5.6,"$35,000,000","46,700,633",22231,53
+891.,Santa Sangre,(1989),123 min,Drama -  Horror -  Thriller,7.5,"$787,000",,22223,
+892.,Night of the Comet,(1984),95 min,Comedy -  Horror -  Sci-Fi,6.3,"$700,000","14,418,922",22172,59
+893.,Cemetery Man,(1994),105 min,Comedy -  Horror,7.1,"$4,000,000","253,969",22157,
+894.,No One Lives,(2012),86 min,Horror -  Thriller,5.9,"$2,900,000","72,140",22122,26
+895.,Shivers,(1975),87 min,Horror -  Sci-Fi,6.4,"CA$185,000",,22115,58
+896.,Feardotcom,(2002),101 min,Crime -  Horror -  Thriller,3.4,"$40,000,000","13,208,023",22038,16
+897.,The Room,(2019),100 min,Drama -  Fantasy -  Horror,6.0,"€4,000,000",,22032,
+898.,Survival of the Dead,(2009),90 min,Comedy -  Drama -  Horror,4.8,"$4,000,000","101,740",21983,43
+899.,Leviathan,(1989),98 min,Adventure -  Horror -  Mystery,5.8,"$25,000,000","15,704,614",21842,51
+900.,Werewolves Within,(2021),97 min,Comedy -  Horror -  Mystery,6.0,,,21745,66
+901.,31,(2016),102 min,Horror -  Thriller,5.1,"$1,500,000","779,820",21734,35
+902.,The Poughkeepsie Tapes,(2007),81 min,Horror -  Mystery -  Thriller,6.0,,,21660,
+903.,Wish Upon,(2017),90 min,Drama -  Fantasy -  Horror,5.0,"$12,000,000","14,301,505",21632,32
+904.,We Are What We Are,(2013),105 min,Drama -  Horror -  Thriller,5.9,,"76,633",21620,71
+905.,Phantoms,(1998),96 min,Horror -  Sci-Fi -  Thriller,5.4,,"5,657,370",21600,26
+906.,The Signal,(2007),103 min,Horror -  Sci-Fi -  Thriller,6.0,"$50,000","597,420",21570,63
+907.,Hour of the Wolf,(1968),90 min,Drama -  Horror,7.5,,,21499,
+908.,Resident Evil: Damnation,(2012),100 min,Animation -  Action -  Horror,6.4,,,21408,
+909.,Starry Eyes,(2014),98 min,Horror -  Mystery,6.0,,,21384,49
+910.,The Tunnel,(I) (2011),94 min,Horror -  Mystery -  Thriller,5.8,"$135,000",,21376,
+911.,The Super,(2017),90 min,Horror -  Thriller,5.3,"$2,300,000",,21355,47
+912.,He Never Died,(2015),99 min,Comedy -  Drama -  Fantasy,6.3,,,21316,72
+913.,Wolf Creek 2,(2013),106 min,Horror -  Thriller,6.1,"$7,200,000",,21284,44
+914.,The Final Conflict,(1981),108 min,Horror,5.5,"$5,000,000","20,471,342",21257,34
+915.,Suicide Club,(2001),99 min,Crime -  Drama -  Horror,6.5,"$250,000",,21249,
+916.,No Good Deed,(I) (2014),84 min,Crime -  Drama -  Horror,5.6,"$13,200,000","52,543,632",21171,26
+917.,The Hidden,(1987),97 min,Horror -  Sci-Fi -  Thriller,7.0,"$5,000,000","9,747,988",21141,69
+918.,Knights of Badassdom,(2013),86 min,Action -  Adventure -  Comedy,5.6,,"86,796",21067,56
+919.,The Gallows,(2015),81 min,Horror -  Mystery -  Thriller,4.2,"$100,000","22,757,819",21062,30
+920.,My Soul to Take,(2010),107 min,Horror -  Mystery -  Thriller,4.7,"$25,000,000","14,637,490",21050,25
+921.,Intruders,(I) (2011),100 min,Adventure -  Fantasy -  Horror,5.4,"€10,000,000","69,136",20975,45
+922.,The Crow: City of Angels,(1996),84 min,Action -  Crime -  Fantasy,4.6,"$13,000,000","17,883,659",20922,
+923.,Last Shift,(I) (2014),88 min,Horror -  Mystery,5.8,,,20897,
+924.,Universal Soldier: Day of Reckoning,(2012),114 min,Action -  Horror -  Mystery,5.0,"$10,000,000","5,460",20868,58
+925.,The Quiet Ones,(2014),98 min,Horror -  Mystery -  Thriller,5.1,"$200,000","8,496,112",20743,41
+926.,Assassination Nation,(2018),108 min,Action -  Comedy -  Crime,6.0,"$7,000,000","1,959,204",20632,56
+927.,Phantom of the Paradise,(1974),91 min,Comedy -  Drama -  Fantasy,7.3,"$1,300,000","158,755",20605,67
+928.,Return of the Living Dead II,(1988),89 min,Comedy -  Horror -  Sci-Fi,5.7,"$6,200,000","9,205,924",20604,45
+929.,Below Zero,(2021),106 min,Action -  Adventure -  Crime,6.2,,,20517,
+930.,Vampire Killers,(2009),86 min,Action -  Comedy -  Fantasy,5.1,,,20487,
+931.,Nightwatch,(1997),101 min,Drama -  Horror -  Thriller,6.2,,"1,200,000",20453,40
+932.,The Burning,(1981),91 min,Horror,6.3,"$1,500,000",,20429,42
+933.,Basket Case,(1982),91 min,Comedy -  Horror,6.2,"$35,000",,20418,77
+934.,Southbound,(2015),89 min,Horror,5.9,,"6,250",20413,58
+935.,Society,(1989),99 min,Comedy -  Horror,6.5,"$2,000,000",,20349,50
+936.,The Devil's Candy,(2015),79 min,Drama -  Horror -  Thriller,6.4,,,20343,72
+937.,Wounds,(2019),95 min,Drama -  Horror -  Mystery,4.1,,,20334,51
+938.,The Last Man on Earth,(1964),86 min,Drama -  Horror -  Sci-Fi,6.7,"$300,000",,20311,
+939.,Three... Extremes,(2004),125 min,Horror,6.9,,"75,829",20307,66
+940.,The Apparition,(2012),82 min,Horror -  Thriller,4.1,"$17,000,000","4,930,798",20265,18
+941.,Quarantine 2: Terminal,(2011),86 min,Horror -  Sci-Fi -  Thriller,5.2,"$4,000,000",,20260,
+942.,Body Snatchers,(1993),87 min,Horror -  Sci-Fi,6.0,"$13,000,000","428,868",20253,65
+943.,Suspect Zero,(2004),99 min,Crime -  Horror -  Mystery,5.8,"$27,000,000","8,725,813",20236,37
+944.,The Hole in the Ground,(2019),90 min,Drama -  Horror -  Mystery,5.6,,"21,072",20213,63
+945.,Rabid,(1977),91 min,Horror -  Sci-Fi,6.3,"CA$530,000",,20186,56
+946.,The Reef,(2010),94 min,Adventure -  Drama -  Horror,5.8,,,20114,
+947.,A Sound of Thunder,(2005),110 min,Action -  Adventure -  Horror,4.2,"$80,000,000","1,891,821",20107,24
+948.,Onibaba,(1964),103 min,Drama -  Horror -  Thriller,7.9,,,20058,
+949.,A Classic Horror Story,(2021),95 min,Drama -  Horror -  Mystery,5.7,"€3,000,000",,20002,
+950.,Willard,(2003),100 min,Drama -  Horror -  Thriller,6.1,"$20,000,000","6,886,089",19986,61
+951.,Darkness,(2002),88 min,Horror,5.4,"$10,600,000","22,163,442",19971,15
+952.,Look Away,(2018),103 min,Drama -  Fantasy -  Horror,5.8,,,19968,
+953.,The Sacrament,(2013),99 min,Horror -  Thriller,6.1,"$4,000,000","9,039",19889,49
+954.,Night Teeth,(2021),107 min,Action -  Crime -  Drama,5.7,"$25,000,000",,19882,42
+955.,The ABCs of Death,(2012),129 min,Comedy -  Horror,4.7,,"21,660",19859,43
+956.,Cheap Thrills,(I) (2013),88 min,Comedy -  Crime -  Drama,6.7,"$200,000","59,379",19827,63
+957.,Cockneys vs Zombies,(2012),88 min,Action -  Comedy -  Horror,5.9,,,19822,52
+958.,Dagon,(2001),98 min,Fantasy -  Horror -  Mystery,6.2,"€4,200,000",,19753,
+959.,The Innocents,(2021),117 min,Drama -  Fantasy -  Horror,7.0,,,19615,79
+960.,Poltergeist III,(1988),98 min,Horror -  Thriller,4.7,"$10,500,000","14,114,488",19450,40
+961.,Prom Night,(1980),92 min,Horror -  Mystery -  Thriller,5.3,"CA$1,500,000","14,796,236",19400,45
+962.,Deadgirl,(2008),101 min,Horror,5.5,,,19387,36
+963.,Zombeavers,(2014),77 min,Comedy -  Horror,4.8,,"8,163",19367,44
+964.,We Are Still Here,(I) (2015),84 min,Horror -  Mystery,5.7,,,19336,65
+965.,The House,(III) (2022),97 min,Animation -  Comedy -  Drama,6.8,,,19333,
+966.,Elvira: Mistress of the Dark,(1988),96 min,Comedy -  Horror,6.5,"$7,500,000","5,596,267",19320,43
+967.,A Dark Song,(2016),100 min,Drama -  Fantasy -  Horror,6.2,,,19306,71
+968.,Open Water 2: Adrift,(2006),94 min,Adventure -  Drama -  Horror,5.2,"€1,200,000",,19305,
+969.,Vampyr,(1932),75 min,Fantasy -  Horror,7.4,,,19305,
+970.,Vampire's Kiss,(1988),92 min,Comedy -  Crime -  Fantasy,6.1,"$2,000,000","725,131",19211,30
+971.,Sisters,(1972),93 min,Horror -  Mystery -  Thriller,6.9,"$500,000","353,508",19178,70
+972.,Absentia,(I) (2011),87 min,Drama -  Horror -  Mystery,5.8,"$70,000",,19173,
+973.,The Phantom of the Opera,(1925),93 min,Horror,7.5,,"3,751,476",19145,
+974.,The Dark and the Wicked,(2020),95 min,Horror,6.1,,,19120,72
+975.,House of Wax,(1953),88 min,Horror,7.0,"$1,000,000","23,750,000",19107,68
+976.,The Grudge 3,(2009),90 min,Horror -  Mystery -  Thriller,4.6,"$5,000,000",,19084,
+977.,[REC] 4: Apocalypse,(2014),95 min,Horror -  Thriller,5.3,"€3,000,000",708,19021,53
+978.,Come to Daddy,(2019),96 min,Comedy -  Horror -  Mystery,6.0,,,19014,64
+979.,Breach,(IV) (2020),92 min,Action -  Horror -  Sci-Fi,2.9,,,18977,
+980.,Cold Prey,(2006),97 min,Horror -  Thriller,6.2,,,18975,
+981.,Brahms: The Boy II,(2020),86 min,Drama -  Horror -  Mystery,4.7,"$10,000,000",,18922,29
+982.,Grabbers,(2012),94 min,Action -  Adventure -  Comedy,6.3,"£4,000,000",,18903,62
+983.,Maniac,(1980),87 min,Crime -  Drama -  Horror,6.4,"$350,000",,18883,22
+984.,The Incredible Shrinking Man,(1957),81 min,Horror -  Sci-Fi,7.6,"$750,000",,18858,73
+985.,The Intruder,(I) (2019),102 min,Horror -  Thriller,5.6,"$8,000,000","35,419,122",18804,39
+986.,The Little Shop of Horrors,(1960),72 min,Comedy -  Horror,6.2,"$27,000","1,400,000",18781,
+987.,Kwaidan,(1964),183 min,Drama -  Fantasy -  Horror,7.9,"¥350,000,000",,18692,
+988.,One Missed Call,(2003),112 min,Horror -  Mystery,6.2,,,18685,54
+989.,The Other Side of the Door,(2016),96 min,Horror -  Thriller,5.3,,"2,987,063",18665,41
+990.,Zombie Strippers!,(2008),94 min,Comedy -  Horror -  Sci-Fi,4.1,,,18661,45
+991.,The Stepford Wives,(1975),115 min,Horror -  Mystery -  Sci-Fi,6.9,,"8,720,000",18645,54
+992.,Mystery Science Theater 3000: The Movie,(1996),73 min,Comedy -  Drama -  Fantasy,7.2,,"1,007,306",18644,65
+993.,Chained,(I) (2012),94 min,Crime -  Drama -  Horror,6.4,,,18636,
+994.,The Vatican Tapes,(2015),91 min,Horror -  Thriller,4.7,"$8,000,000","1,712,111",18623,38
+995.,Supernova,(I) (2000),90 min,Horror -  Sci-Fi -  Thriller,4.8,"$90,000,000","14,218,868",18612,19
+996.,The Children,(2008),84 min,Horror -  Mystery -  Thriller,5.9,,,18583,
+997.,The Dark Half,(1993),122 min,Horror -  Mystery -  Thriller,6.0,"$15,000,000","9,579,068",18498,53
+998.,Firestarter,(2022),94 min,Drama -  Horror -  Sci-Fi,4.6,"$12,000,000",,18493,32
+999.,Bait,(III) (2012),93 min,Action -  Fantasy -  Horror,5.2,"A$30,000,000",,18462,
+"1,000.",Maniac Cop,(1988),85 min,Action -  Crime -  Horror,6.0,"$1,100,000","671,382",18431,40
+"1,001.",The Monster,(2016),91 min,Drama -  Fantasy -  Horror,5.4,"$2,700,000",,18430,69
+"1,002.",Lord of Illusions,(1995),109 min,Horror -  Mystery -  Thriller,6.0,"$12,000,000","13,293,081",18420,
+"1,003.",City of the Living Dead,(1980),93 min,Horror,6.2,,,18364,
+"1,004.",Tales from the Darkside: The Movie,(1990),93 min,Comedy -  Fantasy -  Horror,6.2,"$3,500,000","16,324,573",18356,54
+"1,005.",Becky,(II) (2020),93 min,Action -  Crime -  Drama,5.9,,,18355,54
+"1,006.",Deathgasm,(2015),86 min,Action -  Comedy -  Horror,6.3,,,18350,65
+"1,007.",No One Gets Out Alive,(2021),87 min,Drama -  Horror -  Mystery,5.3,,,18344,43
+"1,008.",Abbott and Costello Meet Frankenstein,(1948),83 min,Comedy -  Family -  Fantasy,7.3,"$800,000","4,796,000",18338,
+"1,009.",Borgman,(2013),113 min,Drama -  Horror -  Mystery,6.7,"€3,100,000","56,474",18304,66
+"1,010.",And Soon the Darkness,(2010),91 min,Drama -  Horror -  Mystery,5.1,,,18295,
+"1,011.",The Wretched,(2019),95 min,Horror -  Mystery,5.8,"$1,200,000",,18272,61
+"1,012.",Resolution,(III) (2012),93 min,Drama -  Horror -  Mystery,6.3,,,18265,80
+"1,013.",Little Monsters,(2019),93 min,Comedy -  Horror -  Sci-Fi,6.3,,,18245,59
+"1,014.",Opera,(1987),107 min,Crime -  Horror -  Mystery,6.9,"$8,000,000",,18240,68
+"1,015.",Village of the Damned,(1960),77 min,Horror -  Sci-Fi,7.3,"$200,000",,18234,77
+"1,016.",Urban Legends: Final Cut,(2000),97 min,Horror -  Mystery,4.3,"$14,000,000","21,468,807",18223,16
+"1,017.",The Gate,(1987),85 min,Fantasy -  Horror,6.0,"CA$2,500,000","13,539,458",18212,55
+"1,018.",Cure,(1997),111 min,Crime -  Horror -  Mystery,7.5,"¥1,000,000","94,596",18163,70
+"1,019.",The Order,(2003),102 min,Horror -  Mystery -  Thriller,5.1,"$38,000,000","7,659,747",18145,21
+"1,020.",Pay the Ghost,(2015),94 min,Horror -  Mystery,5.2,,,18134,23
+"1,021.",Hell House LLC,(2015),93 min,Horror -  Mystery,6.4,,,18128,
+"1,022.",Taxidermia,(2006),91 min,Comedy -  Drama -  Horror,6.8,"HUF 500,000,000","10,205",18088,83
+"1,023.",Hell Fest,(2018),89 min,Horror -  Thriller,5.5,"$5,500,000","11,107,431",18084,26
+"1,024.",The Human Centipede III (Final Sequence),(2015),102 min,Comedy -  Horror,2.8,,,18076,5
+"1,025.",V/H/S Viral,(2014),81 min,Horror -  Thriller,4.2,,"2,567",18030,38
+"1,026.",Blood and Chocolate,(2007),98 min,Drama -  Fantasy -  Horror,5.3,"$15,000,000","3,525,161",18016,33
+"1,027.",Haunter,(2013),97 min,Fantasy -  Horror -  Mystery,5.9,,,18007,49
+"1,028.",Pet,(I) (2016),94 min,Horror -  Thriller,5.7,,"8,004",17992,48
+"1,029.","Batman: The Long Halloween, Part One",(2021),85 min,Animation -  Action -  Crime,7.2,,,17961,
+"1,030.",Leatherface: Texas Chainsaw Massacre III,(1990),85 min,Horror -  Thriller,5.0,"$2,000,000","5,765,562",17903,30
+"1,031.",Warlock,(1989),90 min,Action -  Fantasy -  Horror,6.2,"$7,000,000","9,094,451",17882,44
+"1,032.",Batman: Gotham by Gaslight,(2018),78 min,Animation -  Action -  Adventure,6.7,,,17846,
+"1,033.",Mother's Day,(I) (2010),112 min,Drama -  Horror -  Thriller,6.2,"$11,000,000",,17838,34
+"1,034.",There's Someone Inside Your House,(2021),96 min,Horror -  Mystery -  Thriller,4.8,,,17818,45
+"1,035.",Wyrmwood: Road of the Dead,(2014),98 min,Action -  Comedy -  Horror,6.2,,,17788,54
+"1,036.",The Love Witch,(2016),120 min,Comedy -  Horror -  Romance,6.2,,"228,894",17786,82
+"1,037.",The Haunting in Connecticut 2: Ghosts of Georgia,(2013),100 min,Drama -  Horror -  Mystery,5.3,"$9,000,000",,17775,26
+"1,038.",The Good Neighbor,(2016),98 min,Crime -  Drama -  Horror,6.3,,,17685,32
+"1,039.",The Wraith,(1986),93 min,Action -  Horror -  Romance,5.9,"$2,700,000","3,500,000",17670,39
+"1,040.",Radius,(2017),93 min,Drama -  Horror -  Mystery,6.2,,,17643,
+"1,041.",Outpost,(2008),90 min,Action -  Horror -  Sci-Fi,5.8,"$300,000",,17575,
+"1,042.",The Hallow,(2015),97 min,Fantasy -  Horror -  Thriller,5.7,,"13,906",17568,65
+"1,043.",Black Christmas,(2019),92 min,Horror -  Mystery -  Thriller,3.5,"$5,000,000",,17549,49
+"1,044.",Censor,(2021),84 min,Horror -  Mystery,6.0,,,17543,69
+"1,045.",The Company of Wolves,(1984),95 min,Drama -  Fantasy -  Horror,6.6,"$2,000,000","4,389,334",17540,69
+"1,046.",April Fool's Day,(1986),89 min,Horror -  Mystery,6.1,"$5,000,000","12,947,763",17526,49
+"1,047.",Night of the Demons,(1988),90 min,Comedy -  Fantasy -  Horror,6.1,"$1,200,000","3,109,904",17474,
+"1,048.",Extinction,(2015),112 min,Action -  Adventure -  Drama,5.8,"€7,000,000",,17448,46
+"1,049.",Terrified,(2017),87 min,Horror,6.5,,,17443,
+"1,050.",Aftermath,(IV) (2021),114 min,Drama -  Horror -  Mystery,5.3,,,17402,
+"1,051.","Silent Night, Deadly Night",(1984),79 min,Horror -  Thriller,5.8,"$1,065,000","2,491,460",17402,31
+"1,052.",Lords of Chaos,(2018),118 min,Biography -  Drama -  Horror,6.6,,"253,184",17401,48
+"1,053.",Dreamscape,(1984),99 min,Action -  Adventure -  Horror,6.3,,"11,484,000",17378,63
+"1,054.",The Entity,(1982),125 min,Drama -  Horror,6.7,"$9,000,000","13,277,558",17376,35
+"1,055.",Devil's Due,(2014),89 min,Horror -  Mystery,4.1,"$7,000,000","15,818,967",17324,34
+"1,056.",The Stuff,(1985),87 min,Comedy -  Horror -  Sci-Fi,5.9,"$1,700,000",,17280,
+"1,057.",Shrooms,(2007),84 min,Comedy -  Horror -  Mystery,4.6,,"1,849",17242,
+"1,058.",Office Uprising,(2018),92 min,Action -  Comedy -  Horror,5.7,"$2,500,000",,17204,
+"1,059.",The Rage: Carrie 2,(1999),104 min,Drama -  Horror -  Sci-Fi,4.7,"$21,000,000","17,762,705",17111,42
+"1,060.",Fragile,(2005),101 min,Horror -  Mystery -  Thriller,6.0,"€7,000,000",,17075,
+"1,061.",Big Bad Wolves,(2013),110 min,Drama -  Horror -  Thriller,6.8,,"33,232",17043,64
+"1,062.",Shocker,(1989),109 min,Comedy -  Horror -  Thriller,5.5,"$5,000,000","16,554,699",17002,51
+"1,063.",The Stepfather,(1987),89 min,Horror -  Thriller,6.7,,"2,488,740",16994,72
+"1,064.",Cold Skin,(2017),108 min,Action -  Fantasy -  Horror,6.0,"€8,500,000",,16980,
+"1,065.",The Little Girl Who Lives Down the Lane,(1976),91 min,Drama -  Horror -  Mystery,7.0,"CA$1,100,000",,16953,53
+"1,066.",Raising Cain,(1992),92 min,Crime -  Drama -  Horror,6.0,"$12,000,000","21,370,057",16717,42
+"1,067.",Bride of Re-Animator,(1990),96 min,Comedy -  Horror -  Sci-Fi,6.2,"$2,000,000",,16700,54
+"1,068.",Berberian Sound Studio,(2012),92 min,Drama -  Horror -  Thriller,6.2,,,16690,80
+"1,069.",The Adventures of Ichabod and Mr. Toad,(1949),68 min,Animation -  Comedy -  Family,6.9,,,16680,74
+"1,070.",The Darkness,(I) (2016),92 min,Horror -  Thriller,4.5,"$4,000,000","10,732,841",16649,27
+"1,071.",The Last Exorcism Part II,(2013),88 min,Horror -  Thriller,4.0,"$5,000,000","15,179,302",16634,35
+"1,072.",Visitor Q,(2001),84 min,Comedy -  Drama -  Horror,6.5,"¥7,000,000",,16580,
+"1,073.",Black Sunday,(1960),87 min,Horror,7.1,,,16573,
+"1,074.",Incantation,(2022),110 min,Horror -  Mystery,6.2,"NT$45,000,000",,16513,
+"1,075.",Flight 7500,(2014),80 min,Drama -  Horror -  Sci-Fi,4.8,,,16493,
+"1,076.",Vampire Hunter D,(1985),80 min,Animation -  Action -  Fantasy,7.1,,,16489,
+"1,077.",3 from Hell,(2019),115 min,Action -  Horror,5.4,"$3,000,000",,16485,50
+"1,078.",Winnie the Pooh: Blood and Honey,(2023),84 min,Horror,3.1,,,16354,16
+"1,079.",The Slumber Party Massacre,(1982),77 min,Horror,5.6,"$250,000",,16292,51
+"1,080.",The Fury,(1978),118 min,Horror -  Sci-Fi -  Thriller,6.3,"$5,500,000",,16261,64
+"1,081.",The Golden Glove,(2019),115 min,Crime -  Drama -  Horror,6.7,,,16254,38
+"1,082.",Final Girl,(2015),84 min,Horror -  Thriller,4.7,"$8,000,000",,16246,
+"1,083.",12 Feet Deep,(2017),85 min,Horror -  Thriller,5.2,,,16226,
+"1,084.",Extraterrestrial,(2014),101 min,Action -  Horror -  Mystery,5.0,"$3,000,000",,16220,38
+"1,085.",Come Play,(2020),96 min,Drama -  Horror -  Mystery,5.7,,,16217,58
+"1,086.",Spontaneous,(II) (2020),101 min,Comedy -  Drama -  Horror,6.5,,,16168,78
+"1,087.",Bedevilled,(2010),115 min,Drama -  Horror -  Thriller,7.3,"$700,000",,16037,
+"1,088.",Beyond the Black Rainbow,(2010),110 min,Horror -  Mystery -  Sci-Fi,5.9,"CA$1,100,000","56,129",16022,49
+"1,089.",The Horde,(2009),90 min,Action -  Horror,5.9,"€2,850,000",,16010,
+"1,090.",Critters 2: The Main Course,(1988),86 min,Comedy -  Horror -  Sci-Fi,5.5,"$4,500,000","3,813,293",15999,48
+"1,091.",Phantasm II,(1988),97 min,Action -  Fantasy -  Horror,6.4,"$3,000,000","7,282,851",15968,42
+"1,092.",Detention,(2011),93 min,Comedy -  Horror -  Romance,5.6,"$10,000,000",,15923,45
+"1,093.",Black Box,(II) (2020),100 min,Horror -  Mystery -  Sci-Fi,6.2,,,15898,62
+"1,094.",Return of the Living Dead III,(1993),97 min,Horror,5.9,"$2,000,000","54,207",15871,47
+"1,095.",Faust,(1926),107 min,Drama -  Fantasy -  Horror,8.1,,,15862,
+"1,096.",Chopping Mall,(1986),77 min,Comedy -  Horror -  Sci-Fi,5.6,"$800,000",,15858,22
+"1,097.",The Abominable Dr. Phibes,(1971),94 min,Comedy -  Horror,7.1,"£300,000","554,365",15832,
+"1,098.",Contracted,(2013),84 min,Drama -  Horror -  Thriller,5.3,,"4,105",15811,48
+"1,099.",Shimmer Lake,(2017),86 min,Action -  Crime -  Drama,6.3,,,15749,
+"1,100.",Split Second,(1992),90 min,Action -  Crime -  Horror,6.0,"$7,000,000","5,430,822",15703,26
+"1,101.",The Night Listener,(2006),91 min,Crime -  Drama -  Horror,5.9,"$4,000,000","7,825,820",15694,51
+"1,102.",Don't Hang Up,(2016),83 min,Horror -  Thriller,5.5,,,15673,
+"1,103.",The Town That Dreaded Sundown,(2014),86 min,Horror -  Mystery -  Thriller,5.6,,,15612,47
+"1,104.",Demonic,(2015),83 min,Horror -  Mystery -  Thriller,5.3,"$3,000,000",,15569,
+"1,105.",Slaughterhouse Rulez,(2018),104 min,Action -  Comedy -  Fantasy,5.3,,"4,665",15557,39
+"1,106.",The New Daughter,(2009),108 min,Horror -  Thriller,5.3,"$15,000,000",,15557,
+"1,107.",Once Bitten,(1985),94 min,Comedy -  Drama -  Fantasy,5.5,"$3,200,000","10,000,000",15516,64
+"1,108.",Don't Listen,(2020),97 min,Adventure -  Drama -  Horror,6.1,,,15510,
+"1,109.",Malevolent,(III) (2018),89 min,Horror -  Mystery -  Thriller,4.8,,,15440,
+"1,110.",Psycho III,(1986),93 min,Horror -  Mystery -  Thriller,5.4,,"14,481,606",15439,58
+"1,111.",Black Water,(2007),90 min,Action -  Adventure -  Drama,5.8,"$700,000",,15436,
+"1,112.",Villains,(I) (2019),90 min,Comedy -  Drama -  Horror,6.2,,,15410,63
+"1,113.",The House by the Cemetery,(1981),86 min,Horror,6.1,,,15383,
+"1,114.",Mary Reilly,(1996),108 min,Drama -  Horror -  Romance,5.8,"$47,000,000","5,707,094",15383,44
+"1,115.",Dylan Dog: Dead of Night,(2010),107 min,Action -  Comedy -  Crime,5.1,"$20,000,000","1,183,354",15354,31
+"1,116.",Bordello of Blood,(1996),87 min,Comedy -  Fantasy -  Horror,5.4,"$13,000,000","5,587,855",15270,36
+"1,117.",The Pit and the Pendulum,(1961),80 min,Drama -  Horror -  Mystery,7.0,"$200,000","4,360,000",15256,78
+"1,118.",The Turning,(2020),94 min,Drama -  Horror -  Mystery,3.9,"$14,000,000",,15241,35
+"1,119.",I Am the Pretty Thing That Lives in the House,(2016),89 min,Drama -  Horror -  Mystery,4.6,,,15229,68
+"1,120.",The Funhouse,(1981),96 min,Horror,5.9,,"7,886,857",15213,56
+"1,121.",I Am Not a Serial Killer,(2016),104 min,Drama -  Horror -  Thriller,6.2,"€1,254,470",,15177,54
+"1,122.",Bhediya,(2022),156 min,Comedy -  Horror -  Thriller,7.3,"₹600,000,000",,15171,
+"1,123.",Swamp Thing,(1982),91 min,Horror -  Sci-Fi,5.3,"$3,000,000",,15151,50
+"1,124.",The Seventh Sign,(1988),97 min,Drama -  Fantasy -  Horror,5.8,,"18,875,011",15110,
+"1,125.",Polaroid,(I) (2019),88 min,Drama -  Horror -  Mystery,5.1,,,15088,
+"1,126.",Blood: The Last Vampire,(2009),91 min,Action -  Adventure -  Fantasy,5.2,"$30,000,000","257,412",15087,28
+"1,127.",The Masque of the Red Death,(1964),89 min,Drama -  Horror,6.9,,,15020,77
+"1,128.",Bless the Child,(2000),107 min,Crime -  Drama -  Horror,5.1,"$65,000,000","29,374,178",14995,17
+"1,129.",The Sadness,(2021),99 min,Horror,6.5,,,14990,68
+"1,130.",Witching and Bitching,(2013),112 min,Action -  Adventure -  Comedy,6.4,,,14979,73
+"1,131.",A Fantastic Fear of Everything,(2012),100 min,Comedy -  Horror,5.8,"£1,500,000",,14978,31
+"1,132.",The Bad Seed,(1956),129 min,Drama -  Horror -  Thriller,7.4,"$1,000,000",,14963,51
+"1,133.","Batman: The Long Halloween, Part Two",(2021),87 min,Animation -  Action -  Crime,7.2,,,14870,
+"1,134.",Diabolique,(1996),107 min,Drama -  Horror -  Mystery,5.4,,"17,100,266",14860,
+"1,135.",The Last Circus,(2010),107 min,Adventure -  Comedy -  Drama,6.5,"€7,000,000","40,029",14812,70
+"1,136.",The Den,(2013),76 min,Horror -  Mystery -  Thriller,6.0,"$500,000",,14801,48
+"1,137.",Infini,(2015),110 min,Horror -  Sci-Fi -  Thriller,5.3,"$800,000",,14799,
+"1,138.",Spree,(2020),93 min,Comedy -  Crime -  Horror,5.9,,,14792,42
+"1,139.",The Craft: Legacy,(2020),97 min,Drama -  Fantasy -  Horror,4.5,,,14776,54
+"1,140.",Amityville: The Awakening,(2017),87 min,Horror -  Thriller,4.8,,742,14755,42
+"1,141.",It's Such a Beautiful Day,(2012),62 min,Animation -  Comedy -  Drama,8.2,,,14727,90
+"1,142.",Yoga Hosers,(2016),88 min,Action -  Comedy -  Horror,4.2,"$5,000,000",,14726,23
+"1,143.",Area 51,(2015),91 min,Horror -  Mystery -  Sci-Fi,4.2,"$5,000,000",,14703,30
+"1,144.",Dr. Jekyll and Mr. Hyde,(1931),98 min,Horror -  Sci-Fi,7.6,"$535,000","2,788,220",14694,
+"1,145.",Attack on Titan Part 1,(2015),98 min,Action -  Adventure -  Drama,5.0,,"449,523",14663,
+"1,146.",Antiviral,(2012),108 min,Horror -  Mystery -  Sci-Fi,5.7,"CA$3,200,000",,14608,55
+"1,147.",Kill Command,(2016),99 min,Action -  Horror -  Sci-Fi,5.7,,,14562,
+"1,148.",The Canal,(2014),92 min,Drama -  Horror -  Mystery,5.8,,,14539,55
+"1,149.",Ginger Snaps 2: Unleashed,(2004),94 min,Horror -  Thriller,6.4,"$3,500,000",,14531,
+"1,150.",Emelie,(2015),82 min,Horror -  Mystery -  Thriller,5.4,,,14529,62
+"1,151.",Primeval,(2007),93 min,Action -  Adventure -  Crime,4.8,,"10,597,734",14517,35
+"1,152.",Undead,(2003),97 min,Action -  Comedy -  Fantasy,5.4,"A$1,000,000","41,196",14501,34
+"1,153.",Down a Dark Hall,(2018),96 min,Drama -  Fantasy -  Horror,5.0,,,14498,56
+"1,154.",Howl,(I) (2015),92 min,Action -  Fantasy -  Horror,5.4,"£1,600,000",,14467,
+"1,155.",Cabin Fever 2: Spring Fever,(2009),86 min,Horror,4.3,"$5,000,000",,14465,
+"1,156.",Go Goa Gone,(2013),111 min,Action -  Adventure -  Comedy,6.6,,"295,414",14459,
+"1,157.",Anna and the Apocalypse,(2017),93 min,Comedy -  Horror -  Musical,6.0,,"545,597",14454,63
+"1,158.",The Night Eats the World,(2018),93 min,Drama -  Horror -  Thriller,6.0,"€2,990,000",,14452,50
+"1,159.",I Spit on Your Grave: Vengeance Is Mine,(2015),92 min,Horror -  Thriller,5.1,,,14427,
+"1,160.",Don't Knock Twice,(2016),93 min,Drama -  Fantasy -  Horror,5.1,,,14390,45
+"1,161.",Curse of the Demon,(1957),95 min,Fantasy -  Horror -  Mystery,7.4,,,14389,
+"1,162.",Hatchet II,(2010),85 min,Action -  Comedy -  Horror,5.4,"$800,000","62,000",14360,49
+"1,163.",Alligator,(1980),91 min,Horror -  Sci-Fi -  Thriller,6.1,"$1,500,000",,14359,62
+"1,164.",Resident Evil: Vendetta,(2017),97 min,Animation -  Action -  Adventure,6.2,,,14314,
+"1,165.",Shut In,(I) (2016),91 min,Drama -  Horror -  Mystery,4.8,"$10,000,000","6,883,951",14294,25
+"1,166.",Attack of the Killer Tomatoes!,(1978),83 min,Adventure -  Comedy -  Horror,4.6,"$90,000",,14267,9
+"1,167.",Paranormal Activity: Next of Kin,(2021),98 min,Horror -  Mystery -  Thriller,5.2,,,14239,37
+"1,168.",1BR,(2019),90 min,Drama -  Horror -  Thriller,5.8,,,14196,56
+"1,169.",Cherry Falls,(2000),92 min,Horror -  Mystery -  Thriller,5.2,"$14,000,000",,14175,
+"1,170.",Half Light,(2006),110 min,Drama -  Horror -  Mystery,6.0,,,14152,
+"1,171.",Stan Helsing,(2009),108 min,Comedy -  Fantasy -  Horror,3.5,,,14122,
+"1,172.",Ring 2,(1999),95 min,Horror -  Mystery -  Sci-Fi,5.9,"$6,000,000",,14117,
+"1,173.",The Addams Family 2,(2021),93 min,Animation -  Adventure -  Comedy,5.4,,"56,489,153",14111,37
+"1,174.",House of Usher,(1960),79 min,Drama -  Horror,6.9,"$200,000","3,161,000",14105,75
+"1,175.",Gabriel,(2007),114 min,Action -  Fantasy -  Horror,5.5,"A$200,000",,14104,
+"1,176.",Red Dot,(2021),86 min,Drama -  Horror -  Thriller,5.5,,,14051,
+"1,177.",The Deep House,(2021),85 min,Drama -  Horror -  Mystery,5.3,,,14001,
+"1,178.",Psycho Goreman,(2020),95 min,Comedy -  Horror -  Sci-Fi,6.2,"CA$1,500,000",,13978,67
+"1,179.",The Crazies,(1973),103 min,Action -  Horror -  Sci-Fi,6.1,"$275,000","150,000",13978,63
+"1,180.",The Shrine,(2010),85 min,Horror,5.5,"CA$1,500,000",,13961,
+"1,181.",Wildling,(2018),92 min,Drama -  Fantasy -  Horror,5.5,,,13955,58
+"1,182.",Dead & Buried,(1981),94 min,Horror -  Mystery,6.5,"$3,000,000","216,166",13884,71
+"1,183.",Noroi,(2005),115 min,Horror -  Mystery -  Thriller,6.9,"$2,000,000",,13849,
+"1,184.",Nine Dead,(2009),98 min,Crime -  Drama -  Horror,5.4,"$2,000,000",,13849,
+"1,185.",The Picture of Dorian Gray,(1945),110 min,Drama -  Fantasy -  Horror,7.5,"$3,500,000",,13765,
+"1,186.",The Lair of the White Worm,(1988),93 min,Comedy -  Horror,6.0,"$2,500,000","1,189,315",13733,61
+"1,187.",Anatomy,(2000),103 min,Horror -  Thriller,6.0,"DEM 8,400,000","5,725",13718,33
+"1,188.",Candyman: Farewell to the Flesh,(1995),95 min,Horror -  Thriller,5.2,"$6,000,000","13,940,383",13701,41
+"1,189.",The Breed,(2006),91 min,Action -  Comedy -  Horror,5.1,,"14,500",13693,
+"1,190.",Megan Is Missing,(2011),85 min,Drama -  Horror -  Thriller,4.6,,,13688,
+"1,191.",The Eyes of My Mother,(2016),76 min,Drama -  Horror -  Thriller,6.2,,"25,981",13624,63
+"1,192.",Intruders,(2015),90 min,Drama -  Horror -  Thriller,5.7,,,13608,39
+"1,193.",The Mortuary Collection,(2019),108 min,Fantasy -  Horror,6.4,,,13604,69
+"1,194.",Skinwalkers,(2006),110 min,Action -  Fantasy -  Horror,4.5,,"1,018,965",13591,33
+"1,195.",Incarnate,(2016),87 min,Horror -  Thriller,5.3,"$5,000,000","4,790,573",13586,30
+"1,196.",Sick,(2022),83 min,Horror -  Thriller,6.0,,,13511,62
+"1,197.",The Deaths of Ian Stone,(2007),87 min,Horror -  Thriller,5.5,,,13511,
+"1,198.",The Keep,(1983),96 min,Drama -  Fantasy -  Horror,5.7,"$11,000,000","3,758,840",13496,34
+"1,199.",Tales of Halloween,(2015),97 min,Adventure -  Comedy -  Fantasy,5.5,,,13468,64
+"1,200.",White Noise 2: The Light,(2007),99 min,Drama -  Fantasy -  Horror,5.7,"$10,000,000",,13462,
+"1,201.",The Legend of Hell House,(1973),95 min,Horror,6.7,,,13450,56
+"1,202.",Fright Night Part 2,(1988),104 min,Comedy -  Horror -  Thriller,5.9,"$7,500,000","2,983,784",13422,
+"1,203.",Dead of Night,(1945),77 min,Drama -  Horror,7.6,,,13420,
+"1,204.",Versus,(II) (2000),119 min,Action -  Drama -  Fantasy,6.3,"$400,000",,13415,
+"1,205.",Berserk: The Golden Age Arc I - The Egg of the King,(2012),76 min,Animation -  Action -  Adventure,7.5,,,13405,
+"1,206.",Intacto,(2001),108 min,Action -  Adventure -  Drama,6.8,,"302,675",13389,59
+"1,207.",Waxwork,(1988),95 min,Comedy -  Horror,6.1,"$3,000,000","808,114",13364,41
+"1,208.",Alice,(1988),86 min,Animation -  Adventure -  Fantasy,7.4,,,13345,
+"1,209.",The Vault,(I) (2017),91 min,Crime -  Horror -  Mystery,4.8,"$5,000,000","5,728",13327,50
+"1,210.",They,(2002),89 min,Horror -  Mystery -  Thriller,4.8,"$17,000,000","12,840,842",13273,31
+"1,211.",The Phantom Carriage,(1921),100 min,Drama -  Fantasy -  Horror,8.0,,,13266,
+"1,212.",C.H.U.D.,(1984),88 min,Horror -  Sci-Fi,5.6,"$1,250,000","4,654,423",13231,57
+"1,213.",When a Stranger Calls,(1979),97 min,Horror -  Mystery -  Thriller,6.4,"$1,500,000","21,411,158",13196,58
+"1,214.",Joshua,(2007),106 min,Drama -  Horror -  Thriller,5.8,,"478,492",13161,69
+"1,215.",Escape Room,(II) (2017),81 min,Horror -  Thriller,4.2,,,13148,
+"1,216.",The Most Dangerous Game,(1932),63 min,Action -  Adventure -  Horror,7.1,"$218,869","965,740",13141,
+"1,217.",The Abandoned,(2006),99 min,Horror -  Mystery -  Thriller,5.5,"€3,000,000","1,255,524",13118,42
+"1,218.",The Cursed,(2021),111 min,Fantasy -  Horror -  Mystery,6.2,,,13055,62
+"1,219.",Terror Train,(1980),97 min,Horror -  Mystery -  Thriller,5.8,"$3,500,000",,13027,42
+"1,220.",Calvaire,(2004),88 min,Drama -  Horror -  Thriller,6.1,"€1,790,000","2,623",12989,52
+"1,221.",I Walked with a Zombie,(1943),69 min,Drama -  Fantasy -  Horror,7.0,,,12984,
+"1,222.",Dark Angel,(1990),91 min,Action -  Crime -  Horror,6.1,"$7,000,000","4,348,368",12975,
+"1,223.",The Day,(I) (2011),87 min,Action -  Drama -  Horror,5.2,,"20,502",12971,41
+"1,224.",Bulbbul,(2020),94 min,Drama -  Horror -  Mystery,6.5,,,12967,
+"1,225.",Black Sabbath,(1963),97 min,Horror,7.0,,,12952,82
+"1,226.",Blood: The Last Vampire,(2000),48 min,Animation -  Action -  Horror,6.6,,,12948,44
+"1,227.",Backtrack,(I) (2015),90 min,Drama -  Fantasy -  Horror,5.9,,,12937,43
+"1,228.",Nobody Sleeps in the Woods Tonight,(2020),102 min,Fantasy -  Horror -  Mystery,4.9,,,12916,
+"1,229.",Deathwatch,(2002),94 min,Drama -  Horror -  War,5.9,,,12914,
+"1,230.",In Fabric,(2018),118 min,Comedy -  Drama -  Fantasy,6.2,,,12890,81
+"1,231.",2001 Maniacs,(2005),87 min,Comedy -  Horror,5.3,"$3,000,000",,12879,
+"1,232.",100 Feet,(2008),96 min,Horror -  Mystery -  Thriller,5.4,"$10,000,000",,12875,
+"1,233.",The Possession of Michael King,(2014),83 min,Horror,5.7,,,12853,34
+"1,234.",Freaks of Nature,(2015),92 min,Comedy -  Horror -  Sci-Fi,5.9,,,12805,
+"1,235.",The Cottage,(2008),92 min,Comedy -  Crime -  Horror,6.1,"£2,500,000",,12767,
+"1,236.",Hounds of Love,(2016),108 min,Crime -  Drama -  Horror,6.5,,,12766,73
+"1,237.",Cannibal! The Musical,(1993),95 min,Comedy -  Horror -  Musical,7.0,"$125,000",,12713,
+"1,238.",Motel Hell,(1980),101 min,Comedy -  Horror -  Thriller,6.0,"$3,000,000","6,342,668",12702,64
+"1,239.",Beau Is Afraid,(2023),179 min,Comedy -  Drama -  Horror,7.2,"$35,000,000",,12661,62
+"1,240.",Errementari,(2017),98 min,Adventure -  Fantasy -  Horror,6.4,,,12653,
+"1,241.",Dread,(2009),98 min,Drama -  Horror -  Thriller,5.6,,,12635,
+"1,242.",The Raven,(1963),86 min,Comedy -  Fantasy -  Horror,6.5,"$200,000",,12611,
+"1,243.",Sea Fever,(2019),95 min,Drama -  Horror -  Mystery,5.7,,,12607,60
+"1,244.",Burnt Offerings,(1976),116 min,Horror -  Mystery -  Thriller,6.4,,,12595,48
+"1,245.",Critters 3,(1991),86 min,Comedy -  Horror -  Sci-Fi,4.4,,,12588,
+"1,246.",Prisoners of the Ghostland,(2021),103 min,Fantasy -  Horror -  Thriller,4.2,,,12564,53
+"1,247.",Blood Creek,(2009),90 min,Horror,5.3,,,12561,
+"1,248.",Prey for the Devil,(2022),93 min,Horror -  Thriller,5.2,,,12518,38
+"1,249.",DeepStar Six,(1989),93 min,Action -  Horror -  Sci-Fi,5.3,"$8,000,000","8,143,225",12504,34
+"1,250.",Beyond Re-Animator,(2003),96 min,Comedy -  Horror -  Sci-Fi,5.8,"$3,000,000",,12502,
+"1,251.",The Conspiracy,(2012),84 min,Horror -  Thriller,6.3,"$1,500,000",,12481,
+"1,252.",11-11-11,(2011),90 min,Horror -  Mystery -  Thriller,3.9,,,12473,26
+"1,253.",Sleepaway Camp II: Unhappy Campers,(1988),80 min,Comedy -  Horror,5.5,,,12464,
+"1,254.",The Thaw,(2009),94 min,Horror -  Sci-Fi,5.2,,,12442,
+"1,255.",Orca,(1977),92 min,Adventure -  Drama -  Horror,5.7,,"14,717,854",12423,27
+"1,256.",Common Wealth,(2000),110 min,Comedy -  Crime -  Horror,7.2,"€4,000,000",,12421,
+"1,257.",Monkey Shines,(1988),113 min,Drama -  Horror -  Sci-Fi,6.2,"$7,000,000","5,344,577",12416,71
+"1,258.",Gozu,(2003),129 min,Crime -  Drama -  Horror,6.9,,"54,419",12368,58
+"1,259.",My Little Eye,(2002),95 min,Horror -  Mystery -  Thriller,5.5,"£2,000,000",,12355,
+"1,260.",Deadstream,(2022),87 min,Comedy -  Horror,6.5,,,12351,67
+"1,261.",Brain Damage,(1988),84 min,Comedy -  Drama -  Horror,6.5,"$900,000",,12319,61
+"1,262.",Retreat,(I) (2011),90 min,Drama -  Horror -  Thriller,5.8,,,12319,
+"1,263.",The Cat o' Nine Tails,(1971),112 min,Horror -  Mystery -  Thriller,6.6,"$1,000,000",,12274,63
+"1,264.",Dominion,(2005),117 min,Drama -  Horror -  Thriller,5.2,"$30,000,000","251,495",12263,55
+"1,265.",Hatching,(2022),91 min,Drama -  Fantasy -  Horror,6.2,"€3,954,376",,12251,75
+"1,266.",Shirley,(2020),107 min,Biography -  Drama -  Horror,6.1,,,12240,76
+"1,267.",Angst,(I) (1983),87 min,Drama -  Horror -  Thriller,7.2,"€400,000",,12234,
+"1,268.",Beowulf,(1999),95 min,Action -  Adventure -  Fantasy,4.1,"$3,500,000",,12230,
+"1,269.",Magic,(1978),107 min,Drama -  Horror,6.8,"$7,000,000","25,942,000",12222,49
+"1,270.",The Return,(2005),85 min,Horror -  Mystery -  Thriller,4.7,"$15,000,000","7,749,851",12200,38
+"1,271.",Hell,(2011),89 min,Horror -  Sci-Fi -  Thriller,5.9,,,12197,
+"1,272.",Tokyo Gore Police,(2008),110 min,Action -  Comedy -  Horror,5.9,,,12196,
+"1,273.",Rise: Blood Hunter,(2007),97 min,Action -  Crime -  Horror,4.9,,"106,398",12187,
+"1,274.",Ernest Scared Stupid,(1991),91 min,Comedy -  Family -  Fantasy,5.7,"$9,600,000","14,143,280",12184,38
+"1,275.","Alice, Sweet Alice",(1976),107 min,Crime -  Drama -  Horror,6.5,"$340,000",,12160,67
+"1,276.",Brainscan,(1994),96 min,Horror -  Sci-Fi,6.0,,"4,264,509",12156,
+"1,277.",Amityville II: The Possession,(1982),104 min,Horror,5.5,"$5,000,000","12,534,817",12153,34
+"1,278.",The Prowler,(1981),89 min,Horror -  Mystery -  Thriller,5.9,"$1,000,000",,12142,45
+"1,279.",Tales from the Crypt,(1972),92 min,Drama -  Horror -  Mystery,6.9,"£170,000","1,696,905",12120,
+"1,280.",XX,(2017),80 min,Horror,4.6,,"30,611",12114,64
+"1,281.",Willow Creek,(2013),80 min,Horror -  Mystery -  Thriller,5.1,,,12075,62
+"1,282.",Aftershock,(2012),89 min,Action -  Adventure -  Horror,4.8,"$2,000,000","40,179",12075,39
+"1,283.",Blood and Black Lace,(1964),88 min,Horror -  Mystery -  Thriller,7.1,"ITL 141,755,000",,12043,
+"1,284.",Amusement,(2008),85 min,Crime -  Horror -  Mystery,4.9,"$10,000,000",,12038,
+"1,285.",Hobgoblins,(1988),88 min,Comedy -  Horror -  Sci-Fi,2.2,"$15,000",,12026,
+"1,286.",The Black Cat,(1934),65 min,Adventure -  Crime -  Horror,6.9,"$95,745","514,480",12020,
+"1,287.",Frankenhooker,(1990),85 min,Comedy -  Horror -  Sci-Fi,6.2,"$2,500,000","205,068",11998,
+"1,288.",The Old Dark House,(1932),72 min,Adventure -  Comedy -  Drama,7.0,,"25,678",11947,
+"1,289.",Graveyard Shift,(1990),86 min,Horror,4.9,"$10,500,000","11,582,891",11921,28
+"1,290.",Don't Let Go,(2019),103 min,Drama -  Horror -  Mystery,6.3,"$5,000,000","4,686,540",11908,49
+"1,291.",Murder Party,(2007),79 min,Comedy -  Horror,5.8,,,11905,
+"1,292.",The Curse of Frankenstein,(1957),82 min,Horror -  Sci-Fi -  Thriller,7.0,"£65,000","17,440,000",11872,59
+"1,293.",Dolls,(1986),77 min,Horror,6.3,,,11864,55
+"1,294.",Hunter Hunter,(2020),93 min,Drama -  Horror -  Mystery,6.4,,,11848,61
+"1,295.",Day of the Dead: Bloodline,(2017),90 min,Action -  Drama -  Horror,3.4,"$8,000,000",,11842,
+"1,296.",The Crow: Salvation,(2000),102 min,Action -  Crime -  Fantasy,4.9,"$10,000,000",,11837,
+"1,297.",Dance of the Dead,(2008),87 min,Action -  Comedy -  Horror,5.8,,,11824,
+"1,298.",Martin,(1977),95 min,Drama -  Horror,7.0,"$80,000","100,000",11804,68
+"1,299.",Follow Me,(2020),91 min,Adventure -  Horror -  Mystery,5.4,,,11798,
+"1,300.",The Woods,(2006),91 min,Horror -  Mystery -  Thriller,5.6,"$12,000,000",,11784,
+"1,301.",Goodnight Mommy,(2022),92 min,Crime -  Drama -  Horror,5.6,,,11782,45
+"1,302.",Tourist Trap,(1979),90 min,Horror,6.1,,,11770,
+"1,303.",House II: The Second Story,(1987),88 min,Comedy -  Fantasy -  Horror,5.4,,"7,800,000",11767,31
+"1,304.",The Fanatic,(2019),88 min,Crime -  Drama -  Horror,4.1,"$18,000,000","3,153",11748,18
+"1,305.",Horror Express,(1972),88 min,Adventure -  Horror -  Sci-Fi,6.5,"$300,000",,11748,68
+"1,306.",Twin Peaks: The Missing Pieces,(2014),91 min,Drama -  Horror -  Mystery,7.6,,,11748,
+"1,307.",The New York Ripper,(1982),85 min,Horror -  Mystery -  Thriller,6.3,,,11748,
+"1,308.",A Dark Foe,(2020),114 min,Crime -  Drama -  Horror,4.2,,,11728,
+"1,309.",The Caller,(2011),92 min,Horror -  Thriller,6.0,,,11723,
+"1,310.",A Bay of Blood,(1971),84 min,Horror -  Mystery -  Thriller,6.5,,,11719,
+"1,311.",The Hound of the Baskervilles,(1959),87 min,Horror -  Mystery,6.9,,,11715,
+"1,312.",Pieces,(1982),85 min,Horror -  Mystery -  Thriller,6.0,"$300,000","2,032,311",11698,68
+"1,313.",Gonjiam: Haunted Asylum,(2018),95 min,Horror,6.4,,"115,252",11675,
+"1,314.",Apartment 143,(2011),80 min,Horror -  Thriller,5.0,,256,11602,
+"1,315.",Theater of Blood,(1973),104 min,Comedy -  Drama -  Horror,7.1,,,11574,81
+"1,316.",The Uninvited,(1944),99 min,Fantasy -  Horror -  Mystery,7.2,,,11564,
+"1,317.",Holidays,(2016),105 min,Fantasy -  Horror -  Mystery,5.1,,,11560,50
+"1,318.",A Christmas Horror Story,(2015),99 min,Fantasy -  Horror -  Mystery,5.8,,,11494,49
+"1,319.",Jeepers Creepers: Reborn,(2022),88 min,Horror -  Mystery -  Thriller,2.5,,,11489,
+"1,320.",The Final,(I) (2010),93 min,Drama -  Horror -  Thriller,5.3,"$1,000,000",,11469,
+"1,321.",Baskin,(2015),97 min,Crime -  Drama -  Fantasy,5.8,,,11445,58
+"1,322.",Witchfinder General,(1968),86 min,Drama -  Horror,6.7,"$175,000",,11406,
+"1,323.",The Vanished,(2020),115 min,Action -  Crime -  Horror,5.7,"$2,000,000",,11374,
+"1,324.",Twixt,(2011),88 min,Comedy -  Fantasy -  Horror,4.7,"$7,000,000",,11356,40
+"1,325.",Donkey Punch,(2008),99 min,Crime -  Drama -  Horror,5.2,"£900,000","18,378",11348,43
+"1,326.",Manichithrathazhu,(1993),169 min,Comedy -  Horror -  Mystery,8.8,,,11347,
+"1,327.",Mad God,(2021),83 min,Animation -  Fantasy -  Horror,6.8,,,11331,80
+"1,328.",The Night Flier,(1997),97 min,Fantasy -  Horror -  Mystery,6.0,"$1,000,000","125,397",11331,36
+"1,329.",Dahmer,(2002),101 min,Biography -  Crime -  Drama,5.6,"$250,000","144,008",11327,63
+"1,330.",Cadaver,(2020),86 min,Drama -  Horror -  Thriller,5.2,,,11252,
+"1,331.",Ratter,(2015),80 min,Drama -  Horror -  Thriller,4.9,"$500,000",,11251,
+"1,332.",Demons 2,(1986),92 min,Horror,5.9,"$1,500,000",,11245,
+"1,333.",Berserk: The Golden Age Arc II - The Battle for Doldrey,(2012),95 min,Animation -  Action -  Adventure,7.7,,,11236,
+"1,334.",Begotten,(1989),72 min,Fantasy -  Horror,5.6,"$33,000",,11220,
+"1,335.",Burying the Ex,(2014),89 min,Comedy -  Horror -  Romance,5.4,,,11170,37
+"1,336.",Ginger Snaps Back: The Beginning,(2004),94 min,Drama -  Horror -  Thriller,5.8,"CA$3,500,000",,11167,
+"1,337.",We Summon the Darkness,(2019),91 min,Horror -  Music -  Thriller,5.2,,,11163,55
+"1,338.",The Revenant,(I) (2009),117 min,Comedy -  Fantasy -  Horror,6.3,,,11158,57
+"1,339.",Lost Souls,(2000),97 min,Drama -  Horror -  Thriller,4.8,"$50,000,000","16,779,636",11142,16
+"1,340.",Studio 666,(2022),106 min,Comedy -  Horror -  Music,5.7,,,11098,50
+"1,341.",Ghosts of War,(2020),94 min,Fantasy -  Horror -  Thriller,5.6,,,11095,38
+"1,342.",The Broken,(2008),93 min,Drama -  Horror -  Thriller,5.4,"£4,000,000",,11095,
+"1,343.",Nurse,(2013),84 min,Horror -  Thriller,4.5,"$10,000,000",,11091,29
+"1,344.",White Zombie,(1932),69 min,Horror,6.2,"$50,000",,11069,
+"1,345.",The Dark,(2005),93 min,Drama -  Fantasy -  Horror,5.3,"£3,000,000",,11063,
+"1,346.",Leprechaun 2,(1994),85 min,Comedy -  Fantasy -  Horror,4.6,"$2,000,000","2,260,622",11049,
+"1,347.",Attack on Titan: Chronicle,(2020),122 min,Animation -  Action -  Adventure,8.4,,,11024,
+"1,348.",The Hound of the Baskervilles,(1939),80 min,Crime -  Horror -  Mystery,7.4,,,11002,
+"1,349.",Snow White: A Tale of Terror,(1997),100 min,Adventure -  Fantasy -  Horror,6.1,"$26,000,000",,10998,
+"1,350.",I Sell the Dead,(2008),85 min,Comedy -  Horror,6.0,"$750,000","7,066",10978,62
+"1,351.",Son of Frankenstein,(1939),99 min,Drama -  Horror -  Sci-Fi,7.1,,,10963,
+"1,352.",Mermaid Down,(2019),91 min,Fantasy -  Horror -  Mystery,4.6,"$85,000",,10952,
+"1,353.",The Human Race,(2013),87 min,Action -  Comedy -  Horror,5.0,,,10952,32
+"1,354.",Berserk: The Golden Age Arc III - The Advent,(2013),110 min,Animation -  Action -  Adventure,7.8,,,10934,
+"1,355.",Visions,(II) (2015),82 min,Horror -  Mystery,5.3,,,10923,
+"1,356.",Troll,(1986),82 min,Comedy -  Fantasy -  Horror,4.6,"$1,100,000","5,450,815",10918,30
+"1,357.",Wolfen,(1981),115 min,Horror -  Thriller,6.3,"$17,000,000","10,626,725",10918,64
+"1,358.",Monsters: Dark Continent,(2014),119 min,Action -  Drama -  Horror,4.3,,,10896,42
+"1,359.",The Sentinel,(1977),92 min,Horror,6.3,"$3,700,000",,10880,19
+"1,360.",Extra Ordinary,(2019),94 min,Comedy -  Fantasy -  Horror,6.4,,,10858,72
+"1,361.",Bats,(1999),91 min,Horror -  Sci-Fi -  Thriller,4.0,"$5,250,000","10,155,690",10846,23
+"1,362.",The Car,(1977),96 min,Action -  Horror -  Mystery,6.1,,,10840,21
+"1,363.",Street Trash,(1987),102 min,Comedy -  Horror,5.9,"$500,000",,10838,
+"1,364.",Quatermass and the Pit,(1967),97 min,Horror -  Mystery -  Sci-Fi,7.0,"£275,000",,10819,
+"1,365.",Tragedy Girls,(2017),98 min,Comedy -  Crime -  Horror,6.0,,"61,899",10805,58
+"1,366.",Dead Birds,(2004),91 min,Horror -  Thriller -  Western,5.6,"$1,500,000",,10799,
+"1,367.",Girl on the Third Floor,(2019),93 min,Drama -  Horror -  Mystery,4.7,,,10760,65
+"1,368.",The Addiction,(1995),82 min,Drama -  Horror,6.4,,"302,393",10730,
+"1,369.",Juan of the Dead,(2011),92 min,Action -  Comedy -  Horror,6.4,,"18,005",10719,
+"1,370.",I Still See You,(2018),98 min,Fantasy -  Horror -  Sci-Fi,5.8,,,10709,31
+"1,371.",Santa's Slay,(2005),78 min,Comedy -  Fantasy -  Horror,5.3,,,10706,
+"1,372.",Wendell & Wild,(2022),105 min,Animation -  Adventure -  Comedy,6.4,,,10705,69
+"1,373.",Mother of Tears,(2007),102 min,Drama -  Horror -  Thriller,5.0,"$3,500,000","58,669",10671,52
+"1,374.",Altered,(2006),88 min,Horror -  Sci-Fi -  Thriller,5.6,"$8,000,000",,10667,
+"1,375.",Dark Was the Night,(2014),99 min,Drama -  Horror -  Thriller,5.6,,,10655,40
+"1,376.",Ex Drummer,(2007),100 min,Comedy -  Crime -  Drama,6.9,,,10640,36
+"1,377.",V/H/S/94,(2021),103 min,Horror -  Mystery -  Thriller,5.5,,,10638,63
+"1,378.",The Seasoning House,(2012),90 min,Drama -  Horror -  Thriller,6.1,"£850,000",,10636,
+"1,379.",Reeker,(2005),90 min,Horror -  Mystery -  Thriller,5.1,,,10601,
+"1,380.",Deerskin,(2019),77 min,Comedy -  Horror,6.6,"€4,000,000",,10597,68
+"1,381.",Tamara,(2005),98 min,Drama -  Fantasy -  Horror,5.0,"$3,500,000","167,723",10590,34
+"1,382.",Innocent Blood,(1992),112 min,Action -  Comedy -  Crime,6.2,"$20,000,000","4,972,818",10566,44
+"1,383.",Resurrection,(1999),103 min,Crime -  Drama -  Horror,6.1,"$10,000,000",,10559,
+"1,384.",Cabin Fever,(2016),99 min,Horror -  Sci-Fi -  Thriller,3.7,,,10555,14
+"1,385.",Vampires vs. the Bronx,(2020),85 min,Comedy -  Horror,5.7,,,10552,76
+"1,386.",A Chinese Ghost Story,(1987),98 min,Action -  Fantasy -  Horror,7.4,"$5,600,000",,10540,
+"1,387.",The Hills Run Red,(2009),81 min,Horror -  Mystery -  Thriller,5.4,,,10534,
+"1,388.",Roohi,(2021),134 min,Comedy -  Horror,4.3,,,10523,
+"1,389.",Vamps,(2012),92 min,Comedy -  Horror -  Romance,5.2,"$16,000,000","2,964",10505,57
+"1,390.",Venom,(2005),87 min,Horror,4.6,,"881,745",10499,25
+"1,391.",Horizon Line,(2020),92 min,Action -  Adventure -  Drama,4.8,,,10488,
+"1,392.",Happy Birthday to Me,(1981),110 min,Horror -  Mystery -  Thriller,6.0,"CA$3,500,000",,10487,24
+"1,393.",Dracula,(1979),109 min,Drama -  Horror -  Romance,6.5,"$12,164,000","20,158,970",10487,67
+"1,394.",Phone Bhoot,(2022),136 min,Comedy -  Horror,5.3,,,10424,
+"1,395.",The Machine Girl,(2008),96 min,Action -  Comedy -  Horror,5.9,,,10423,
+"1,396.",Banshee Chapter,(2013),87 min,Horror -  Mystery -  Sci-Fi,5.4,"$950,000",,10418,62
+"1,397.",Meander,(2020),90 min,Drama -  Horror -  Mystery,5.4,,,10410,63
+"1,398.",Altitude,(2010),90 min,Horror -  Mystery -  Sci-Fi,4.8,,,10400,
+"1,399.",The Blue Elephant 2,(2019),130 min,Crime -  Drama -  Horror,8.0,,,10380,
+"1,400.",Let Us Prey,(2014),92 min,Horror -  Thriller,5.8,,,10378,
+"1,401.",House of 9,(2005),90 min,Drama -  Horror -  Mystery,5.3,"$6,000,000",,10365,
+"1,402.",Jeruzalem,(2015),94 min,Horror -  Sci-Fi -  Thriller,4.8,,,10363,45
+"1,403.",Ju-On: The Grudge 2,(2003),92 min,Drama -  Fantasy -  Horror,6.3,,,10363,
+"1,404.",Valerie and Her Week of Wonders,(1970),77 min,Adventure -  Drama -  Fantasy,7.1,,,10362,
+"1,405.",Borderland,(2007),105 min,Crime -  Horror -  Thriller,5.6,,,10358,
+"1,406.",Dracula: Prince of Darkness,(1966),90 min,Horror,6.7,"£100,000","795,562",10344,
+"1,407.",Cannibal Ferox,(1981),93 min,Adventure -  Horror,5.1,,,10343,
+"1,408.",Husk,(2011),83 min,Horror -  Thriller,5.1,"$382,262",,10320,
+"1,409.",The Little Stranger,(2018),111 min,Drama -  Horror -  Mystery,5.5,,"713,143",10315,67
+"1,410.",Bhoothnath,(2008),150 min,Comedy -  Drama -  Family,6.3,,,10305,
+"1,411.",This Island Earth,(1955),86 min,Horror -  Mystery -  Sci-Fi,5.9,"$800,000",,10303,
+"1,412.",Into the Grizzly Maze,(2015),94 min,Action -  Adventure -  Drama,5.3,"$10,000,000",,10299,43
+"1,413.",The Domestics,(2018),95 min,Action -  Horror -  Sci-Fi,5.7,"$9,000,000",,10291,
+"1,414.",Next Door,(2005),75 min,Horror -  Mystery -  Thriller,6.4,"NOK 15,155,100",,10280,
+"1,415.",The Mummy,(1959),88 min,Adventure -  Horror,6.7,"£125,000",,10279,62
+"1,416.",Riding the Bullet,(2004),98 min,Horror -  Thriller,5.2,"$5,000,000","101,107",10275,37
+"1,417.",It Came from Outer Space,(1953),81 min,Horror -  Sci-Fi,6.5,"$800,000",,10272,
+"1,418.",Heartless,(I) (2009),114 min,Drama -  Fantasy -  Horror,5.9,"$5,000,000","2,033",10265,58
+"1,419.",Intruder,(1989),83 min,Horror -  Mystery,6.1,"$130,000",,10259,
+"1,420.",Nekromantik,(1988),71 min,Horror,4.9,,,10233,
+"1,421.",Nocturne,(II) (2020),90 min,Drama -  Horror -  Music,5.7,,,10221,58
+"1,422.",Island of Lost Souls,(1932),70 min,Film-Noir -  Horror -  Sci-Fi,7.4,"$300,000",,10206,
+"1,423.",The Thinning,(2016),81 min,Action -  Drama -  Horror,5.3,"$1,000,000",,10162,
+"1,424.",Tarantula,(1955),80 min,Horror -  Sci-Fi,6.4,,"1,100,000",10161,
+"1,425.",White Dog,(1982),90 min,Drama -  Horror,7.0,"$8,000,000",,10157,
+"1,426.",The Disappointments Room,(2016),91 min,Drama -  Horror -  Thriller,3.9,"$15,000,000","2,411,580",10150,31
+"1,427.",The Medium,(2021),130 min,Horror,6.5,,,10148,
+"1,428.",Magic Magic,(2013),97 min,Drama -  Horror -  Thriller,5.0,,,10145,59
+"1,429.",Stitches,(I) (2012),86 min,Comedy -  Horror,5.7,,,10110,
+"1,430.",Phantasm III: Lord of the Dead,(1994),91 min,Action -  Fantasy -  Horror,6.0,"$2,500,000",,10103,
+"1,431.",The Munsters,(2022),109 min,Comedy -  Family -  Fantasy,4.5,,,10090,57
+"1,432.",Curve,(2015),85 min,Horror -  Thriller,5.4,,,10089,
+"1,433.",Satan's Slaves,(2017),107 min,Drama -  Horror -  Mystery,6.5,"IDR 2,000,000,000",,10085,
+"1,434.",Wilderness,(I) (2006),93 min,Action -  Horror,6.1,"£3,000,000",,10083,
+"1,435.",The Beast of Yucca Flats,(1961),54 min,Horror -  Sci-Fi,1.9,"$34,000",,10052,
+"1,436.",Don't Torture a Duckling,(1972),105 min,Horror -  Mystery -  Thriller,7.0,,,10021,
+"1,437.",The Houses October Built,(2014),91 min,Horror -  Thriller,5.1,,,9998,
+"1,438.",Wolves,(2014),91 min,Action -  Fantasy -  Horror,5.3,"$18,000,000",,9988,37
+"1,439.",Golmaal Again,(2017),140 min,Action -  Comedy -  Fantasy,4.9,,"1,013,893",9962,
+"1,440.",Saturn 3,(1980),88 min,Adventure -  Horror -  Sci-Fi,5.1,"£10,000,000",,9961,9
+"1,441.",Pyewacket,(2017),88 min,Drama -  Horror -  Mystery,5.8,,,9952,56
+"1,442.",Awoken,(2019),88 min,Horror -  Mystery -  Thriller,5.0,"$1,900,000",,9944,
+"1,443.",The Haunting of Molly Hartley,(2008),85 min,Drama -  Horror -  Thriller,3.9,"$5,000,000","13,350,177",9935,28
+"1,444.",Lovely Molly,(2011),99 min,Drama -  Horror,5.3,"$1,000,000",,9934,50
+"1,445.",Hatchet III,(2013),81 min,Action -  Comedy -  Horror,5.6,"$1,169,935",,9933,25
+"1,446.",Fear City: A Family-Style Comedy,(1994),100 min,Comedy -  Horror,7.5,,,9926,
+"1,447.",Monster a Go-Go,(1965),68 min,Horror -  Sci-Fi,1.8,,,9920,
+"1,448.",The Dentist,(1996),92 min,Horror -  Thriller,5.3,"$700,000",,9897,
+"1,449.",Escape from Tomorrow,(2013),90 min,Drama -  Fantasy -  Horror,5.1,,"169,719",9889,58
+"1,450.",Come True,(2020),105 min,Horror -  Sci-Fi,6.0,,,9886,68
+"1,451.",In Fear,(I) (2013),85 min,Horror -  Mystery -  Thriller,5.4,,,9882,66
+"1,452.",The Gravedancers,(2006),95 min,Horror,5.4,,,9869,
+"1,453.",Whisper,(I) (2007),94 min,Crime -  Drama -  Horror,5.7,"$12,000,000",,9844,
+"1,454.",Exists,(2014),81 min,Horror -  Thriller,5.2,,,9839,22
+"1,455.",Hell Baby,(2013),98 min,Comedy -  Horror,4.9,"$2,500,000","4,980",9825,41
+"1,456.",Doom: Annihilation,(2019),96 min,Action -  Adventure -  Horror,3.8,,,9822,
+"1,457.",Dumplings,(2004),91 min,Drama -  Horror,6.7,,,9810,
+"1,458.",The Curse of Bridge Hollow,(2022),89 min,Adventure -  Comedy -  Family,5.5,,,9809,38
+"1,459.",The Cremator,(1969),95 min,Comedy -  Crime -  Drama,8.0,,,9792,
+"1,460.",Truth or Die,(II) (2012),96 min,Horror -  Mystery,5.6,"$1,000,000",,9779,
+"1,461.",Humanoids from the Deep,(1980),80 min,Horror -  Sci-Fi,5.7,,,9762,49
+"1,462.",Invaders from Mars,(1986),100 min,Horror -  Sci-Fi,5.5,"$12,000,000","4,884,663",9757,56
+"1,463.",Nightbooks,(2021),103 min,Family -  Fantasy -  Horror,5.8,,,9736,65
+"1,464.",In the Earth,(2021),107 min,Horror -  Mystery -  Thriller,5.1,,,9718,63
+"1,465.",Ravenous,(2017),104 min,Action -  Adventure -  Drama,5.8,"CA$3,700,000",,9706,
+"1,466.",They/Them,(2022),104 min,Horror -  Mystery -  Thriller,3.8,,,9701,46
+"1,467.",All Hallows' Eve,(2013),83 min,Horror -  Thriller,5.1,"$500,000",,9690,
+"1,468.",The Body Snatcher,(1945),78 min,Horror -  Thriller,7.3,"$125,000",,9682,74
+"1,469.",The Happiness of the Katakuris,(2001),113 min,Comedy -  Fantasy -  Horror,7.0,"$1,500,000",,9673,60
+"1,470.",Ghoulies,(1984),81 min,Comedy -  Fantasy -  Horror,4.1,"$5,500,000","35,000,000",9669,26
+"1,471.",The Battery,(2012),101 min,Adventure -  Drama -  Horror,6.3,"$6,000",,9660,
+"1,472.",Night Train,(I) (2009),91 min,Crime -  Horror -  Mystery,5.7,,,9627,
+"1,473.",Skinamarink,(2022),100 min,Horror,5.0,"CA$15,000",,9626,66
+"1,474.",The Rezort,(2015),91 min,Horror -  Sci-Fi -  Thriller,5.3,"£5,000,000",,9612,
+"1,475.",The Devil Rides Out,(1968),95 min,Horror,6.9,,,9608,
+"1,476.",The Face of Another,(1966),124 min,Drama -  Horror -  Sci-Fi,7.9,,,9590,
+"1,477.",Cold Prey 2,(2008),86 min,Horror -  Thriller,6.1,,,9589,
+"1,478.",The Mangler,(1995),106 min,Horror -  Mystery,4.3,,"1,781,383",9576,8
+"1,479.",Dante's Inferno: An Animated Epic,(2010),88 min,Animation -  Action -  Adventure,6.5,,,9548,
+"1,480.",Anamorph,(2007),107 min,Crime -  Horror -  Thriller,5.4,,"5,912",9543,43
+"1,481.",The Last Winter,(2006),101 min,Horror -  Mystery -  Thriller,5.5,"$5,000,000","32,921",9519,69
+"1,482.",Black Rock,(2012),83 min,Horror -  Thriller,4.8,,,9514,46
+"1,483.",Ring 0: Birthday,(2000),99 min,Horror -  Mystery -  Thriller,6.0,"$6,000,000",,9509,
+"1,484.",Infestation,(2009),91 min,Action -  Adventure -  Comedy,5.8,"$3,500,000",,9500,
+"1,485.",Kutsal Damacana,(2007),105 min,Comedy -  Fantasy -  Horror,5.1,"$2,000,000",,9475,
+"1,486.",Acrimony,(2018),120 min,Drama -  Horror -  Romance,5.9,"$20,000,000","43,549,096",9472,32
+"1,487.",Demon Seed,(1977),94 min,Horror -  Sci-Fi,6.3,,,9467,55
+"1,488.",Patient Zero,(I) (2018),93 min,Action -  Drama -  Horror,4.6,,,9459,
+"1,489.",The Dead,(2010),105 min,Action -  Adventure -  Drama,5.7,,,9451,59
+"1,490.",Perdita Durango,(1997),129 min,Action -  Crime -  Horror,6.3,"€4,200,000",,9438,
+"1,491.",House on Willow Street,(2016),90 min,Action -  Crime -  Horror,4.6,,,9432,
+"1,492.",Chatroom,(2010),97 min,Drama -  Horror -  Thriller,5.4,,,9416,
+"1,493.",The Puppet Masters,(1994),109 min,Horror -  Sci-Fi -  Thriller,5.9,,"8,638,072",9403,
+"1,494.",The Lodgers,(2017),92 min,Drama -  Horror -  Mystery,5.1,,,9387,52
+"1,495.",Dr. Jekyll and Mr. Hyde,(1941),90 min,Drama -  Horror -  Sci-Fi,6.8,,"3,924,000",9384,
+"1,496.",Flight of the Living Dead,(2007),89 min,Horror,5.1,,,9381,
+"1,497.",Frankenstein Meets the Wolf Man,(1943),74 min,Fantasy -  Horror -  Sci-Fi,6.4,,,9374,
+"1,498.",Saint,(2010),85 min,Comedy -  Fantasy -  Horror,5.6,,,9367,
+"1,499.",Anything for Jackson,(2020),97 min,Horror -  Mystery,6.3,,,9359,67
+"1,500.",Smiley,(2012),95 min,Horror -  Mystery -  Thriller,3.4,,,9355,25
+"1,501.",Daniel Isn't Real,(2019),100 min,Drama -  Fantasy -  Horror,6.1,,,9339,61
+"1,502.",Girl House,(2014),101 min,Horror -  Thriller,5.5,"$3,150,000",,9338,
+"1,503.",The House on Sorority Row,(1982),91 min,Horror -  Mystery -  Thriller,5.9,"$425,000","1,292,888",9333,50
+"1,504.",Satan,(2006),95 min,Comedy -  Horror -  Thriller,5.6,"€2,700,000",,9322,
+"1,505.",Beloved,(1998),172 min,Drama -  History -  Horror,6.0,"$80,000,000","22,852,487",9288,57
+"1,506.",Piranha II: The Spawning,(1981),94 min,Horror -  Sci-Fi -  Thriller,3.8,"$145,786",,9260,15
+"1,507.",Soul Survivors,(2001),84 min,Horror -  Mystery -  Thriller,3.9,"$17,000,000","3,100,650",9257,20
+"1,508.",All Cheerleaders Die,(2013),89 min,Comedy -  Horror,5.1,,,9250,45
+"1,509.",Dead Rising: Watchtower,(2015),118 min,Action -  Horror,5.2,,,9244,
+"1,510.",Resurrection,(2022),103 min,Crime -  Drama -  Horror,5.9,,,9232,70
+"1,511.",Viral,(I) (2016),85 min,Drama -  Horror -  Sci-Fi,5.5,,,9196,
+"1,512.",The Crow: Wicked Prayer,(2005),99 min,Action -  Adventure -  Comedy,3.0,,,9180,
+"1,513.",Await Further Instructions,(2018),91 min,Horror -  Mystery -  Sci-Fi,4.9,,,9162,
+"1,514.",Wer,(2013),93 min,Action -  Horror -  Mystery,5.9,"$2,500,000",,9156,
+"1,515.",Piggy,(2022),99 min,Drama -  Horror -  Thriller,6.2,,,9149,72
+"1,516.",Highwaymen,(2004),80 min,Action -  Crime -  Horror,5.6,,"367,027",9146,49
+"1,517.",Repossessed,(1990),80 min,Comedy -  Fantasy -  Horror,4.8,,"1,382,462",9143,31

@@ -1,0 +1,958 @@
+Number,Title,Year,Runtime,Genre,Rating,Budget,Gross US & Canada,Votes,Metascore
+1.,The Dark Knight,(2008),152 min,Action -  Crime -  Drama,9.0,"$185,000,000","534,858,444",2710342,84
+2.,Pulp Fiction,(1994),154 min,Crime -  Drama,8.9,"$8,000,000","107,928,762",2103494,95
+3.,The Godfather,(1972),175 min,Crime -  Drama,9.2,"$6,000,000","134,966,411",1903506,100
+4.,Se7en,(1995),127 min,Crime -  Drama -  Mystery,8.6,"$33,000,000","100,125,643",1692365,65
+5.,Batman Begins,(2005),140 min,Action -  Crime -  Drama,8.2,"$150,000,000","206,852,432",1499377,70
+6.,The Silence of the Lambs,(1991),118 min,Crime -  Drama -  Thriller,8.6,"$19,000,000","130,742,922",1463591,86
+7.,The Wolf of Wall Street,(2013),180 min,Biography -  Comedy -  Crime,8.2,"$100,000,000","116,900,694",1457294,75
+8.,The Departed,(2006),151 min,Crime -  Drama -  Thriller,8.5,"$90,000,000","132,384,315",1352553,85
+9.,Joker,(I) (2019),122 min,Crime -  Drama -  Thriller,8.4,"$55,000,000","335,451,311",1347354,59
+10.,The Green Mile,(1999),189 min,Crime -  Drama -  Fantasy,8.6,"$60,000,000","136,801,374",1331107,61
+11.,The Godfather Part II,(1974),202 min,Crime -  Drama,9.0,"$13,000,000","57,300,000",1297463,90
+12.,Goodfellas,(1990),145 min,Biography -  Crime -  Drama,8.7,"$25,000,000","46,836,394",1188043,92
+13.,Léon: The Professional,(1994),110 min,Action -  Crime -  Drama,8.5,"FRF 115,000,000","19,501,238",1185952,64
+14.,American History X,(1998),119 min,Crime -  Drama,8.5,"$20,000,000","6,719,864",1140963,62
+15.,Kill Bill: Vol. 1,(2003),111 min,Action -  Crime -  Drama,8.2,"$30,000,000","70,099,045",1138055,69
+16.,The Usual Suspects,(1995),106 min,Crime -  Drama -  Mystery,8.5,"$6,000,000","23,341,568",1102230,77
+17.,Reservoir Dogs,(1992),99 min,Crime -  Thriller,8.3,"$1,200,000","2,832,029",1040394,81
+18.,Catch Me If You Can,(2002),141 min,Biography -  Crime -  Drama,8.1,"$52,000,000","164,615,351",1017224,75
+19.,No Country for Old Men,(2007),122 min,Crime -  Drama -  Thriller,8.2,"$25,000,000","74,283,625",998594,92
+20.,Snatch,(2000),102 min,Comedy -  Crime,8.2,"£6,000,000","30,328,156",872076,55
+21.,Scarface,(1983),170 min,Crime -  Drama,8.3,"$25,000,000","45,598,982",863355,65
+22.,Taxi Driver,(1976),114 min,Crime -  Drama,8.2,"$1,300,000","28,262,574",860716,94
+23.,Slumdog Millionaire,(2008),120 min,Crime -  Drama -  Romance,8.0,"$15,000,000","141,319,928",857632,84
+24.,A Clockwork Orange,(1971),136 min,Crime -  Sci-Fi,8.3,"$2,200,000","6,207,725",846041,77
+25.,The Grand Budapest Hotel,(2014),99 min,Adventure -  Comedy -  Crime,8.1,"$25,000,000","59,100,318",835629,88
+26.,The Big Lebowski,(1998),117 min,Comedy -  Crime,8.1,"$15,000,000","17,498,804",825320,71
+27.,12 Angry Men,(1957),96 min,Crime -  Drama,9.0,"$350,000","4,360,000",810133,97
+28.,Sin City,(2005),124 min,Crime -  Thriller,8.0,"$40,000,000","74,103,820",778313,74
+29.,Kill Bill: Vol. 2,(2004),137 min,Action -  Crime -  Thriller,8.0,"$30,000,000","66,208,183",772394,83
+30.,City of God,(2002),130 min,Crime -  Drama,8.6,"R$3,300,000","7,563,397",769233,79
+31.,Prisoners,(2013),153 min,Crime -  Drama -  Mystery,8.1,"$46,000,000","61,002,302",742566,70
+32.,Knives Out,(2019),130 min,Comedy -  Crime -  Drama,7.9,"$40,000,000","165,359,751",724716,82
+33.,The Batman,(2022),176 min,Action -  Crime -  Drama,7.8,"$200,000,000","369,345,583",696182,72
+34.,Fargo,(1996),98 min,Crime -  Thriller,8.1,"$7,000,000","24,611,975",691240,86
+35.,John Wick,(2014),101 min,Action -  Crime -  Thriller,7.4,"$20,000,000","43,037,835",688402,68
+36.,Now You See Me,(I) (2013),115 min,Crime -  Mystery -  Thriller,7.2,"$75,000,000","117,723,989",676827,50
+37.,Heat,(1995),170 min,Action -  Crime -  Drama,8.3,"$60,000,000","67,436,818",672018,76
+38.,American Psycho,(2000),102 min,Crime -  Drama -  Horror,7.6,"$7,000,000","15,070,285",652932,64
+39.,The Hateful Eight,(2015),168 min,Crime -  Drama -  Mystery,7.8,"$44,000,000","54,117,416",621593,68
+40.,Taken,(I) (2008),90 min,Action -  Crime -  Thriller,7.8,"$25,000,000","145,000,989",613620,51
+41.,"Lock, Stock and Two Smoking Barrels",(1998),107 min,Action -  Comedy -  Crime,8.1,"£960,000","3,897,569",593920,66
+42.,L.A. Confidential,(1997),138 min,Crime -  Drama -  Mystery,8.2,"$35,000,000","64,616,940",592076,91
+43.,Ocean's Eleven,(2001),116 min,Crime -  Thriller,7.7,"$85,000,000","183,417,150",589848,74
+44.,Kick-Ass,(2010),117 min,Action -  Comedy -  Crime,7.6,"$30,000,000","48,071,303",574268,66
+45.,21 Jump Street,(2012),109 min,Action -  Comedy -  Crime,7.2,"$42,000,000","138,447,667",573628,69
+46.,Nightcrawler,(2014),117 min,Crime -  Drama -  Thriller,7.8,"$8,500,000","32,381,218",567511,76
+47.,Minority Report,(2002),145 min,Action -  Crime -  Mystery,7.6,"$102,000,000","132,072,926",564200,80
+48.,Baby Driver,(2017),113 min,Action -  Crime -  Drama,7.6,"$34,000,000","107,825,862",564109,86
+49.,Zodiac,(2007),157 min,Crime -  Drama -  Mystery,7.7,"$65,000,000","33,080,084",559846,79
+50.,Despicable Me,(2010),95 min,Animation -  Adventure -  Comedy,7.6,"$69,000,000","251,513,985",559681,72
+51.,Casino,(1995),178 min,Crime -  Drama,8.2,"$52,000,000","42,438,300",533109,73
+52.,"Three Billboards Outside Ebbing, Missouri",(2017),115 min,Comedy -  Crime -  Drama,8.1,"$15,000,000","54,513,740",524516,88
+53.,Zootopia,(2016),108 min,Animation -  Adventure -  Comedy,8.0,"$150,000,000","341,268,248",514667,78
+54.,Mr. & Mrs. Smith,(2005),120 min,Action -  Comedy -  Crime,6.5,"$110,000,000","186,336,279",510562,55
+55.,American Hustle,(2013),138 min,Crime -  Drama,7.2,"$40,000,000","150,117,807",487991,90
+56.,Spotlight,(I) (2015),129 min,Biography -  Crime -  Drama,8.1,"$20,000,000","45,055,776",481053,93
+57.,Big Hero 6,(2014),102 min,Animation -  Action -  Adventure,7.8,"$165,000,000","222,527,828",475061,74
+58.,The Girl with the Dragon Tattoo,(2011),158 min,Crime -  Drama -  Mystery,7.8,"$90,000,000","102,515,793",473357,71
+59.,John Wick: Chapter 2,(2017),122 min,Action -  Crime -  Thriller,7.4,"$40,000,000","92,029,184",473037,75
+60.,Captain Phillips,(2013),134 min,Action -  Biography -  Crime,7.8,"$55,000,000","107,100,855",472035,82
+61.,Mystic River,(2003),138 min,Crime -  Drama -  Mystery,7.9,"$25,000,000","90,135,191",466786,84
+62.,We're the Millers,(2013),110 min,Comedy -  Crime,7.0,"$37,000,000","150,394,119",462339,44
+63.,Horrible Bosses,(2011),98 min,Comedy -  Crime,6.9,"$35,000,000","117,538,559",457304,57
+64.,Gangs of New York,(2002),167 min,Crime -  Drama,7.5,"$100,000,000","77,812,000",453192,72
+65.,Training Day,(2001),122 min,Action -  Crime -  Drama,7.7,"$45,000,000","76,631,907",449056,69
+66.,Sicario,(2015),121 min,Action -  Crime -  Drama,7.6,"$30,000,000","46,889,293",444773,82
+67.,In Bruges,(2008),107 min,Comedy -  Crime -  Drama,7.9,"$15,000,000","7,757,130",444384,67
+68.,Crash,(I) (2004),112 min,Crime -  Drama -  Thriller,7.7,"$6,500,000","54,580,300",441972,66
+69.,American Gangster,(2007),157 min,Biography -  Crime -  Drama,7.8,"$100,000,000","130,164,645",435546,76
+70.,Collateral,(2004),120 min,Action -  Crime -  Drama,7.5,"$65,000,000","101,005,703",415117,71
+71.,Despicable Me 2,(2013),98 min,Animation -  Adventure -  Comedy,7.3,"$76,000,000","368,061,265",409543,62
+72.,The Godfather Part III,(1990),162 min,Crime -  Drama,7.6,"$54,000,000","66,666,062",406762,60
+73.,The Irishman,(2019),209 min,Biography -  Crime -  Drama,7.8,"$159,000,000","7,000,000",402144,94
+74.,Fast & Furious 6,(2013),130 min,Action -  Adventure -  Crime,7.0,"$160,000,000","238,679,850",401876,61
+75.,The Town,(2010),125 min,Crime -  Drama -  Thriller,7.5,"$37,000,000","92,186,262",400496,74
+76.,Ocean's Twelve,(2004),125 min,Crime -  Thriller,6.5,"$110,000,000","125,544,280",399705,58
+77.,Furious 7,(2015),137 min,Action -  Crime -  Thriller,7.1,"$190,000,000","353,007,020",398043,67
+78.,The Mask,(1994),101 min,Action -  Comedy -  Crime,6.9,"$23,000,000","119,938,730",398000,56
+79.,Wanted,(2008),110 min,Action -  Crime -  Thriller,6.7,"$75,000,000","134,508,551",397175,64
+80.,The Fast and the Furious,(2001),106 min,Action -  Crime -  Thriller,6.8,"$38,000,000","144,533,925",395793,58
+81.,Fast Five,(2011),130 min,Action -  Crime -  Thriller,7.3,"$125,000,000","209,837,675",389462,66
+82.,22 Jump Street,(2014),112 min,Action -  Comedy -  Crime,7.0,"$50,000,000","191,719,337",388259,71
+83.,Glass Onion,(2022),139 min,Comedy -  Crime -  Drama,7.1,"$40,000,000",,387815,81
+84.,Face/Off,(1997),138 min,Action -  Crime -  Sci-Fi,7.3,"$80,000,000","112,225,777",386539,82
+85.,John Wick: Chapter 3 - Parabellum,(2019),130 min,Action -  Crime -  Thriller,7.4,"$75,000,000","171,015,687",386087,73
+86.,The Equalizer,(2014),132 min,Action -  Crime -  Thriller,7.2,"$55,000,000","101,530,738",383337,57
+87.,Inside Man,(2006),129 min,Crime -  Drama -  Mystery,7.6,"$45,000,000","88,513,495",382834,76
+88.,The Italian Job,(2003),111 min,Action -  Crime -  Thriller,7.0,"$60,000,000","106,128,601",376435,68
+89.,Home Alone 2: Lost in New York,(1992),120 min,Adventure -  Comedy -  Crime,6.8,"$28,000,000","173,585,516",374148,46
+90.,Man on Fire,(2004),146 min,Action -  Crime -  Drama,7.7,"$70,000,000","77,911,774",371253,47
+91.,Once Upon a Time in America,(1984),229 min,Crime -  Drama,8.3,"$30,000,000","5,321,508",359348,75
+92.,The Gentlemen,(2019),113 min,Action -  Comedy -  Crime,7.8,"$22,000,000","36,471,795",358879,51
+93.,Jackie Brown,(1997),154 min,Crime -  Drama -  Thriller,7.5,"$12,000,000","39,673,162",358009,64
+94.,Ocean's Thirteen,(2007),122 min,Crime -  Thriller,6.9,"$85,000,000","117,154,724",355238,62
+95.,Pineapple Express,(2008),111 min,Action -  Comedy -  Crime,6.9,"$27,000,000","87,341,380",347220,64
+96.,Kingsman: The Golden Circle,(2017),141 min,Action -  Adventure -  Comedy,6.7,"$104,000,000","100,234,838",342021,44
+97.,The Nice Guys,(2016),116 min,Action -  Comedy -  Crime,7.3,"$50,000,000","36,261,763",341136,70
+98.,Burn After Reading,(2008),96 min,Comedy -  Crime -  Drama,7.0,"$37,000,000","60,355,347",340553,63
+99.,Lord of War,(2005),122 min,Crime -  Drama,7.6,"$50,000,000","24,149,632",325428,62
+100.,From Dusk Till Dawn,(1996),108 min,Action -  Crime -  Horror,7.2,"$19,000,000","25,753,840",324298,48
+101.,The Hangover Part III,(2013),100 min,Comedy -  Crime,5.8,"$103,000,000","112,200,072",322783,30
+102.,To Kill a Mockingbird,(1962),129 min,Crime -  Drama,8.3,"$2,000,000",,321676,88
+103.,3:10 to Yuma,(2007),122 min,Action -  Crime -  Drama,7.7,"$55,000,000","53,606,916",319615,76
+104.,"O Brother, Where Art Thou?",(2000),107 min,Adventure -  Comedy -  Crime,7.7,"$26,000,000","45,512,588",319436,69
+105.,Lucky Number Slevin,(2006),110 min,Crime -  Drama -  Thriller,7.7,"$27,000,000","22,494,487",318604,53
+106.,The Untouchables,(1987),119 min,Crime -  Drama -  Thriller,7.8,"$25,000,000","76,270,454",318063,79
+107.,Deja Vu,(2006),126 min,Action -  Crime -  Sci-Fi,7.1,"$75,000,000","64,038,616",317298,59
+108.,Donnie Brasco,(1997),127 min,Biography -  Crime -  Drama,7.7,"$35,000,000","41,909,762",316220,76
+109.,RED,(2010),111 min,Action -  Comedy -  Crime,7.0,"$58,000,000","90,380,162",315142,60
+110.,Taken 2,(2012),92 min,Action -  Crime -  Thriller,6.2,"$45,000,000","139,854,287",313217,45
+111.,Batman Returns,(1992),126 min,Action -  Crime -  Fantasy,7.1,"$80,000,000","162,831,698",313039,68
+112.,The Transporter,(2002),92 min,Action -  Crime -  Thriller,6.8,"$21,000,000","25,296,447",310210,51
+113.,Public Enemies,(2009),140 min,Action -  Biography -  Crime,7.0,"$100,000,000","97,104,620",309243,70
+114.,Con Air,(1997),115 min,Action -  Crime -  Thriller,6.9,"$75,000,000","101,117,573",307443,52
+115.,Law Abiding Citizen,(2009),109 min,Action -  Crime -  Drama,7.4,"$50,000,000","73,343,413",305760,34
+116.,The Fugitive,(1993),130 min,Action -  Crime -  Drama,7.8,"$44,000,000","183,875,760",303937,87
+117.,Now You See Me 2,(2016),129 min,Action -  Adventure -  Comedy,6.4,"$90,000,000","65,075,540",302123,46
+118.,Uncut Gems,(2019),135 min,Crime -  Drama -  Thriller,7.4,"$19,000,000",,295552,91
+119.,Fast & Furious,(2009),107 min,Action -  Crime -  Thriller,6.5,"$85,000,000","155,064,265",295022,46
+120.,Panic Room,(2002),112 min,Crime -  Drama -  Thriller,6.8,"$48,000,000","96,397,334",285980,65
+121.,Gone in 60 Seconds,(2000),118 min,Action -  Crime -  Thriller,6.5,"$90,000,000","101,648,571",285290,35
+122.,Don't Breathe,(2016),88 min,Crime -  Horror -  Thriller,7.1,"$9,900,000","89,217,875",284795,71
+123.,Hannibal,(2001),131 min,Crime -  Drama -  Thriller,6.8,"$87,000,000","165,092,268",282257,57
+124.,Nobody,(I) (2021),92 min,Action -  Crime -  Drama,7.4,"$16,000,000","27,268,035",282047,64
+125.,Dredd,(2012),95 min,Action -  Crime -  Sci-Fi,7.1,"$50,000,000","13,414,714",281974,60
+126.,2 Fast 2 Furious,(2003),107 min,Action -  Crime -  Thriller,5.9,"$76,000,000","127,154,901",281381,38
+127.,Red Dragon,(2002),124 min,Crime -  Drama -  Thriller,7.2,"$78,000,000","93,149,898",280754,60
+128.,The Fast and the Furious: Tokyo Drift,(2006),104 min,Action -  Crime -  Thriller,6.0,"$85,000,000","62,514,415",280740,45
+129.,Gone Baby Gone,(2007),114 min,Crime -  Drama -  Mystery,7.6,"$19,000,000","20,300,218",279659,72
+130.,Kick-Ass 2,(2013),103 min,Action -  Comedy -  Crime,6.5,"$28,000,000","28,795,985",279343,41
+131.,Rush Hour,(1998),98 min,Action -  Comedy -  Crime,7.0,"$33,000,000","141,153,686",278388,60
+132.,The Other Guys,(2010),107 min,Action -  Comedy -  Crime,6.6,"$100,000,000","119,219,978",276730,64
+133.,The Place Beyond the Pines,(2012),140 min,Crime -  Drama -  Thriller,7.3,"$15,000,000","21,383,298",276492,68
+134.,Phone Booth,(2002),81 min,Crime -  Thriller,7.1,"$13,000,000","46,566,212",275791,56
+135.,Road to Perdition,(2002),117 min,Crime -  Drama -  Thriller,7.7,"$80,000,000","104,454,762",275412,72
+136.,Megamind,(2010),95 min,Animation -  Action -  Comedy,7.3,"$130,000,000","148,415,853",274944,63
+137.,Bad Boys,(1995),119 min,Action -  Comedy -  Crime,6.8,"$19,000,000","65,807,024",274183,41
+138.,BlacKkKlansman,(2018),135 min,Biography -  Comedy -  Crime,7.5,"$15,000,000","49,275,340",273134,83
+139.,The Sting,(1973),129 min,Comedy -  Crime -  Drama,8.3,"$5,500,000","159,600,000",269035,83
+140.,Murder on the Orient Express,(2017),114 min,Crime -  Drama -  Mystery,6.5,"$55,000,000","102,826,543",268008,52
+141.,RoboCop,(1987),102 min,Action -  Crime -  Sci-Fi,7.6,"$13,000,000","53,424,681",266768,70
+142.,Blow,(2001),124 min,Biography -  Crime -  Drama,7.5,"$53,000,000","52,990,775",266491,52
+143.,Lethal Weapon,(1987),109 min,Action -  Crime -  Thriller,7.6,"$15,000,000","65,207,127",265796,68
+144.,El Camino: A Breaking Bad Movie,(2019),122 min,Action -  Crime -  Drama,7.3,"$6,000,000",,265656,72
+145.,Seven Psychopaths,(2012),110 min,Comedy -  Crime,7.1,"$15,000,000","15,024,049",265489,66
+146.,Dog Day Afternoon,(1975),125 min,Biography -  Crime -  Drama,8.0,"$1,800,000","50,000,000",263201,86
+147.,Wind River,(2017),107 min,Crime -  Drama -  Mystery,7.7,"$11,000,000","33,800,859",261636,73
+148.,Changeling,(2008),141 min,Biography -  Crime -  Drama,7.8,"$55,000,000","35,739,802",259587,63
+149.,Chappie,(2015),120 min,Action -  Crime -  Drama,6.8,"$49,000,000","31,569,268",258878,41
+150.,21,(2008),123 min,Crime -  Drama -  History,6.8,"$35,000,000","81,159,365",258233,48
+151.,Focus,(II) (2015),105 min,Comedy -  Crime -  Drama,6.6,"$50,100,000","53,862,963",258215,56
+152.,RocknRolla,(2008),114 min,Action -  Crime -  Thriller,7.2,"$18,000,000","5,694,401",258183,53
+153.,Bad Boys II,(2003),147 min,Action -  Comedy -  Crime,6.6,"$130,000,000","138,608,444",257780,38
+154.,Perfume: The Story of a Murderer,(2006),147 min,Crime -  Drama -  Fantasy,7.5,"$60,000,000","2,223,293",257298,56
+155.,End of Watch,(2012),109 min,Action -  Adventure -  Crime,7.6,"$7,000,000","41,003,371",256089,68
+156.,Crank,(2006),88 min,Action -  Crime -  Thriller,6.9,"$12,000,000","27,829,874",255199,57
+157.,Eastern Promises,(2007),100 min,Crime -  Drama -  Thriller,7.6,"£25,000,000","17,114,882",250123,83
+158.,Birds of Prey,(2020),109 min,Action -  Comedy -  Crime,6.0,"$84,500,000","84,158,461",248469,60
+159.,Lawless,(2012),116 min,Biography -  Crime -  Drama,7.2,"$26,000,000","37,400,127",246703,58
+160.,Minions,(2015),91 min,Animation -  Adventure -  Comedy,6.4,"$74,000,000","336,045,770",246423,56
+161.,Southpaw,(2015),124 min,Action -  Crime -  Drama,7.3,"$30,000,000","52,421,953",246387,57
+162.,A History of Violence,(2005),96 min,Action -  Crime -  Drama,7.4,"$32,000,000","31,493,782",244199,82
+163.,Fantastic Mr. Fox,(2009),87 min,Animation -  Adventure -  Comedy,7.9,"$40,000,000","21,002,919",243991,83
+164.,The Lincoln Lawyer,(2011),118 min,Crime -  Drama -  Mystery,7.3,"$40,000,000","58,009,200",243986,63
+165.,Cruella,(2021),134 min,Adventure -  Comedy -  Crime,7.3,"$100,000,000","86,103,234",243812,59
+166.,Game Night,(I) (2018),100 min,Action -  Adventure -  Comedy,6.9,"$37,000,000","69,179,066",243492,66
+167.,Natural Born Killers,(1994),119 min,Action -  Crime -  Drama,7.2,"$34,000,000","50,282,766",241683,74
+168.,21 Grams,(2003),124 min,Crime -  Drama -  Thriller,7.6,"$20,000,000","16,290,476",240909,70
+169.,Disturbia,(2007),105 min,Crime -  Drama -  Mystery,6.8,"$20,000,000","80,209,692",240529,62
+170.,Austin Powers: The Spy Who Shagged Me,(1999),95 min,Action -  Adventure -  Comedy,6.6,"$33,000,000","206,040,086",239826,59
+171.,The Fate of the Furious,(2017),136 min,Action -  Crime -  Thriller,6.6,"$250,000,000","226,008,385",239192,56
+172.,Hell or High Water,(II) (2016),102 min,Crime -  Drama -  Thriller,7.6,"$12,000,000","26,862,450",238332,88
+173.,The Hitman's Bodyguard,(2017),118 min,Action -  Comedy -  Crime,6.9,"$30,000,000","75,468,583",237695,47
+174.,Chicago,(2002),113 min,Comedy -  Crime -  Musical,7.2,"$45,000,000","170,687,518",235359,81
+175.,RoboCop,(2014),117 min,Action -  Crime -  Sci-Fi,6.1,"$100,000,000","58,607,007",233137,52
+176.,True Romance,(1993),119 min,Crime -  Drama -  Romance,7.9,"$13,000,000","12,281,500",232738,59
+177.,Kiss Kiss Bang Bang,(2005),103 min,Comedy -  Crime -  Mystery,7.5,"$15,000,000","4,243,756",231144,72
+178.,Primal Fear,(1996),129 min,Crime -  Drama -  Mystery,7.7,"$30,000,000","56,116,183",231115,47
+179.,War Dogs,(2016),114 min,Biography -  Comedy -  Crime,7.1,"$40,000,000","43,034,523",231056,57
+180.,Sleepers,(1996),147 min,Crime -  Drama -  Thriller,7.5,"$44,000,000","49,100,000",229840,49
+181.,Ocean's Eight,(2018),110 min,Action -  Comedy -  Crime,6.3,"$70,000,000","140,218,711",228464,61
+182.,Rush Hour 2,(2001),90 min,Action -  Comedy -  Crime,6.6,"$90,000,000","226,164,286",227684,48
+183.,Ace Ventura: When Nature Calls,(1995),90 min,Adventure -  Comedy -  Crime,6.4,"$30,000,000","108,385,533",224326,45
+184.,Carlito's Way,(1993),144 min,Crime -  Drama -  Thriller,7.9,"$30,000,000","36,948,322",223981,66
+185.,Daredevil,(2003),103 min,Action -  Crime,5.3,"$78,000,000","102,543,520",223808,42
+186.,Pain & Gain,(2013),129 min,Action -  Comedy -  Crime,6.4,"$26,000,000","49,875,291",222188,45
+187.,Butch Cassidy and the Sundance Kid,(1969),110 min,Biography -  Crime -  Drama,8.0,"$6,000,000","102,308,889",220415,66
+188.,Ghost in the Shell,(2017),107 min,Action -  Crime -  Drama,6.3,"$110,000,000","40,563,557",220200,52
+189.,The Girl with the Dragon Tattoo,(2009),152 min,Crime -  Drama -  Mystery,7.8,"$13,000,000","10,095,170",219391,76
+190.,Gangster Squad,(2013),113 min,Action -  Crime -  Drama,6.7,"$60,000,000","46,000,903",218705,40
+191.,Bolt,(2008),96 min,Animation -  Adventure -  Comedy,6.8,"$150,000,000","114,053,579",218293,67
+192.,Miss Congeniality,(2000),109 min,Action -  Comedy -  Crime,6.3,"$45,000,000","106,807,667",218244,43
+193.,The Talented Mr. Ripley,(1999),139 min,Crime -  Drama -  Thriller,7.4,"$40,000,000","81,298,265",218239,76
+194.,Austin Powers in Goldmember,(2002),94 min,Action -  Adventure -  Comedy,6.2,"$63,000,000","213,307,889",215311,62
+195.,Traffic,(2000),147 min,Crime -  Drama -  Thriller,7.6,"$48,000,000","124,115,725",212313,86
+196.,Fracture,(2007),113 min,Crime -  Drama -  Thriller,7.2,,"39,015,018",210873,68
+197.,The Raid: Redemption,(2011),101 min,Action -  Crime -  Thriller,7.6,"$1,100,000","4,105,187",209648,73
+198.,Transporter 2,(2005),87 min,Action -  Crime -  Thriller,6.3,"$32,000,000","43,095,600",207857,56
+199.,Who Framed Roger Rabbit,(1988),104 min,Animation -  Adventure -  Comedy,7.7,"$70,000,000","156,452,370",207481,83
+200.,The Number 23,(2007),98 min,Crime -  Mystery -  Thriller,6.4,"$30,000,000","35,193,167",206920,
+201.,Jai Bhim,(2021),164 min,Crime -  Drama -  Mystery,8.8,,,206312,
+202.,Blue Velvet,(1986),120 min,Crime -  Drama -  Mystery,7.7,"$6,000,000","8,551,228",205586,76
+203.,The Blues Brothers,(1980),133 min,Action -  Adventure -  Comedy,7.9,"$27,500,000","57,229,890",205470,60
+204.,Cape Fear,(1991),128 min,Crime -  Thriller,7.3,"$35,000,000","79,100,000",203420,73
+205.,Enola Holmes,(2020),123 min,Action -  Adventure -  Crime,6.6,"$20,000,000",,203258,68
+206.,Run Lola Run,(1998),80 min,Action -  Crime -  Thriller,7.7,"DEM 3,500,000","7,267,585",202133,77
+207.,The Taking of Pelham 123,(2009),106 min,Action -  Crime -  Thriller,6.4,"$100,000,000","65,452,312",201870,55
+208.,The Next Three Days,(2010),133 min,Action -  Crime -  Drama,7.3,"$30,000,000","21,148,651",200537,52
+209.,Machete,(2010),105 min,Action -  Crime -  Thriller,6.6,"$10,500,000","26,593,646",200342,60
+210.,Cars 2,(2011),106 min,Animation -  Adventure -  Comedy,6.2,"$200,000,000","191,452,396",200065,57
+211.,Central Intelligence,(2016),107 min,Action -  Comedy -  Crime,6.3,"$50,000,000","127,440,871",199387,52
+212.,Taken 3,(2014),108 min,Action -  Crime -  Thriller,6.0,"$48,000,000","89,256,424",197522,26
+213.,Falling Down,(1993),113 min,Action -  Crime -  Drama,7.6,"$25,000,000","40,903,593",196307,56
+214.,The Judge,(2014),141 min,Crime -  Drama,7.4,"$50,000,000","47,119,388",195889,48
+215.,Memories of Murder,(2003),132 min,Crime -  Drama -  Mystery,8.1,"$2,800,000","14,131",194759,82
+216.,Side Effects,(I) (2013),106 min,Crime -  Drama -  Mystery,7.1,"$30,000,000","32,172,757",193135,75
+217.,Baywatch,(2017),116 min,Action -  Comedy -  Crime,5.5,"$69,000,000","58,060,186",192927,37
+218.,American Made,(2017),115 min,Action -  Comedy -  Crime,7.1,"$50,000,000","51,342,000",192662,65
+219.,The Girl on the Train,(2016),112 min,Crime -  Drama -  Mystery,6.5,"$45,000,000","75,395,035",192241,48
+220.,The Danish Girl,(2015),119 min,Biography -  Crime -  Drama,7.1,"$15,000,000","11,114,018",191945,66
+221.,Swordfish,(2001),99 min,Action -  Crime -  Thriller,6.5,"$102,000,000","69,772,969",191360,32
+222.,Beverly Hills Cop,(1984),105 min,Action -  Comedy -  Crime,7.3,"$13,000,000","234,760,478",191251,66
+223.,Charlie's Angels,(2000),98 min,Action -  Adventure -  Comedy,5.6,"$93,000,000","125,305,545",190906,52
+224.,Point Break,(1991),122 min,Action -  Crime -  Thriller,7.2,"$24,000,000","43,218,387",190857,59
+225.,Desperado,(1995),104 min,Action -  Crime -  Thriller,7.1,"$7,000,000","25,625,110",190734,55
+226.,Legend,(I) (2015),132 min,Biography -  Crime -  Drama,6.9,"$30,000,000","1,872,994",190204,55
+227.,The Crow,(1994),102 min,Action -  Crime -  Drama,7.5,"$23,000,000","50,693,162",189920,71
+228.,Wrath of Man,(2021),119 min,Action -  Crime -  Thriller,7.1,"$40,000,000","27,466,489",188919,57
+229.,Ronin,(1998),122 min,Action -  Crime -  Thriller,7.2,"$55,000,000","41,616,262",187987,67
+230.,Layer Cake,(2004),105 min,Action -  Crime -  Drama,7.3,"£4,000,000","2,338,695",187649,73
+231.,Promising Young Woman,(2020),113 min,Crime -  Drama -  Mystery,7.5,,,186649,73
+232.,The Assassination of Jesse James by the Coward Robert Ford,(2007),160 min,Biography -  Crime -  Drama,7.5,"$30,000,000","3,904,982",186640,68
+233.,The Longest Yard,(2005),113 min,Comedy -  Crime -  Sport,6.4,"$82,000,000","158,119,460",186076,48
+234.,Black Mass,(2015),123 min,Biography -  Crime -  Drama,6.9,"$53,000,000","62,575,678",185285,68
+235.,The Bank Job,(2008),111 min,Crime -  Drama -  Thriller,7.2,"$20,000,000","30,060,660",184935,69
+236.,The Invisible Guest,(2016),106 min,Crime -  Drama -  Mystery,8.0,"€4,000,000",,182314,
+237.,Inferno,(I) (2016),121 min,Action -  Adventure -  Crime,6.2,"$75,000,000","34,343,574",181792,42
+238.,Lethal Weapon 2,(1989),114 min,Action -  Crime -  Thriller,7.2,"$28,000,000","147,253,986",181622,70
+239.,Cool Hand Luke,(1967),127 min,Crime -  Drama,8.1,"$3,200,000","16,217,773",181254,92
+240.,La haine,(1995),98 min,Crime -  Drama,8.1,"€2,590,000","309,811",180737,
+241.,Dial M for Murder,(1954),105 min,Crime -  Thriller,8.2,"$1,400,000","12,562",180175,75
+242.,In the Name of the Father,(1993),133 min,Biography -  Crime -  Drama,8.1,"$13,000,000","25,010,410",179481,84
+243.,Molly's Game,(2017),140 min,Biography -  Crime -  Drama,7.4,"$30,000,000","28,780,744",178791,71
+244.,Radhe,(2021),109 min,Action -  Crime -  Thriller,1.9,,,178653,
+245.,Horrible Bosses 2,(2014),108 min,Comedy -  Crime,6.3,"$42,000,000","54,445,357",178114,40
+246.,Army of the Dead,(2021),148 min,Action -  Crime -  Drama,5.7,"$70,000,000","1,000,000",177862,57
+247.,The Heat,(I) (2013),117 min,Action -  Comedy -  Crime,6.6,"$43,000,000","159,582,188",176418,60
+248.,The Bone Collector,(1999),118 min,Crime -  Drama -  Mystery,6.7,"$73,000,000","66,518,655",176132,45
+249.,The Naked Gun: From the Files of Police Squad!,(1988),85 min,Comedy -  Crime,7.6,"$12,000,000","78,756,177",175439,76
+250.,RED 2,(2013),116 min,Action -  Comedy -  Crime,6.6,"$84,000,000","53,262,560",175330,47
+251.,Rush Hour 3,(2007),91 min,Action -  Comedy -  Crime,6.2,"$140,000,000","140,125,968",174556,44
+252.,Hitman,(I) (2007),100 min,Action -  Crime -  Thriller,6.2,"$24,000,000","39,687,694",173622,35
+253.,Lethal Weapon 3,(1992),118 min,Action -  Crime -  Thriller,6.7,"$35,000,000","144,731,527",172912,40
+254.,Rashomon,(1950),88 min,Crime -  Drama -  Mystery,8.2,"$250,000","96,568",172326,98
+255.,Michael Clayton,(2007),119 min,Crime -  Drama -  Mystery,7.2,"$25,000,000","49,033,882",169453,82
+256.,A Time to Kill,(1996),149 min,Crime -  Drama -  Thriller,7.5,"$40,000,000","108,766,007",168774,54
+257.,The Equalizer 2,(2018),121 min,Action -  Crime -  Thriller,6.7,"$62,000,000","102,084,362",168584,50
+258.,Lethal Weapon 4,(1998),127 min,Action -  Crime -  Thriller,6.6,"$140,000,000","130,444,603",167329,37
+259.,The Ghost Writer,(2010),128 min,Crime -  Drama -  Mystery,7.2,"$45,000,000","15,541,549",167157,77
+260.,Date Night,(2010),88 min,Comedy -  Crime -  Romance,6.3,"$55,000,000","98,711,404",166591,56
+261.,Bad Boys for Life,(2020),124 min,Action -  Comedy -  Crime,6.5,"$90,000,000","206,305,244",166348,59
+262.,Sin City: A Dame to Kill For,(2014),102 min,Action -  Crime -  Thriller,6.5,"$65,000,000","13,757,804",165681,46
+263.,Once Upon a Time in Mexico,(2003),102 min,Action -  Crime -  Thriller,6.3,"$29,000,000","56,359,780",165606,56
+264.,The Mechanic,(2011),93 min,Action -  Crime -  Thriller,6.5,"$40,000,000","29,121,498",164708,49
+265.,Jack Reacher: Never Go Back,(2016),118 min,Action -  Crime -  Drama,6.1,"$60,000,000","58,697,076",164642,47
+266.,The Punisher,(2004),124 min,Action -  Crime -  Drama,6.4,"$33,000,000","33,682,273",164553,33
+267.,The Green Hornet,(2011),119 min,Action -  Comedy -  Crime,5.8,"$120,000,000","98,780,042",162395,39
+268.,The Maltese Falcon,(1941),100 min,Crime -  Film-Noir -  Mystery,8.0,"$375,000","2,108,060",161970,97
+269.,M,(1931),99 min,Crime -  Mystery -  Thriller,8.3,,"28,877",161376,
+270.,Dirty Harry,(1971),102 min,Action -  Crime -  Thriller,7.7,"$4,000,000","35,900,000",161331,87
+271.,Thelma & Louise,(1991),130 min,Adventure -  Crime -  Drama,7.5,"$16,500,000","45,361,000",161246,88
+272.,Spy Game,(2001),126 min,Action -  Crime -  Thriller,7.0,"$115,000,000","26,871",160767,63
+273.,Death on the Nile,(2022),127 min,Crime -  Drama -  Mystery,6.3,"$90,000,000","45,630,104",160555,52
+274.,Double Indemnity,(1944),107 min,Crime -  Drama -  Film-Noir,8.3,"$927,262","5,720,000",160502,95
+275.,Halloween,(I) (2018),106 min,Crime -  Horror -  Thriller,6.5,"$10,000,000","159,342,015",160050,67
+276.,Wall Street,(1987),126 min,Crime -  Drama,7.3,"$15,000,000","43,848,100",159774,56
+277.,On the Waterfront,(1954),108 min,Crime -  Drama -  Thriller,8.1,"$910,000","9,600,000",158221,91
+278.,Analyze This,(1999),103 min,Comedy -  Crime,6.7,"$80,000,000","106,885,658",157539,61
+279.,Snowden,(2016),134 min,Biography -  Crime -  Drama,7.3,"$40,000,000","21,587,519",156322,58
+280.,Bad Times at the El Royale,(2018),141 min,Crime -  Drama -  Mystery,7.1,"$32,000,000","17,839,115",155693,60
+281.,Monster,(2003),109 min,Biography -  Crime -  Drama,7.3,"$8,000,000","34,469,210",155677,74
+282.,Sicario: Day of the Soldado,(2018),122 min,Action -  Crime -  Drama,7.1,"$35,000,000","50,072,235",155585,61
+283.,The Drop,(2014),106 min,Crime -  Drama -  Thriller,7.0,"$12,600,000","10,724,389",155420,69
+284.,Green Street Hooligans,(2005),109 min,Crime -  Drama -  Sport,7.4,,"344,095",155346,55
+285.,Man on a Ledge,(2012),102 min,Action -  Crime -  Thriller,6.6,"$42,000,000","18,620,000",155258,40
+286.,State of Play,(2009),127 min,Crime -  Drama -  Mystery,7.1,"$60,000,000","37,017,955",155151,64
+287.,Rounders,(1998),121 min,Crime -  Drama,7.3,"$12,000,000","22,905,674",155143,54
+288.,Logan Lucky,(2017),118 min,Action -  Comedy -  Crime,7.0,"$29,000,000","27,780,977",155029,78
+289.,Kindergarten Cop,(1990),111 min,Action -  Comedy -  Crime,6.2,"$15,000,000","91,457,688",154852,61
+290.,A Simple Favor,(2018),117 min,Comedy -  Crime -  Mystery,6.8,"$20,000,000","53,548,586",154363,67
+291.,Murder Mystery,(2019),97 min,Action -  Comedy -  Crime,6.0,,,154117,38
+292.,Crank: High Voltage,(2009),96 min,Action -  Crime -  Thriller,6.1,"$20,000,000","13,630,226",153846,41
+293.,Mr. Brooks,(2007),120 min,Crime -  Drama -  Thriller,7.3,"$20,000,000","28,476,219",152930,45
+294.,Dogville,(2003),178 min,Crime -  Drama,8.0,"$10,000,000","1,530,386",152683,59
+295.,White Chicks,(2004),109 min,Comedy -  Crime,5.7,"$37,000,000","70,831,760",152502,41
+296.,Nightmare Alley,(2021),150 min,Crime -  Drama -  Thriller,7.0,"$60,000,000",,152321,70
+297.,Vantage Point,(2008),90 min,Action -  Crime -  Drama,6.6,"$40,000,000","72,266,306",152063,40
+298.,Four Brothers,(2005),109 min,Action -  Crime -  Drama,6.8,"$45,000,000","74,494,381",151428,49
+299.,Starsky & Hutch,(2004),101 min,Comedy -  Crime,6.1,"$60,000,000","88,237,754",150708,55
+300.,S.W.A.T.,(2003),117 min,Action -  Adventure -  Crime,6.0,"$80,000,000","116,934,650",150664,45
+301.,Fun with Dick and Jane,(2005),90 min,Comedy -  Crime,6.2,"$100,000,000","110,332,737",148944,47
+302.,Bad Santa,(2003),92 min,Comedy -  Crime -  Drama,7.1,"$23,000,000","60,060,328",148739,70
+303.,Smokin' Aces,(2006),108 min,Action -  Comedy -  Crime,6.6,"$17,000,000","35,662,731",148357,45
+304.,Killing Them Softly,(2012),97 min,Crime -  Drama -  Thriller,6.2,"$15,000,000","15,026,056",148175,64
+305.,A Bronx Tale,(1993),121 min,Crime -  Drama,7.8,"$22,000,000","17,266,971",148068,80
+306.,Ghost in the Shell,(1995),83 min,Animation -  Action -  Crime,7.9,"¥330,000,000","515,905",147940,76
+307.,The Negotiator,(1998),140 min,Action -  Crime -  Drama,7.3,"$50,000,000","44,484,065",147847,62
+308.,Tower Heist,(2011),104 min,Action -  Comedy -  Crime,6.2,"$75,000,000","78,046,570",147600,59
+309.,Rope,(1948),80 min,Crime -  Drama -  Mystery,7.9,"$1,500,000",,147528,73
+310.,A Fish Called Wanda,(1988),108 min,Comedy -  Crime,7.5,"$7,500,000","63,493,712",146957,80
+311.,The Texas Chainsaw Massacre,(2003),98 min,Crime -  Horror,6.2,"$9,500,000","80,571,655",146643,38
+312.,Boyz n the Hood,(1991),112 min,Crime -  Drama,7.8,"$6,500,000","57,504,069",145866,76
+313.,Spring Breakers,(2012),94 min,Crime -  Drama -  Thriller,5.3,"$5,000,000","14,123,773",145124,63
+314.,House of Gucci,(2021),158 min,Biography -  Crime -  Drama,6.6,"$75,000,000","53,809,574",144953,59
+315.,John Wick: Chapter 4,(2023),169 min,Action -  Crime -  Thriller,8.2,"$90,000,000",,143837,78
+316.,Raising Arizona,(1987),94 min,Comedy -  Crime,7.3,"$6,000,000","22,847,564",143579,69
+317.,The Mule,(2018),116 min,Crime -  Drama -  Thriller,7.0,"$50,000,000","103,804,407",142665,58
+318.,Despicable Me 3,(2017),89 min,Animation -  Adventure -  Comedy,6.2,"$80,000,000","264,624,300",142205,49
+319.,The Devil All the Time,(2020),138 min,Crime -  Drama -  Thriller,7.1,,,141775,55
+320.,Snakes on a Plane,(2006),105 min,Action -  Adventure -  Crime,5.5,"$33,000,000","34,020,814",141751,58
+321.,F9: The Fast Saga,(2021),143 min,Action -  Crime -  Thriller,5.2,"$200,000,000","173,202,780",141581,58
+322.,Escape from Alcatraz,(1979),112 min,Action -  Biography -  Crime,7.6,"$8,000,000","43,000,000",141490,76
+323.,Payback,(I) (1999),100 min,Action -  Crime -  Drama,7.1,"$90,000,000","81,526,121",141347,46
+324.,Get Hard,(2015),100 min,Comedy -  Crime,6.0,"$40,000,000","90,411,453",141194,34
+325.,Irreversible,(2002),97 min,Crime -  Drama -  Mystery,7.3,,"753,501",140289,51
+326.,R.I.P.D.,(2013),96 min,Action -  Adventure -  Comedy,5.6,"$130,000,000","33,618,855",139369,25
+327.,K.G.F: Chapter 2,(2022),168 min,Action -  Crime -  Drama,8.3,"₹1,000,000,000","6,604,562",139159,
+328.,John Q,(2002),116 min,Crime -  Drama -  Thriller,7.1,"$36,000,000","71,756,802",138419,30
+329.,Miller's Crossing,(1990),115 min,Crime -  Drama -  Thriller,7.7,"$14,000,000","5,080,409",138044,66
+330.,I Care a Lot,(2020),118 min,Comedy -  Crime -  Drama,6.3,"$14,000,000",,137549,66
+331.,Let's Be Cops,(2014),104 min,Action -  Comedy -  Crime,6.4,"$17,000,000","82,390,774",136906,30
+332.,Identity Thief,(2013),111 min,Comedy -  Crime -  Drama,5.7,"$35,000,000","134,506,920",136731,35
+333.,8MM,(1999),123 min,Crime -  Drama -  Mystery,6.6,"$40,000,000","36,663,315",136711,19
+334.,Strangers on a Train,(1951),92 min,Crime -  Drama -  Film-Noir,7.9,"$1,200,000","7,630,000",136674,88
+335.,I Saw the Devil,(2010),144 min,Action -  Crime -  Drama,7.8,,"128,392",136560,67
+336.,Capote,(2005),114 min,Biography -  Crime -  Drama,7.3,"$7,000,000","28,747,570",136241,88
+337.,Bronson,(2008),92 min,Action -  Crime -  Drama,7.0,"$230,000","104,792",135456,71
+338.,Nerve,(I) (2016),96 min,Action -  Adventure -  Crime,6.5,"$19,000,000","38,583,626",135007,58
+339.,The Guilty,(2021),90 min,Crime -  Drama -  Thriller,6.3,,,134412,63
+340.,Matchstick Men,(2003),116 min,Comedy -  Crime -  Drama,7.3,"$62,000,000","36,906,460",134122,61
+341.,Papillon,(1973),151 min,Biography -  Crime -  Drama,8.0,"$12,000,000","53,267,000",133889,58
+342.,Killer Elite,(2011),116 min,Action -  Crime -  Thriller,6.4,"$70,000,000","25,124,986",132741,44
+343.,Savages,(I) (2012),131 min,Action -  Crime -  Drama,6.4,"$45,000,000","47,382,068",132189,59
+344.,My Cousin Vinny,(1992),120 min,Comedy -  Crime,7.6,"$11,000,000","52,929,168",131470,68
+345.,Ransom,(1996),121 min,Action -  Crime -  Thriller,6.7,"$80,000,000","136,492,681",131361,60
+346.,Green Room,(2015),95 min,Crime -  Drama -  Horror,7.0,"$5,000,000","3,219,029",130831,79
+347.,The Score,(2001),124 min,Action -  Crime -  Drama,6.8,"$68,000,000","71,069,884",130674,71
+348.,Twins,(1988),107 min,Comedy -  Crime,6.1,"$15,000,000","111,936,400",130516,53
+349.,Good Time,(2017),102 min,Crime -  Drama -  Thriller,7.3,"$4,500,000","2,026,499",130211,80
+350.,Charlie's Angels: Full Throttle,(2003),106 min,Action -  Adventure -  Comedy,4.9,"$120,000,000","100,830,111",130191,48
+351.,Witness for the Prosecution,(1957),116 min,Crime -  Drama -  Mystery,8.4,"$3,000,000","8,175,000",129125,76
+352.,Saw V,(2008),92 min,Crime -  Horror -  Thriller,5.8,"$10,800,000","56,746,769",128490,20
+353.,Max Payne,(2008),100 min,Action -  Crime -  Drama,5.3,"$35,000,000","40,689,393",128021,31
+354.,What Happened to Monday,(2017),123 min,Action -  Crime -  Fantasy,6.8,,,127822,47
+355.,Serpico,(1973),130 min,Biography -  Crime -  Drama,7.7,"$3,000,000","29,800,000",127670,81
+356.,Infernal Affairs,(2002),101 min,Action -  Crime -  Drama,8.0,"$6,428,966","169,659",127393,75
+357.,The French Connection,(1971),104 min,Action -  Crime -  Drama,7.7,"$1,800,000","15,630,710",127277,94
+358.,The Raid 2,(2014),150 min,Action -  Crime -  Thriller,7.9,"$4,500,000","2,627,209",126783,71
+359.,Parker,(2013),118 min,Action -  Crime -  Thriller,6.2,"$35,000,000","17,616,641",125571,42
+360.,This Is England,(2006),101 min,Crime -  Drama,7.7,"£1,500,000","327,919",124845,86
+361.,Wild Things,(1998),108 min,Crime -  Drama -  Mystery,6.6,"$20,000,000","29,753,944",124670,52
+362.,Contraband,(2012),109 min,Action -  Crime -  Drama,6.4,"$25,000,000","66,528,000",124521,51
+363.,A Walk Among the Tombstones,(2014),114 min,Action -  Crime -  Drama,6.5,"$28,000,000","26,307,600",124180,57
+364.,Beverly Hills Cop II,(1987),100 min,Action -  Comedy -  Crime,6.5,"$27,000,000","153,665,000",124151,48
+365.,The Whole Nine Yards,(2000),98 min,Comedy -  Crime,6.7,"$41,300,000","57,262,492",124125,47
+366.,Homefront,(I) (2013),100 min,Action -  Crime -  Thriller,6.5,"$22,000,000","20,158,492",123768,40
+367.,The Best Offer,(2013),131 min,Crime -  Drama -  Mystery,7.8,"€13,500,000","85,433",123020,49
+368.,The Life of David Gale,(2003),130 min,Crime -  Drama -  Thriller,7.5,"$38,000,000","19,593,740",122929,31
+369.,You Were Never Really Here,(2017),89 min,Crime -  Drama,6.7,,"2,523,610",122818,84
+370.,Step Up,(2006),104 min,Crime -  Drama -  Music,6.5,"$12,000,000","65,328,121",122137,48
+371.,Catwoman,(2004),104 min,Action -  Crime -  Fantasy,3.4,"$100,000,000","40,202,379",122132,27
+372.,The 400 Blows,(1959),99 min,Crime -  Drama,8.1,,,121782,
+373.,The Unbearable Weight of Massive Talent,(2022),107 min,Action -  Comedy -  Crime,7.0,"$30,000,000",,121445,68
+374.,Home Alone 3,(1997),102 min,Action -  Comedy -  Crime,4.5,"$32,000,000","30,882,515",121115,
+375.,Judge Dredd,(1995),96 min,Action -  Crime -  Sci-Fi,5.6,"$90,000,000","34,693,481",121041,
+376.,The Jackal,(1997),124 min,Action -  Crime -  Drama,6.4,"$60,000,000","54,930,280",120375,36
+377.,Rang De Basanti - Die Farbe Safran,(2006),167 min,Comedy -  Crime -  Drama,8.1,,"2,197,331",120365,
+378.,Out of the Furnace,(2013),116 min,Action -  Crime -  Drama,6.7,"$22,000,000","11,326,836",120261,63
+379.,Miami Vice,(2006),132 min,Action -  Adventure -  Crime,6.0,"$135,000,000","63,450,470",120018,66
+380.,Entrapment,(1999),113 min,Action -  Crime -  Romance,6.3,"$66,000,000","87,704,396",119956,54
+381.,Exam,(2009),101 min,Crime -  Horror -  Mystery,6.8,,,119701,
+382.,The Family,(I) (2013),111 min,Comedy -  Crime -  Thriller,6.3,"$30,000,000","36,918,811",119391,42
+383.,From Paris with Love,(2010),92 min,Action -  Crime -  Thriller,6.4,"$52,000,000","23,979,741",119222,42
+384.,Ride Along,(2014),99 min,Action -  Comedy -  Crime,6.1,"$25,000,000","134,938,200",118124,41
+385.,Den of Thieves,(2018),140 min,Action -  Crime -  Drama,7.0,"$30,000,000","44,947,622",117301,49
+386.,West Side Story,(1961),153 min,Crime -  Drama -  Musical,7.6,"$6,000,000","43,656,822",117222,86
+387.,The Naked Gun 2½: The Smell of Fear,(1991),85 min,Comedy -  Crime,6.9,"$23,000,000","86,930,411",117050,65
+388.,Street Kings,(2008),109 min,Action -  Crime -  Thriller,6.8,"$20,000,000","26,418,667",116452,55
+389.,Bonnie and Clyde,(1967),111 min,Action -  Biography -  Crime,7.7,"$2,500,000",,116231,86
+390.,Premium Rush,(2012),91 min,Action -  Crime -  Thriller,6.5,"$35,000,000","20,275,446",116116,66
+391.,Trance,(I) (2013),101 min,Crime -  Drama -  Mystery,6.9,"$20,000,000","2,319,187",115782,61
+392.,The Basketball Diaries,(1995),102 min,Biography -  Crime -  Drama,7.3,"$2,000,000","2,424,439",115456,46
+393.,Only God Forgives,(2013),90 min,Action -  Crime -  Drama,5.7,"$4,800,000","778,565",114894,37
+394.,A Single Man,(2009),99 min,Crime -  Drama -  Romance,7.5,"$7,000,000","9,166,863",114803,77
+395.,Eraser,(1996),115 min,Action -  Crime -  Thriller,6.2,"$100,000,000","101,295,562",114679,56
+396.,A Scanner Darkly,(2006),100 min,Animation -  Comedy -  Crime,7.0,"$8,700,000","5,501,616",114282,73
+397.,101 Dalmatians,(1996),103 min,Adventure -  Comedy -  Crime,5.7,"$75,000,000","136,189,294",113915,49
+398.,Paul Blart: Mall Cop,(2009),91 min,Action -  Comedy -  Crime,5.2,"$26,000,000","20,819,129",113367,39
+399.,The Unforgivable,(2021),112 min,Crime -  Drama,7.1,,,113284,41
+400.,Safe,(I) (2012),94 min,Action -  Crime -  Thriller,6.5,"$30,000,000","17,142,080",113261,55
+401.,Mean Streets,(1973),112 min,Crime -  Drama -  Thriller,7.2,"$500,000","3,132,645",112880,96
+402.,Dancer in the Dark,(2000),140 min,Crime -  Drama -  Musical,7.9,"$12,800,000","4,184,036",112816,61
+403.,Hannibal Rising,(2007),121 min,Adventure -  Crime -  Drama,6.1,"$50,000,000","27,670,986",112705,35
+404.,Filth,(I) (2013),97 min,Action -  Comedy -  Crime,7.0,"$5,000,000","34,321",112114,56
+405.,Hostage,(2005),113 min,Action -  Crime -  Drama,6.5,"$52,000,000","34,639,939",112064,44
+406.,The Man Who Wasn't There,(2001),116 min,Crime -  Drama,7.5,"$20,000,000","7,494,849",111878,73
+407.,Run All Night,(2015),114 min,Action -  Crime -  Thriller,6.6,"$50,000,000","26,461,644",111646,59
+408.,Frequency,(2000),118 min,Crime -  Drama -  Mystery,7.4,"$31,000,000","45,010,278",111454,67
+409.,The Little Things,(2021),128 min,Crime -  Drama -  Mystery,6.3,"$30,000,000",,110991,54
+410.,Glengarry Glen Ross,(1992),100 min,Crime -  Drama -  Mystery,7.7,"$12,500,000","10,725,228",109967,82
+411.,Faster,(2010),98 min,Action -  Crime -  Drama,6.4,"$24,000,000","23,240,020",109709,44
+412.,Tango & Cash,(1989),104 min,Action -  Comedy -  Crime,6.4,"$55,000,000","63,408,614",109254,41
+413.,U.S. Marshals,(1998),131 min,Action -  Crime -  Thriller,6.5,"$60,000,000","57,167,405",109219,47
+414.,The Interpreter,(2005),128 min,Crime -  Mystery -  Thriller,6.4,"$80,000,000","72,708,161",109059,62
+415.,The King of Comedy,(1982),109 min,Comedy -  Crime -  Drama,7.8,"$20,000,000","2,500,000",108932,73
+416.,Heathers,(1988),103 min,Comedy -  Crime,7.2,"$3,000,000","1,108,462",108737,72
+417.,Super Troopers,(2001),100 min,Comedy -  Crime -  Mystery,7.0,"$3,000,000","18,488,314",108610,48
+418.,In the Line of Fire,(1993),128 min,Action -  Crime -  Drama,7.2,"$40,000,000","102,314,283",108237,74
+419.,Brick,(2005),110 min,Crime -  Drama -  Mystery,7.2,"$475,000","2,060,589",108118,72
+420.,Naked Gun 33 1/3: The Final Insult,(1994),83 min,Comedy -  Crime,6.5,"$30,000,000","51,132,598",107485,63
+421.,Enter the Dragon,(1973),102 min,Action -  Crime -  Drama,7.6,"$850,000","25,000,000",107467,83
+422.,Inherent Vice,(2014),148 min,Comedy -  Crime -  Drama,6.6,"$20,000,000","8,110,975",107296,81
+423.,Patriots Day,(2016),133 min,Action -  Crime -  Drama,7.3,"$45,000,000","31,886,361",107186,69
+424.,The Last Boy Scout,(1991),105 min,Action -  Comedy -  Crime,7.0,"$43,000,000","59,509,925",107077,52
+425.,Before the Devil Knows You're Dead,(2007),117 min,Crime -  Drama -  Thriller,7.3,"$18,000,000","7,083,025",107011,86
+426.,Touch of Evil,(1958),95 min,Crime -  Drama -  Film-Noir,8.0,"$829,000","2,237,659",106771,99
+427.,The Ladykillers,(2004),104 min,Comedy -  Crime -  Thriller,6.2,"$35,000,000","39,799,191",106702,56
+428.,Elite Squad,(2007),115 min,Action -  Crime -  Drama,8.0,"$4,000,000","8,060",106566,33
+429.,The Brothers Grimsby,(2016),83 min,Action -  Adventure -  Comedy,6.2,"$35,000,000","6,864,016",106320,44
+430.,The Warriors,(1979),93 min,Action -  Crime -  Thriller,7.6,"$4,000,000","22,490,039",105789,65
+431.,The Cell,(2000),107 min,Crime -  Horror -  Sci-Fi,6.4,"$33,000,000","61,334,059",105387,40
+432.,Alpha Dog,(2006),122 min,Biography -  Crime -  Drama,6.9,,"15,229,325",105253,53
+433.,Unleashed,(2005),103 min,Action -  Crime -  Drama,7.0,"$45,000,000","24,520,892",105216,58
+434.,Lolita,(1962),153 min,Crime -  Drama -  Romance,7.5,"$2,000,000","9,250,000",104682,79
+435.,The Losers,(I) (2010),97 min,Action -  Adventure -  Comedy,6.2,"$25,000,000","23,580,735",104412,44
+436.,The Pale Blue Eye,(2022),128 min,Crime -  Horror -  Mystery,6.6,"$72,000,000",,104371,56
+437.,Headhunters,(2011),100 min,Action -  Crime -  Thriller,7.5,"NOK 30,300,000","1,196,752",104218,72
+438.,Mississippi Burning,(1988),128 min,Crime -  Drama -  Mystery,7.8,"$15,000,000","34,603,943",104062,65
+439.,30 Minutes or Less,(2011),83 min,Action -  Comedy -  Crime,6.1,"$28,000,000","37,053,924",103922,49
+440.,A Nightmare on Elm Street,(2010),95 min,Crime -  Drama -  Horror,5.2,"$35,000,000","63,075,011",103530,35
+441.,Hustlers,(2019),110 min,Comedy -  Crime -  Drama,6.3,"$20,000,000","104,963,598",103523,79
+442.,Clear and Present Danger,(1994),141 min,Action -  Crime -  Drama,6.9,"$62,000,000","122,187,717",103325,74
+443.,The Counselor,(2013),117 min,Crime -  Drama -  Thriller,5.4,"$25,000,000","16,973,715",103242,48
+444.,Cellular,(2004),94 min,Action -  Crime -  Thriller,6.5,"$25,000,000","32,003,620",102959,60
+445.,Rambo: Last Blood,(2019),89 min,Action -  Crime -  Thriller,6.1,"$50,000,000","44,819,352",102939,26
+446.,The Devil's Rejects,(2005),107 min,Crime -  Horror -  Western,6.7,"$7,000,000","17,044,981",102809,53
+447.,Money Monster,(2016),98 min,Crime -  Drama -  Mystery,6.5,"$27,000,000","41,012,075",102135,55
+448.,Clue,(1985),94 min,Comedy -  Crime -  Mystery,7.2,"$15,000,000","14,643,997",101803,41
+449.,Running Scared,(2006),122 min,Action -  Crime -  Drama,7.3,"$15,000,000","6,855,137",101430,41
+450.,Runaway Jury,(2003),127 min,Crime -  Drama -  Thriller,7.1,"$60,000,000","49,443,628",100754,61
+451.,Widows,(2018),129 min,Crime -  Drama -  Thriller,6.8,"$42,000,000","42,402,632",100669,84
+452.,Boys Don't Cry,(1999),118 min,Biography -  Crime -  Drama,7.5,"$2,000,000","11,533,945",100351,86
+453.,A Prophet,(2009),155 min,Crime -  Drama,7.8,"$13,000,000","2,084,637",100123,90
+454.,Funny Games,(2007),111 min,Crime -  Drama -  Thriller,6.5,"$15,000,000","1,294,640",99963,44
+455.,Blood Simple,(1984),99 min,Crime -  Drama -  Thriller,7.6,"$1,500,000","2,150,000",99815,83
+456.,The American,(2010),105 min,Action -  Crime -  Drama,6.3,"$20,000,000","35,606,376",99773,61
+457.,Cop Land,(1997),105 min,Crime -  Drama -  Thriller,7.0,"$15,000,000","44,886,089",99682,64
+458.,Intolerable Cruelty,(2003),100 min,Comedy -  Crime -  Romance,6.3,"$60,000,000","35,327,628",99592,71
+459.,Gangs of Wasseypur,(2012),321 min,Action -  Comedy -  Crime,8.2,"₹184,000,000",,99115,89
+460.,Hitman's Wife's Bodyguard,(2021),100 min,Action -  Comedy -  Crime,6.1,"$70,000,000",,99010,32
+461.,Revolver,(2005),111 min,Action -  Crime -  Drama,6.3,,"75,420",98883,25
+462.,Knock Knock,(I) (2015),99 min,Crime -  Drama -  Horror,4.9,"$2,500,000","36,336",98691,53
+463.,Dead Man Walking,(1995),122 min,Crime -  Drama,7.5,"$11,000,000","39,387,284",98002,80
+464.,I Love You Phillip Morris,(2009),98 min,Biography -  Comedy -  Crime,6.6,"$13,000,000","2,035,566",97675,65
+465.,"Extremely Wicked, Shockingly Evil and Vile",(2019),110 min,Biography -  Crime -  Drama,6.7,,,97654,52
+466.,Malignant,(I) (2021),111 min,Crime -  Horror -  Mystery,6.2,"$40,000,000",,97318,51
+467.,The International,(I) (2009),118 min,Action -  Crime -  Drama,6.5,"$50,000,000","25,450,527",97306,52
+468.,Andhadhun,(2018),139 min,Crime -  Mystery -  Thriller,8.2,"$4,500,000","1,373,943",96840,
+469.,The Girl Who Played with Fire,(2009),129 min,Action -  Crime -  Drama,7.1,"€4,000,000","9,081,782",96718,66
+470.,Grosse Pointe Blank,(1997),107 min,Action -  Comedy -  Crime,7.3,"$15,000,000","28,014,536",96689,76
+471.,Wild at Heart,(1990),125 min,Comedy -  Crime -  Drama,7.2,"$9,500,000","14,560,247",96609,52
+472.,The Thomas Crown Affair,(1999),113 min,Crime -  Romance -  Thriller,6.8,"$48,000,000","69,304,264",96348,72
+473.,Big Eyes,(I) (2014),106 min,Biography -  Crime -  Drama,7.0,"$10,000,000","14,479,776",96014,62
+474.,The Highwaymen,(2019),132 min,Biography -  Crime -  Drama,6.9,"$49,000,000",,95723,58
+475.,Out of Sight,(1998),123 min,Comedy -  Crime -  Drama,7.0,"$48,000,000","37,562,568",95664,85
+476.,Penguins of Madagascar,(2014),92 min,Animation -  Action -  Adventure,6.6,"$132,000,000","83,348,920",95536,53
+477.,Following,(1998),69 min,Crime -  Mystery -  Thriller,7.5,"$6,000","48,482",95455,60
+478.,Elektra,(2005),97 min,Action -  Adventure -  Crime,4.7,"$43,000,000","24,409,722",95125,34
+479.,Risky Business,(1983),99 min,Comedy -  Crime -  Drama,6.8,"$6,200,000","63,500,000",95034,75
+480.,Elephant,(2003),81 min,Crime -  Drama -  Thriller,7.1,"$3,000,000","1,227,000",94050,70
+481.,War,(2007),103 min,Action -  Crime -  Thriller,6.2,"$25,000,000","22,486,409",93917,36
+482.,Ghost Dog: The Way of the Samurai,(1999),116 min,Crime -  Drama,7.5,,"3,308,029",93657,67
+483.,Hitman: Agent 47,(2015),96 min,Action -  Crime -  Thriller,5.7,"$35,000,000","22,467,450",93143,28
+484.,Project Power,(2020),113 min,Action -  Crime -  Sci-Fi,6.0,"$85,000,000",,92686,51
+485.,The X Files: I Want to Believe,(2008),104 min,Crime -  Drama -  Horror,5.9,"$30,000,000","20,982,478",92559,47
+486.,Taking Lives,(2004),103 min,Crime -  Mystery -  Thriller,6.2,"$45,000,000","32,682,342",92469,38
+487.,The Killing,(1956),84 min,Crime -  Drama -  Film-Noir,7.9,"$320,000",,92401,91
+488.,Spenser Confidential,(2020),111 min,Action -  Comedy -  Crime,6.2,,,92359,49
+489.,The Night of the Hunter,(1955),92 min,Crime -  Drama -  Film-Noir,8.0,"$795,000","654,000",92117,97
+490.,The Guard,(2011),96 min,Comedy -  Crime -  Thriller,7.3,"$6,000,000","5,359,774",92038,78
+491.,Richard Jewell,(2019),131 min,Biography -  Crime -  Drama,7.5,"$45,000,000",,92031,68
+492.,K.G.F: Chapter 1,(2018),156 min,Action -  Crime -  Drama,8.2,"₹800,000,000",,91219,
+493.,The Pelican Brief,(1993),141 min,Crime -  Drama -  Mystery,6.6,"$45,000,000","100,768,056",91189,50
+494.,The Outsiders,(1983),91 min,Crime -  Drama,7.0,"$10,000,000","25,600,000",90826,45
+495.,We Own the Night,(2007),117 min,Action -  Crime -  Drama,6.8,"$21,000,000","28,563,179",90676,59
+496.,Shot Caller,(2017),121 min,Crime -  Drama -  Thriller,7.3,,,90553,59
+497.,Double Jeopardy,(1999),105 min,Crime -  Drama -  Mystery,6.5,"$70,000,000","116,741,558",90331,40
+498.,Confessions of a Dangerous Mind,(2002),113 min,Biography -  Comedy -  Crime,7.0,"$30,000,000","16,003,576",90022,67
+499.,Righteous Kill,(2008),101 min,Crime -  Mystery -  Thriller,6.0,"$60,000,000","40,081,410",89995,36
+500.,Unthinkable,(2010),97 min,Crime -  Drama -  Thriller,7.0,"$15,000,000",,89933,
+501.,The Bling Ring,(2013),90 min,Biography -  Crime -  Drama,5.6,"$8,000,000","5,841,046",89538,66
+502.,Harry Brown,(2009),103 min,Action -  Crime -  Drama,7.2,"$7,300,000","1,818,681",89384,55
+503.,The Pink Panther,(2006),93 min,Adventure -  Comedy -  Crime,5.6,"$80,000,000","82,226,474",89328,38
+504.,Cop Out,(2010),107 min,Action -  Comedy -  Crime,5.5,"$30,000,000","44,875,481",89218,31
+505.,Midnight Run,(1988),126 min,Action -  Comedy -  Crime,7.5,"$35,000,000","38,413,606",89194,78
+506.,Arlington Road,(1999),117 min,Action -  Crime -  Drama,7.2,"$31,000,000","24,362,501",88990,65
+507.,RoboCop 2,(1990),117 min,Action -  Crime -  Sci-Fi,5.8,"$25,000,000","45,681,173",88949,42
+508.,Blitz,(2011),97 min,Action -  Crime -  Thriller,6.1,,,88756,
+509.,A Perfect Murder,(1998),107 min,Crime -  Drama -  Thriller,6.6,"$60,000,000","67,638,368",88260,50
+510.,Drishyam,(2015),163 min,Crime -  Drama -  Mystery,8.2,"$9,400,000","739,478",88231,
+511.,Mechanic: Resurrection,(2016),98 min,Action -  Adventure -  Crime,5.7,"$40,000,000","21,218,403",88158,38
+512.,Going in Style,(2017),96 min,Comedy -  Crime,6.6,"$25,000,000","45,018,541",88116,50
+513.,West Side Story,(2021),156 min,Crime -  Drama -  Musical,7.2,"$100,000,000",,88045,85
+514.,Big Momma's House,(2000),99 min,Action -  Comedy -  Crime,5.2,"$30,000,000","117,559,438",87915,33
+515.,The Big Sleep,(1946),114 min,Crime -  Film-Noir -  Mystery,7.9,"$250,000","6,540,000",87831,86
+516.,All the Money in the World,(2017),132 min,Biography -  Crime -  Drama,6.8,"$50,000,000","25,113,707",87638,72
+517.,Analyze That,(2002),96 min,Comedy -  Crime,5.9,"$60,000,000","32,122,249",87620,37
+518.,Dope,(2015),103 min,Adventure -  Comedy -  Crime,7.2,"$7,000,000","17,506,470",87421,72
+519.,Chungking Express,(1994),102 min,Comedy -  Crime -  Drama,8.0,,"600,200",87410,78
+520.,Death Note,(I) (2017),101 min,Crime -  Drama -  Fantasy,4.5,"$50,000,000",,87291,43
+521.,Delicatessen,(1991),99 min,Comedy -  Crime,7.5,"FRF 24,000,000","1,794,187",87254,66
+522.,The Raven,(I) (2012),110 min,Crime -  Mystery -  Thriller,6.4,"$26,000,000","16,008,272",86895,44
+523.,Fallen,(1998),124 min,Action -  Crime -  Drama,7.0,,"25,188,006",86859,
+524.,Frailty,(2001),100 min,Crime -  Drama -  Thriller,7.2,"$11,000,000","13,103,828",86850,64
+525.,Taxi,(I) (1998),89 min,Action -  Comedy -  Crime,7.0,"FRF 53,000,000","268,254",86022,
+526.,Get Shorty,(1995),105 min,Comedy -  Crime -  Thriller,6.9,"$30,250,000","72,077,000",85998,82
+527.,Scoop,(2006),96 min,Comedy -  Crime -  Fantasy,6.6,"$17,300,000","10,525,717",85816,48
+528.,Blue Streak,(1999),93 min,Action -  Comedy -  Crime,6.3,"$65,000,000","68,518,533",85760,46
+529.,Enola Holmes 2,(2022),129 min,Action -  Adventure -  Crime,6.7,,,85746,64
+530.,Assassins,(1995),133 min,Action -  Crime -  Thriller,6.3,"$50,000,000","30,306,268",85617,
+531.,Horns,(2013),120 min,Comedy -  Crime -  Drama,6.4,,"164,480",85510,46
+532.,Elite Squad 2: The Enemy Within,(2010),115 min,Action -  Crime -  Drama,8.0,,"100,119",84634,71
+533.,Breathless,(1960),90 min,Crime -  Drama,7.7,"FRF 400,000","336,705",84482,
+534.,Beverly Hills Cop III,(1994),104 min,Action -  Comedy -  Crime,5.5,"$50,000,000","42,610,000",84051,16
+535.,Snake Eyes,(1998),98 min,Crime -  Mystery -  Thriller,6.1,"$73,000,000","55,585,389",83984,52
+536.,Midnight Express,(1978),121 min,Biography -  Crime -  Drama,7.5,"$2,300,000","35,000,000",83956,59
+537.,Fruitvale Station,(2013),85 min,Biography -  Crime -  Drama,7.5,"$900,000","16,097,842",83678,85
+538.,A Perfect World,(1993),138 min,Crime -  Drama -  Thriller,7.5,"$30,000,000","31,160,784",83469,71
+539.,Speed 2: Cruise Control,(1997),121 min,Action -  Adventure -  Crime,3.9,"$160,000,000","48,608,066",83337,23
+540.,Perfect Blue,(1997),81 min,Animation -  Crime -  Drama,8.0,"¥3,000,000","776,665",83151,67
+541.,Lady Vengeance,(2005),115 min,Crime -  Drama -  Thriller,7.5,"₩4,200,000,000","211,667",82368,75
+542.,The Long Kiss Goodnight,(1996),121 min,Action -  Crime -  Drama,6.8,"$65,000,000","33,328,051",82246,44
+543.,The House That Jack Built,(2018),152 min,Crime -  Drama -  Horror,6.8,"€8,700,000","87,008",82221,42
+544.,Ambulance,(2022),136 min,Action -  Crime -  Drama,6.1,"$40,000,000","22,781,115",82173,55
+545.,Broken City,(2013),109 min,Action -  Crime -  Drama,6.1,"$35,000,000","19,701,164",82006,49
+546.,Super,(I) (2010),96 min,Action -  Comedy -  Crime,6.7,"$2,500,000","322,157",81822,50
+547.,Freedom Writers,(2007),123 min,Biography -  Crime -  Drama,7.6,"$21,000,000","36,605,602",81813,64
+548.,Army of Thieves,(2021),127 min,Action -  Comedy -  Crime,6.4,,,81777,49
+549.,Felon,(2008),104 min,Crime -  Thriller,7.4,"$2,900,000","36,756",81445,58
+550.,Notes on a Scandal,(2006),92 min,Crime -  Drama -  Romance,7.4,"$15,000,000","17,508,670",81308,73
+551.,48 Hrs.,(1982),96 min,Action -  Comedy -  Crime,6.9,"$12,000,000","78,868,508",81207,71
+552.,Deliver Us from Evil,(I) (2014),118 min,Action -  Adventure -  Crime,6.2,"$30,000,000","30,577,122",80661,40
+553.,Machete Kills,(2013),107 min,Action -  Crime -  Thriller,5.6,"$20,000,000","8,008,161",80549,41
+554.,Shoplifters,(2018),121 min,Crime -  Drama -  Thriller,7.9,,"3,313,513",80386,93
+555.,Assault on Precinct 13,(2005),109 min,Action -  Crime -  Drama,6.3,"$30,000,000","19,976,073",80312,54
+556.,Four Lions,(2010),97 min,Comedy -  Crime -  Drama,7.3,,"304,137",80200,68
+557.,A Wednesday,(2008),104 min,Action -  Crime -  Drama,8.1,,,80108,
+558.,Pushpa: The Rise - Part 1,(2021),179 min,Action -  Crime -  Drama,7.6,,,80004,
+559.,Papillon,(I) (2017),117 min,Adventure -  Biography -  Crime,7.2,,"2,335,896",79641,51
+560.,Bottle Rocket,(1996),91 min,Comedy -  Crime -  Drama,6.9,"$7,000,000","560,069",79565,67
+561.,The Rainmaker,(1997),135 min,Crime -  Drama -  Thriller,7.2,"$40,000,000","45,856,732",79203,72
+562.,Bad Lieutenant: Port of Call New Orleans,(2009),122 min,Crime -  Drama,6.6,"$25,000,000","1,697,956",78939,69
+563.,Master,(I) (2021),179 min,Action -  Crime -  Thriller,7.3,"₹1,350,000,000",,78849,
+564.,Walking Tall,(2004),86 min,Action -  Crime,6.2,"$46,000,000","46,437,717",78826,44
+565.,Shaft,(2000),99 min,Action -  Crime -  Thriller,6.0,"$46,000,000","70,334,258",78665,50
+566.,Gridiron Gang,(2006),125 min,Biography -  Crime -  Drama,7.1,"$30,000,000","38,432,823",78608,52
+567.,The Woman in the Window,(2020),100 min,Crime -  Drama -  Mystery,5.7,"$40,000,000",,78499,41
+568.,Funny Games,(1997),108 min,Crime -  Drama -  Thriller,7.5,,,78425,69
+569.,A Most Wanted Man,(2014),122 min,Crime -  Drama -  Thriller,6.7,"$15,000,000","17,237,244",77996,73
+570.,Into the Blue,(2005),110 min,Action -  Adventure -  Crime,5.9,"$50,000,000","18,472,363",77902,45
+571.,Sooryavanshi,(2021),145 min,Action -  Crime -  Thriller,6.1,,,77851,
+572.,Miss Congeniality 2: Armed & Fabulous,(2005),115 min,Action -  Comedy -  Crime,5.1,"$45,000,000","48,478,006",77456,34
+573.,Awake,(2007),84 min,Crime -  Drama -  Mystery,6.5,"$8,600,000","14,377,198",77300,33
+574.,88 Minutes,(2007),108 min,Crime -  Drama -  Mystery,5.9,"$30,000,000","16,930,884",77234,17
+575.,Kiss the Girls,(1997),115 min,Crime -  Drama -  Mystery,6.6,"$27,000,000","60,527,873",77185,46
+576.,The Iceman,(2012),106 min,Biography -  Crime -  Drama,6.8,"$10,000,000","1,939,441",76737,60
+577.,Manhunter,(1986),120 min,Crime -  Mystery -  Thriller,7.2,"$15,000,000","8,620,929",76426,75
+578.,Ong-Bak: The Thai Warrior,(2003),105 min,Action -  Crime -  Thriller,7.1,,"4,560,061",76294,69
+579.,Cobra,(1986),87 min,Action -  Crime -  Thriller,5.8,"$25,000,000","49,042,224",76239,25
+580.,Mercury Rising,(1998),111 min,Action -  Crime -  Drama,6.1,"$60,000,000","32,940,507",75985,37
+581.,The Infiltrator,(2016),127 min,Biography -  Crime -  Drama,7.0,"$28,000,000","15,425,870",75981,66
+582.,Blue Ruin,(2013),90 min,Crime -  Drama -  Thriller,7.1,"$420,000","258,113",75842,78
+583.,The Black Dahlia,(2006),121 min,Crime -  Drama -  Mystery,5.6,"$50,000,000","22,518,325",75492,49
+584.,Strange Days,(1995),145 min,Crime -  Drama -  Sci-Fi,7.2,"$42,000,000","7,919,000",75189,66
+585.,Badlands,(1973),94 min,Action -  Crime -  Drama,7.7,"$450,000",,75137,93
+586.,Derailed,(I) (2005),108 min,Crime -  Drama -  Thriller,6.6,"$22,000,000","36,024,076",74940,40
+587.,Mortdecai,(2015),107 min,Action -  Adventure -  Comedy,5.5,"$60,000,000","7,605,668",74737,27
+588.,A Most Violent Year,(2014),125 min,Action -  Crime -  Drama,7.0,"$20,000,000","5,740,310",74672,79
+589.,Dirty Rotten Scoundrels,(1988),110 min,Comedy -  Crime,7.4,,"42,039,085",74530,68
+590.,Triple 9,(2016),115 min,Action -  Crime -  Thriller,6.3,"$20,000,000","12,626,905",74328,52
+591.,Redemption,(I) (2013),100 min,Action -  Crime -  Drama,6.2,"$20,000,000","34,956",74284,43
+592.,Death Wish,(2018),107 min,Action -  Crime -  Drama,6.3,"$30,000,000","34,017,028",73972,31
+593.,In the Valley of Elah,(2007),121 min,Crime -  Drama -  Mystery,7.2,,"6,777,741",73959,65
+594.,Nikita,(1990),117 min,Action -  Crime -  Drama,7.3,"FRF 50,000,000","5,017,971",73904,56
+595.,Minions: The Rise of Gru,(2022),87 min,Animation -  Adventure -  Comedy,6.5,"$80,000,000","369,695,210",73900,56
+596.,Turner & Hooch,(1989),97 min,Comedy -  Crime -  Drama,6.2,"$13,000,000","71,079,915",73440,36
+597.,After Hours,(I) (1985),97 min,Comedy -  Crime -  Drama,7.6,"$4,500,000","10,600,000",73346,90
+598.,Red Heat,(1988),104 min,Action -  Comedy -  Crime,6.1,"$29,000,000","34,994,648",73175,61
+599.,Death Sentence,(2007),105 min,Action -  Crime -  Drama,6.7,"$20,000,000","9,534,258",73159,36
+600.,Go,(1999),102 min,Comedy -  Crime,7.2,"$20,000,000","16,842,303",73052,72
+601.,The Girl Who Kicked the Hornet's Nest,(2009),147 min,Crime -  Drama -  Thriller,7.3,"€4,000,000","5,427,684",73008,60
+602.,Child 44,(2015),137 min,Crime -  Drama -  History,6.4,"$50,000,000","1,206,135",72999,41
+603.,A Simple Plan,(1998),121 min,Crime -  Drama -  Thriller,7.5,"$30,000,000","16,311,763",72972,82
+604.,Arsenic and Old Lace,(1944),118 min,Comedy -  Crime -  Thriller,7.9,"$1,164,000",,72563,
+605.,Cold Pursuit,(2019),119 min,Action -  Comedy -  Crime,6.2,"$60,000,000","32,138,862",72253,57
+606.,xXx: State of the Union,(2005),101 min,Action -  Adventure -  Crime,4.4,"$113,000,000","26,873,932",71978,37
+607.,Bullitt,(1968),114 min,Action -  Crime -  Thriller,7.4,"$5,500,000","42,300,873",71955,81
+608.,District B13,(2004),84 min,Action -  Crime -  Sci-Fi,7.1,"€12,000,000","1,200,216",71925,70
+609.,Romeo Must Die,(2000),115 min,Action -  Crime -  Thriller,6.1,"$25,000,000","55,973,336",71893,52
+610.,The Man from Nowhere,(2010),119 min,Action -  Crime -  Drama,7.7,,"6,460",71810,
+611.,Hunger,(2008),96 min,Biography -  Crime -  Drama,7.5,"£1,500,000","154,084",71787,82
+612.,Sympathy for Mr. Vengeance,(2002),129 min,Crime -  Drama -  Thriller,7.5,"$4,000,000","45,289",71722,56
+613.,Hackers,(1995),105 min,Crime -  Drama -  Romance,6.2,"$20,000,000","7,564,000",71549,46
+614.,The Gambler,(III) (2014),111 min,Crime -  Drama -  Thriller,6.0,"$25,000,000","33,680,992",71537,55
+615.,Just Mercy,(2019),137 min,Biography -  Crime -  Drama,7.6,"$25,000,000",,71314,68
+616.,Kick,(2014),146 min,Action -  Comedy -  Crime,6.0,,"2,461,031",71197,
+617.,God Bless America,(2011),105 min,Action -  Comedy -  Crime,7.1,,"122,029",70979,56
+618.,Be Cool,(2005),118 min,Comedy -  Crime -  Music,5.6,"$53,000,000","56,046,979",70869,37
+619.,The Bandit,(1996),128 min,Crime -  Drama -  Thriller,8.1,"TRL 1,200,000",,70809,
+620.,The Net,(I) (1995),114 min,Action -  Crime -  Drama,6.0,"$22,000,000","50,727,965",70605,51
+621.,Brawl in Cell Block 99,(2017),132 min,Action -  Crime -  Drama,7.1,,,70598,79
+622.,True Story,(I) (2015),99 min,Biography -  Crime -  Drama,6.3,,"4,719,695",70295,50
+623.,House of Sand and Fog,(2003),126 min,Crime -  Drama,7.5,"$16,500,000","13,005,485",70287,71
+624.,21 Bridges,(2019),99 min,Action -  Crime -  Drama,6.6,"$33,000,000","28,539,757",70211,51
+625.,Violent Night,(2022),112 min,Action -  Comedy -  Crime,6.7,"$20,000,000",,70091,55
+626.,The Client,(1994),119 min,Crime -  Drama -  Mystery,6.7,"$45,000,000","92,115,211",69903,65
+627.,Top Secret!,(1984),90 min,Comedy -  Crime -  Music,7.2,"$9,000,000","20,500,000",69771,68
+628.,Bandits,(2001),123 min,Comedy -  Crime -  Drama,6.5,"$75,000,000","41,575,141",69506,60
+629.,Hera Pheri,(2000),156 min,Action -  Comedy -  Crime,8.1,,,69265,
+630.,El Mariachi,(1992),81 min,Action -  Crime -  Thriller,6.8,"$7,000","2,040,920",69124,73
+631.,Celda 211,(2009),113 min,Action -  Adventure -  Crime,7.6,"€3,500,000",,69067,
+632.,Dead Man Down,(2013),118 min,Action -  Crime -  Drama,6.4,"$30,000,000","10,880,926",69003,39
+633.,The Chaser,(2008),125 min,Action -  Crime -  Drama,7.8,"$2,650,000",,68991,64
+634.,The Body,(2012),112 min,Crime -  Drama -  Mystery,7.6,,,68865,
+635.,DC League of Super-Pets,(2022),105 min,Animation -  Action -  Adventure,7.1,"$90,000,000","93,657,117",68857,56
+636.,Elle,(I) (2016),130 min,Crime -  Drama -  Thriller,7.1,"€9,000,000",,68801,89
+637.,The Good Nurse,(2022),121 min,Biography -  Crime -  Drama,6.8,,,68592,65
+638.,The Snowman,(2017),119 min,Crime -  Drama -  Thriller,5.1,"$35,000,000","6,670,765",68308,23
+639.,Domino,(2005),127 min,Action -  Biography -  Crime,5.9,"$50,000,000","10,169,202",68283,36
+640.,The Devil's Own,(1997),111 min,Action -  Crime -  Drama,6.2,"$90,000,000","42,868,348",68207,53
+641.,Machine Gun Preacher,(2011),129 min,Action -  Biography -  Crime,6.7,"$30,000,000","538,690",67466,43
+642.,Soylent Green,(1973),97 min,Crime -  Mystery -  Sci-Fi,7.0,"$4,000,000","7,920,000",67367,66
+643.,Mother,(2009),129 min,Crime -  Drama -  Mystery,7.8,"$5,000,000","547,292",67339,79
+644.,Diabolique,(1955),117 min,Crime -  Drama -  Horror,8.1,,"1,090,000",67271,
+645.,Harsh Times,(2005),116 min,Action -  Crime -  Drama,6.8,"$2,000,000","3,337,931",67089,56
+646.,1922,(2017),102 min,Crime -  Drama -  Horror,6.2,,,66946,70
+647.,Marathon Man,(1976),125 min,Crime -  Drama -  Thriller,7.4,"$6,500,000","21,709,020",66783,64
+648.,Gold,(I) (2016),120 min,Crime -  Drama,6.7,"$20,000,000","7,227,038",66290,49
+649.,The Informant!,(2009),108 min,Biography -  Comedy -  Crime,6.5,"$22,000,000","33,313,582",66133,66
+650.,Blood Father,(2016),88 min,Action -  Crime -  Drama,6.4,"$13,000,000",,65870,66
+651.,Half Baked,(1998),82 min,Comedy -  Crime,6.6,"$8,000,000","17,278,980",65705,16
+652.,Red State,(2011),88 min,Action -  Crime -  Horror,6.1,"$4,000,000","1,104,682",65700,50
+653.,Solace,(II) (2015),101 min,Crime -  Drama -  Mystery,6.4,,,65648,36
+654.,Kate,(I) (2021),106 min,Action -  Adventure -  Crime,6.2,,,65609,47
+655.,Heavenly Creatures,(1994),99 min,Biography -  Crime -  Drama,7.3,"$5,000,000","3,049,135",65487,86
+656.,Murder on the Orient Express,(1974),128 min,Crime -  Drama -  Mystery,7.2,"£1,500,000","72,034",65224,63
+657.,Kiss of the Dragon,(2001),98 min,Action -  Crime -  Thriller,6.6,"$25,000,000","36,845,124",65092,58
+658.,Brooklyn's Finest,(2009),132 min,Action -  Crime -  Drama,6.7,"$17,000,000","27,154,426",64994,43
+659.,The Frozen Ground,(2013),105 min,Crime -  Drama -  Thriller,6.4,"$27,220,000",,64983,37
+660.,Irrational Man,(2015),95 min,Comedy -  Crime -  Drama,6.6,"$11,000,000","4,027,764",64904,53
+661.,Robot & Frank,(2012),89 min,Comedy -  Crime -  Drama,7.0,"$2,500,000","3,325,638",64902,67
+662.,Punisher: War Zone,(2008),103 min,Action -  Crime -  Drama,5.9,"$35,000,000","7,948,159",64891,30
+663.,Sabotage,(2014),109 min,Action -  Crime -  Drama,5.7,"$35,000,000","10,508,518",64798,41
+664.,Shazam! Fury of the Gods,(2023),130 min,Action -  Adventure -  Comedy,6.1,"$125,000,000",,64732,47
+665.,Runner Runner,(2013),88 min,Crime -  Thriller,5.6,"$30,000,000","19,316,646",64696,36
+666.,Guns Akimbo,(2019),98 min,Action -  Comedy -  Crime,6.3,"$15,000,000",,64486,42
+667.,Basic,(2003),98 min,Action -  Crime -  Drama,6.4,"$50,000,000","26,536,120",64427,34
+668.,Point Break,(2015),114 min,Action -  Adventure -  Crime,5.3,"$105,000,000","28,782,481",64425,34
+669.,Takers,(2010),107 min,Action -  Crime -  Drama,6.2,"$32,000,000","57,744,720",64150,45
+670.,Showtime,(2002),95 min,Action -  Comedy -  Crime,5.5,"$85,000,000","38,082,712",64094,32
+671.,Observe and Report,(2009),86 min,Comedy -  Crime -  Drama,5.7,"$18,000,000","23,993,605",64084,54
+672.,Magnum Force,(1973),124 min,Action -  Crime -  Mystery,7.2,,"4,564,304",64003,58
+673.,Shallow Grave,(1994),89 min,Crime -  Thriller,7.3,"$2,500,000","2,881,508",63727,67
+674.,Hoodwinked,(2005),80 min,Animation -  Adventure -  Comedy,6.5,"$30,000,000","51,386,611",63719,45
+675.,Dick Tracy,(1990),105 min,Action -  Comedy -  Crime,6.2,"$47,000,000","103,738,726",63651,68
+676.,The Crimson Rivers,(2000),106 min,Crime -  Mystery -  Thriller,6.9,"$14,000,000","632,548",63621,49
+677.,Vikram,(2022),175 min,Action -  Crime -  Thriller,8.3,"₹1,500,000,000",,63508,
+678.,Sexy Beast,(2000),89 min,Crime -  Drama -  Thriller,7.3,,"6,946,056",63483,79
+679.,The Player,(1992),124 min,Comedy -  Crime -  Drama,7.5,"$8,000,000","21,706,100",62883,86
+680.,Out of Time,(I) (2003),105 min,Crime -  Drama -  Mystery,6.5,"$50,000,000","41,088,845",62829,63
+681.,Appaloosa,(2008),115 min,Action -  Crime -  Drama,6.7,"$20,000,000","20,207,003",62718,64
+682.,The White Tiger,(2021),125 min,Crime -  Drama,7.1,,,62591,76
+683.,The Pledge,(I) (2001),124 min,Crime -  Drama -  Mystery,6.8,"$35,000,000","19,719,930",62586,71
+684.,Mindhunters,(2004),106 min,Crime -  Horror -  Thriller,6.3,"$27,000,000","4,480,744",62552,33
+685.,The Hustle,(I) (2019),93 min,Comedy -  Crime,5.4,"$21,000,000","35,417,038",62533,35
+686.,Don't Breathe 2,(2021),98 min,Action -  Crime -  Horror,6.0,,"32,638,038",62442,46
+687.,Straw Dogs,(1971),113 min,Crime -  Drama -  Thriller,7.4,"$3,251,794",,62222,73
+688.,Pride and Glory,(2008),130 min,Crime -  Drama -  Thriller,6.6,"$30,000,000","15,709,385",62104,45
+689.,The Brave One,(2007),122 min,Action -  Crime -  Drama,6.7,"$70,000,000","36,793,804",62066,56
+690.,The Spirit,(2008),103 min,Action -  Crime -  Fantasy,4.7,"$60,000,000","19,781,879",62009,30
+691.,Blackhat,(2015),133 min,Action -  Crime -  Thriller,5.4,"$70,000,000","7,097,125",61908,51
+692.,Calvary,(2014),102 min,Crime -  Drama -  Mystery,7.4,,"3,593,460",61750,77
+693.,Bad Education,(2004),106 min,Crime -  Drama,7.4,"$5,000,000","5,211,842",61661,81
+694.,Bernie,(2011),104 min,Biography -  Comedy -  Crime,6.8,"$5,000,000","9,203,192",61587,75
+695.,The General's Daughter,(1999),116 min,Crime -  Drama -  Mystery,6.4,"$95,000,000","102,705,852",61525,47
+696.,Menace II Society,(1993),97 min,Crime -  Drama -  Thriller,7.5,"$3,500,000","27,900,000",61498,76
+697.,The Guilty,(2018),85 min,Crime -  Drama -  Thriller,7.5,,"207,140",61395,83
+698.,Timecop,(1994),99 min,Action -  Crime -  Sci-Fi,5.9,"$27,000,000","44,853,581",61387,48
+699.,Drillbit Taylor,(2008),110 min,Action -  Comedy -  Crime,5.7,"$40,000,000","32,853,640",61372,41
+700.,Spiderhead,(2022),106 min,Action -  Crime -  Drama,5.4,,,61284,54
+701.,I Don't Feel at Home in This World Anymore,(2017),93 min,Comedy -  Crime -  Drama,6.9,,,60860,75
+702.,Ride Along 2,(2016),102 min,Action -  Comedy -  Crime,5.9,"$40,000,000","91,221,830",60824,32
+703.,Breach,(2007),110 min,Biography -  Crime -  Drama,7.0,,"33,231,264",60544,74
+704.,Victoria,(II) (2015),138 min,Crime -  Drama -  Romance,7.6,,,60498,77
+705.,Sneakers,(1992),126 min,Comedy -  Crime -  Drama,7.1,"$23,000,000","51,433,000",60453,65
+706.,Motherless Brooklyn,(2019),144 min,Crime -  Drama -  Mystery,6.8,"$26,000,000",,60059,60
+707.,Murder by Numbers,(2002),115 min,Crime -  Mystery -  Thriller,6.1,"$50,000,000","31,945,749",59869,50
+708.,Fanboys,(2009),90 min,Adventure -  Comedy -  Crime,6.5,"$3,900,000","688,529",59803,45
+709.,Who Am I,(2014),102 min,Crime -  Drama -  Mystery,7.5,,,59716,
+710.,The Voices,(2014),103 min,Comedy -  Crime -  Horror,6.3,,,59645,58
+711.,The Lookout,(2007),99 min,Crime -  Drama -  Thriller,7.0,"$16,000,000","4,600,585",59627,73
+712.,Weekend at Bernie's,(1989),97 min,Adventure -  Comedy -  Crime,6.4,,"30,218,387",59476,32
+713.,Last Man Standing,(1996),101 min,Action -  Crime -  Drama,6.4,"$67,000,000","17,600,000",59434,44
+714.,Batman: The Killing Joke,(2016),76 min,Animation -  Action -  Crime,6.4,"$3,500,000","3,775,000",59054,
+715.,The 39 Steps,(1935),86 min,Crime -  Mystery -  Thriller,7.6,"£50,000",,59030,93
+716.,Animal Kingdom,(2010),113 min,Crime -  Drama -  Thriller,7.2,"A$5,000,000","1,044,039",58862,83
+717.,Beavis and Butt-Head Do America,(1996),81 min,Animation -  Adventure -  Comedy,6.8,"$12,000,000","63,071,133",58833,64
+718.,Baby,(I) (2015),159 min,Action -  Crime -  Thriller,7.9,,,58755,
+719.,Firewall,(2006),105 min,Action -  Crime -  Thriller,5.8,"$50,000,000","48,751,189",58675,45
+720.,Three Days of the Condor,(1975),117 min,Crime -  Mystery -  Thriller,7.4,"$20,000,000","41,509,797",58600,63
+721.,I See You,(II) (2019),98 min,Crime -  Drama -  Mystery,6.8,"$3,000,000",,58485,65
+722.,Live by Night,(2016),129 min,Action -  Crime -  Drama,6.4,"$65,000,000","10,378,555",58476,49
+723.,Traitor,(2008),114 min,Action -  Crime -  Drama,6.9,"$22,000,000","23,530,831",58416,61
+724.,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,(1996),89 min,Comedy -  Crime,6.5,"$3,800,000","20,109,115",58366,53
+725.,'71,(2014),99 min,Action -  Crime -  Drama,7.2,,"1,268,760",58045,83
+726.,Ichi the Killer,(2001),129 min,Action -  Crime -  Drama,7.0,"$1,400,000","20,285",57898,55
+727.,Gangubai Kathiawadi,(2022),152 min,Biography -  Crime -  Drama,7.8,,,57888,
+728.,Bound,(1996),109 min,Crime -  Thriller,7.3,"$4,500,000","3,798,532",57808,61
+729.,Breakdown,(I) (1997),93 min,Crime -  Drama -  Mystery,7.0,"$36,000,000","50,129,186",57712,73
+730.,All Good Things,(2010),101 min,Crime -  Drama -  Mystery,6.3,,"578,382",57662,57
+731.,Absolute Power,(1997),121 min,Action -  Crime -  Drama,6.7,"$50,000,000","50,007,168",57635,52
+732.,The Crying Game,(1992),112 min,Crime -  Drama -  Romance,7.2,"£2,300,000","62,549,000",57581,90
+733.,Wild Card,(2015),92 min,Action -  Crime -  Drama,5.6,"$30,000,000","3,200",57578,40
+734.,Blow Out,(1981),108 min,Crime -  Drama -  Mystery,7.4,"$18,000,000","13,747,234",57546,86
+735.,The Many Saints of Newark,(2021),120 min,Crime -  Drama,6.3,"$50,000,000",,57529,60
+736.,Bangkok Dangerous,(2008),99 min,Action -  Crime -  Thriller,5.3,"$45,000,000","15,279,680",57492,24
+737.,Special 26,(2013),144 min,Crime -  Drama -  Thriller,8.0,,"1,079,369",57410,
+738.,The Whole Ten Yards,(2004),98 min,Comedy -  Crime -  Thriller,5.5,"$40,000,000","16,323,969",57314,24
+739.,Taxi 2,(2000),88 min,Action -  Comedy -  Crime,6.5,"FRF 70,000,000","729,844",57261,
+740.,Masterminds,(I) (2016),95 min,Biography -  Comedy -  Crime,5.8,"$25,000,000","17,368,022",57060,47
+741.,Little Man,(III) (2006),98 min,Comedy -  Crime,4.5,"$64,000,000","58,645,052",57057,26
+742.,Black Rain,(1989),125 min,Action -  Crime -  Drama,6.6,"$30,000,000","46,212,055",57035,56
+743.,Stand Up Guys,(2012),95 min,Comedy -  Crime -  Thriller,6.4,"$15,000,000","3,301,046",56548,41
+744.,3-Iron,(2004),88 min,Crime -  Drama -  Romance,7.9,"$1,000,000","238,507",56496,72
+745.,Tell No One,(2006),131 min,Crime -  Drama -  Mystery,7.5,"€11,700,000","6,177,192",56276,82
+746.,Texas Chainsaw Massacre,(2022),81 min,Crime -  Horror -  Thriller,4.7,"$20,000,000",,56262,34
+747.,In the Shadow of the Moon,(2019),115 min,Action -  Crime -  Mystery,6.2,,,56197,48
+748.,Heartbreakers,(2001),123 min,Comedy -  Crime -  Romance,6.2,"$35,000,000","40,336,607",56180,47
+749.,"See No Evil, Hear No Evil",(1989),103 min,Comedy -  Crime,6.8,"$18,000,000","46,908,987",56162,44
+750.,Chaos,(II) (2005),106 min,Action -  Crime -  Drama,6.4,"$12,500,000",,56107,
+751.,Haider,(2014),160 min,Action -  Crime -  Drama,8.0,"₹370,000,000","901,610",56011,
+752.,Shaft,(2019),111 min,Action -  Comedy -  Crime,6.4,"$35,000,000","21,360,215",55884,40
+753.,Kalifornia,(1993),117 min,Crime -  Drama -  Thriller,6.7,"$9,000,000","2,395,231",55665,49
+754.,Dead Man's Shoes,(2004),90 min,Crime -  Drama -  Thriller,7.6,"£695,393","6,013",55560,52
+755.,Hotel Artemis,(2018),94 min,Action -  Crime -  Drama,6.1,"$15,000,000","6,708,147",55517,58
+756.,Frantic,(1988),120 min,Crime -  Drama -  Mystery,6.9,"$20,000,000","17,637,950",55489,66
+757.,Fletch,(1985),98 min,Comedy -  Crime -  Mystery,6.9,"$8,000,000","50,612,888",55353,68
+758.,Don 2,(2011),148 min,Action -  Crime -  Thriller,7.0,"$16,700,000","3,680,306",55182,49
+759.,"Black Cat, White Cat",(1998),127 min,Comedy -  Crime -  Romance,8.0,,"348,660",55065,73
+760.,Leviathan,(2014),140 min,Crime -  Drama,7.6,,"1,092,800",55062,92
+761.,Boiler Room,(2000),120 min,Crime -  Drama -  Thriller,7.0,"$7,000,000","16,938,179",54790,63
+762.,Nine Queens,(2000),114 min,Crime -  Drama -  Thriller,7.9,"$1,500,000","1,221,261",54642,80
+763.,Detroit,(2017),143 min,Crime -  Drama -  History,7.3,"$34,000,000","16,790,139",54475,77
+764.,See How They Run,(2022),98 min,Comedy -  Crime -  Mystery,6.5,"$40,000,000",,54474,60
+765.,The Pink Panther,(1963),115 min,Comedy -  Crime -  Romance,7.0,,"10,878,107",54052,55
+766.,Can You Ever Forgive Me?,(2018),106 min,Biography -  Comedy -  Crime,7.1,"$10,000,000","8,803,865",54049,87
+767.,Lakeview Terrace,(2008),110 min,Crime -  Drama -  Thriller,6.2,"$20,000,000","39,263,506",53885,47
+768.,Airheads,(1994),92 min,Comedy -  Crime -  Music,6.1,,"5,370,000",53860,46
+769.,Transsiberian,(2008),111 min,Crime -  Drama -  Mystery,6.6,"$15,000,000","2,203,641",53833,72
+770.,The Proposition,(2005),104 min,Crime -  Drama -  Western,7.3,"$20,000,000","1,900,725",53773,73
+771.,Veronica Mars,(2014),107 min,Crime -  Drama -  Mystery,6.7,"$6,000,000","3,319,109",53619,62
+772.,Hard Target,(1993),97 min,Action -  Crime -  Thriller,6.2,"$18,000,000","32,589,677",53530,63
+773.,Le Samouraï,(1967),101 min,Crime -  Drama,8.0,,"39,481",53430,
+774.,The Condemned,(2007),113 min,Action -  Crime -  Thriller,6.0,,"3,718",53427,23
+775.,Batman: Mask of the Phantasm,(1993),76 min,Animation -  Action -  Adventure,7.8,"$6,000,000","5,617,391",53334,65
+776.,U Turn,(1997),125 min,Crime -  Drama -  Thriller,6.7,"$19,000,000","6,633,400",53331,54
+777.,Down by Law,(1986),107 min,Comedy -  Crime -  Drama,7.7,"$1,100,000","1,436,000",53146,75
+778.,Baby's Day Out,(1994),99 min,Adventure -  Comedy -  Crime,6.2,"$48,000,000","16,671,505",53036,
+779.,Cassandra's Dream,(2007),108 min,Crime -  Drama -  Romance,6.6,"£13,000,000","971,561",52945,49
+780.,The Outfit,(2022),105 min,Crime -  Drama -  Mystery,7.2,,,52847,69
+781.,The Laundromat,(I) (2019),96 min,Comedy -  Crime -  Drama,6.3,,,52833,57
+782.,Life,(I) (1999),108 min,Comedy -  Crime -  Drama,6.8,"$80,000,000","63,844,974",52748,63
+783.,Assault on Precinct 13,(1976),91 min,Action -  Crime -  Thriller,7.3,"$150,000",,52712,89
+784.,Hard Eight,(1996),101 min,Crime -  Drama,7.1,"$3,000,000","222,559",52707,78
+785.,Hot Pursuit,(2015),87 min,Action -  Comedy -  Crime,5.1,"$35,000,000","34,507,079",52482,31
+786.,National Security,(2003),88 min,Action -  Comedy -  Crime,5.6,,"36,381,186",52362,31
+787.,Adam's Apples,(2005),94 min,Comedy -  Crime -  Drama,7.7,,"1,305",52335,51
+788.,Hard Boiled,(1992),128 min,Action -  Crime -  Thriller,7.7,"$4,500,000",,52020,
+789.,RoboCop 3,(1993),104 min,Action -  Crime -  Sci-Fi,4.1,"$22,000,000","10,696,210",51834,40
+790.,Untraceable,(2008),101 min,Crime -  Mystery -  Thriller,6.2,"$35,000,000","28,687,835",51799,32
+791.,The Brothers Bloom,(2008),114 min,Action -  Adventure -  Comedy,6.7,"$20,000,000","3,519,627",51672,55
+792.,Marnie,(1964),130 min,Crime -  Drama -  Mystery,7.1,"$3,000,000","7,000,000",51614,73
+793.,Duplicity,(2009),125 min,Comedy -  Crime -  Romance,6.1,"$60,000,000","40,572,825",51420,69
+794.,The East,(2013),116 min,Crime -  Drama -  Thriller,6.8,"$6,500,000","2,268,296",51309,68
+795.,Lions for Lambs,(2007),92 min,Crime -  Drama -  Mystery,6.2,"$35,000,000","15,002,854",51202,47
+796.,15 Minutes,(2001),120 min,Action -  Crime -  Drama,6.1,"$60,000,000","24,403,552",51109,34
+797.,Bullet to the Head,(2012),92 min,Action -  Crime -  Thriller,5.7,"$45,000,000","9,483,821",51070,48
+798.,Dragged Across Concrete,(2018),159 min,Action -  Crime -  Drama,6.9,"$15,000,000",,50765,60
+799.,The Sentinel,(2006),108 min,Action -  Crime -  Thriller,6.1,"$60,000,000","36,280,697",50543,49
+800.,Cowboy Bebop: The Movie,(2001),115 min,Animation -  Action -  Crime,7.8,,"1,000,045",50536,61
+801.,Official Secrets,(2019),112 min,Biography -  Crime -  Drama,7.3,,"395,511",50517,63
+802.,The Blind Swordsman: Zatoichi,(2003),116 min,Action -  Comedy -  Crime,7.5,,"853,718",50468,75
+803.,Keanu,(2016),100 min,Action -  Comedy -  Crime,6.2,"$15,000,000","20,566,327",50201,63
+804.,Formula 51,(2001),93 min,Action -  Comedy -  Crime,6.3,"$27,000,000","5,204,007",50115,23
+805.,To Die For,(1995),106 min,Comedy -  Crime -  Drama,6.8,"$20,000,000","21,284,514",50090,86
+806.,Gomorrah,(2008),137 min,Crime -  Drama,7.0,,"1,577,639",49995,87
+807.,Joe,(I) (2013),117 min,Crime -  Drama -  Thriller,6.8,"$4,000,000","373,375",49775,74
+808.,Loaded Weapon 1,(1993),84 min,Action -  Comedy -  Crime,6.2,"$13,000,000","27,979,400",49709,30
+809.,The Rover,(2014),103 min,Action -  Crime -  Drama,6.4,"$12,000,000","1,109,199",49706,64
+810.,Kill the Irishman,(2011),106 min,Biography -  Crime -  Drama,7.0,"$12,000,000","1,187,711",49703,50
+811.,Gigli,(2003),121 min,Comedy -  Crime -  Romance,2.6,"$54,000,000","6,068,735",49667,18
+812.,Secret in Their Eyes,(2015),111 min,Crime -  Drama -  Mystery,6.3,"$19,500,000","20,180,155",49635,45
+813.,Paper Moon,(1973),102 min,Comedy -  Crime -  Drama,8.1,"$2,500,000","30,933,743",49585,77
+814.,Luther: The Fallen Sun,(2023),129 min,Crime -  Drama -  Mystery,6.4,,,49550,53
+815.,Perfect Stranger,(2007),109 min,Crime -  Mystery -  Thriller,5.7,"$60,795,000","23,984,949",49549,31
+816.,The Killer,(1989),111 min,Action -  Crime -  Drama,7.8,,,49508,82
+817.,Inspector Gadget,(1999),78 min,Action -  Adventure -  Comedy,4.2,"$90,000,000","97,403,112",49473,36
+818.,CHIPS,(2017),100 min,Action -  Comedy -  Crime,6.0,"$25,000,000","18,600,152",49398,28
+819.,The Girl in the Spider's Web,(2018),115 min,Action -  Crime -  Drama,6.1,"$43,000,000","14,841,338",49390,43
+820.,London Boulevard,(2010),103 min,Crime -  Drama,6.2,"$25,000,000","6,911",49384,52
+821.,Stuber,(2019),93 min,Action -  Comedy -  Crime,6.2,"$16,000,000","22,370,452",49360,42
+822.,Passenger 57,(1992),84 min,Action -  Crime -  Thriller,5.9,"$15,000,000","44,065,653",49321,50
+823.,Extract,(2009),92 min,Comedy -  Crime -  Romance,6.1,"$8,000,000","10,814,185",49228,61
+824.,The Hunted,(2003),94 min,Action -  Crime -  Drama,6.0,"$55,000,000","34,238,611",49126,40
+825.,Murder Mystery 2,(2023),90 min,Action -  Comedy -  Crime,5.7,,,48843,44
+826.,Cosmopolis,(2012),109 min,Crime -  Drama -  Fantasy,5.1,"$20,500,000","743,636",48841,58
+827.,11:14,(2003),86 min,Comedy -  Crime -  Drama,7.1,"$6,000,000",,48794,65
+828.,After the Sunset,(2004),97 min,Action -  Comedy -  Crime,6.2,"$60,000,000","28,331,233",48687,38
+829.,Get Rich or Die Tryin',(2005),117 min,Biography -  Crime -  Drama,5.4,"$40,000,000","30,981,850",48492,45
+830.,A Man Apart,(2003),109 min,Action -  Crime -  Drama,6.0,"$36,000,000","26,183,197",48411,36
+831.,The Italian Job,(1969),99 min,Action -  Comedy -  Crime,7.2,"$3,000,000",,48195,70
+832.,Free Fire,(2016),91 min,Action -  Comedy -  Crime,6.3,"£5,500,000","1,798,472",48168,63
+833.,Very Bad Things,(1998),100 min,Comedy -  Crime -  Thriller,6.3,"$30,000,000","9,801,782",48003,31
+834.,The River Wild,(1994),111 min,Adventure -  Crime -  Thriller,6.5,"$45,000,000","46,815,748",47988,63
+835.,The Bad Guys,(2022),100 min,Animation -  Adventure -  Comedy,6.8,"$70,000,000","97,233,630",47935,64
+836.,Nothing to Lose,(1997),98 min,Action -  Adventure -  Comedy,6.7,"$25,000,000","44,455,658",47914,
+837.,Imperium,(I) (2016),109 min,Biography -  Crime -  Drama,6.5,,,47834,68
+838.,Kill the Messenger,(2014),112 min,Biography -  Crime -  Drama,6.9,,"2,450,846",47753,60
+839.,The Old Man & the Gun,(2018),93 min,Biography -  Comedy -  Crime,6.7,,"11,277,120",47741,80
+840.,Once Upon a Time in Anatolia,(2011),163 min,Crime -  Drama -  Thriller,7.8,,"138,730",47730,82
+841.,3000 Miles to Graceland,(2001),125 min,Action -  Comedy -  Crime,5.9,"$62,000,000","15,738,632",47700,21
+842.,Chor Nikal Ke Bhaga,(2023),110 min,Crime -  Drama -  Thriller,7.8,,,47679,
+843.,Dhoom 3,(2013),172 min,Action -  Crime -  Drama,5.4,,"8,031,955",47570,61
+844.,High and Low,(1963),143 min,Crime -  Drama -  Mystery,8.4,,,47567,90
+845.,Gunpowder Milkshake,(2021),114 min,Action -  Crime -  Thriller,6.0,"$30,000,000",,47491,47
+846.,Starred Up,(2013),106 min,Crime -  Drama,7.3,,"34,100",47456,81
+847.,Race 3,(2018),160 min,Action -  Crime -  Thriller,1.9,,"1,690,861",47454,
+848.,Stillwater,(2021),139 min,Crime -  Drama -  Thriller,6.6,,,47432,60
+849.,Vikram Vedha,(2017),147 min,Action -  Crime -  Drama,8.2,"₹150,000,000",,47369,
+850.,Raees,(2017),143 min,Action -  Crime -  Drama,6.6,,"3,262,954",47351,
+851.,The Dead Pool,(1988),91 min,Action -  Crime -  Mystery,6.3,"$31,000,000","37,903,295",47261,46
+852.,The Enforcer,(1976),96 min,Action -  Crime -  Thriller,6.7,"$9,000,000","46,200,000",47151,58
+853.,Two for the Money,(2005),122 min,Crime -  Drama -  Sport,6.2,"$35,000,000","22,862,049",47142,50
+854.,Rising Sun,(1993),129 min,Action -  Crime -  Drama,6.2,"$35,000,000","63,095,271",47119,56
+855.,Swimming Pool,(2003),102 min,Crime -  Drama -  Mystery,6.7,,"10,105,505",47103,70
+856.,Seeking Justice,(2011),105 min,Action -  Crime -  Drama,6.1,"$17,000,000","41,081",47084,38
+857.,Lilya 4-Ever,(2002),109 min,Crime -  Drama,7.8,,"181,655",47077,83
+858.,American Animals,(2018),116 min,Biography -  Crime -  Drama,7.0,,"2,856,954",46838,68
+859.,The Take,(2016),92 min,Action -  Crime -  Drama,6.3,"$20,000,000","39,000",46821,48
+860.,Raatchasan,(2018),170 min,Action -  Crime -  Drama,8.3,,,46767,
+861.,Striptease,(1996),115 min,Comedy -  Crime -  Drama,4.5,"$40,000,000","33,109,743",46754,37
+862.,Sudden Impact,(1983),117 min,Action -  Crime -  Thriller,6.6,"$22,000,000","67,642,693",46704,52
+863.,The Pink Panther 2,(2009),92 min,Action -  Adventure -  Comedy,5.6,"$70,000,000","35,922,978",46578,36
+864.,Dark Places,(2015),113 min,Crime -  Drama -  Mystery,6.2,"$20,000,000",,46510,39
+865.,The Counterfeiters,(2007),99 min,Crime -  Drama -  History,7.5,"€4,200,000","5,484,715",46435,78
+866.,Anon,(I) (2018),100 min,Crime -  Mystery -  Sci-Fi,6.1,"$20,000,000",,46404,54
+867.,Adventures in Babysitting,(1987),102 min,Adventure -  Comedy -  Crime,6.9,"$7,000,000","34,368,475",46379,45
+868.,Pink,(III) (2016),136 min,Crime -  Drama -  Thriller,8.1,,"1,241,223",46356,
+869.,Blood Work,(2002),110 min,Action -  Crime -  Drama,6.4,"$50,000,000","26,199,517",46300,64
+870.,The Report,(I) (2019),119 min,Biography -  Crime -  Drama,7.2,,,46222,66
+871.,Silverado,(1985),133 min,Action -  Crime -  Drama,7.2,"$26,000,000","33,200,000",46177,64
+872.,Casualties of War,(1989),113 min,Action -  Crime -  Drama,7.1,"$22,500,000","18,671,317",46069,75
+873.,Under the Silver Lake,(2018),139 min,Crime -  Drama -  Mystery,6.5,"$8,500,000","46,083",46003,60
+874.,Dolores Claiborne,(1995),132 min,Crime -  Drama -  Mystery,7.4,,"24,361,867",45768,62
+875.,Suburbicon,(2017),105 min,Comedy -  Crime -  Drama,5.8,"$25,000,000","5,775,178",45749,42
+876.,Cradle 2 the Grave,(2003),101 min,Action -  Crime -  Drama,5.8,"$25,000,000","34,712,347",45748,36
+877.,Stolen,(2012),96 min,Action -  Crime -  Thriller,5.5,"$35,000,000","304,318",45696,43
+878.,The Matador,(2005),96 min,Comedy -  Crime -  Thriller,6.7,"$12,500,000","12,594,698",45606,65
+879.,The House,(I) (2017),88 min,Comedy -  Crime,5.6,"$40,000,000","25,584,504",45588,30
+880.,Enough,(I) (2002),115 min,Crime -  Drama -  Thriller,5.7,"$38,000,000","40,007,742",45491,25
+881.,District 13: Ultimatum,(2009),101 min,Action -  Crime -  Thriller,6.5,"€12,000,000","36,136",45420,64
+882.,Peter Rabbit,(2018),95 min,Adventure -  Comedy -  Crime,6.6,"$50,000,000","115,253,424",45210,51
+883.,Bad Lieutenant,(1992),96 min,Crime -  Drama -  Thriller,7.0,"$1,000,000","2,000,022",45206,70
+884.,Conviction,(II) (2010),107 min,Biography -  Crime -  Drama,7.2,"$12,500,000","6,783,129",45043,61
+885.,High Crimes,(2002),115 min,Crime -  Drama -  Mystery,6.3,"$42,000,000","41,543,207",45016,48
+886.,Big Momma's House 2,(2006),99 min,Comedy -  Crime,4.8,"$40,000,000","70,165,972",44918,34
+887.,Notorious,(2009),122 min,Biography -  Crime -  Drama,6.7,"$20,000,000","36,843,682",44911,60
+888.,Thoroughbreds,(2017),92 min,Comedy -  Crime -  Drama,6.6,"$6,000,000","2,830,775",44773,75
+889.,Lock Up,(1989),109 min,Action -  Crime -  Drama,6.4,"$24,000,000","22,099,847",44605,52
+890.,Sleep Tight,(2011),102 min,Crime -  Drama -  Horror,7.2,"$5,000,000",,44505,70
+891.,Dressed to Kill,(1980),104 min,Crime -  Drama -  Mystery,7.1,"$6,500,000","31,899,000",44391,74
+892.,The Good Liar,(2019),109 min,Crime -  Drama -  Mystery,6.7,"$10,000,000",,44372,55
+893.,Trespass,(2011),91 min,Crime -  Drama -  Thriller,5.3,"$35,000,000","16,816",44303,37
+894.,Striking Distance,(1993),102 min,Action -  Crime -  Mystery,5.8,"$30,000,000","23,798,623",44241,36
+895.,The Hitcher,(2007),84 min,Crime -  Thriller,5.6,"$10,000,000","16,472,961",44230,28
+896.,Police Academy 4: Citizens on Patrol,(1987),88 min,Comedy -  Crime,4.9,,"28,061,343",44190,26
+897.,Taxi 3,(2003),84 min,Action -  Comedy -  Crime,5.8,"$1,300,000","497,208",44136,
+898.,Fallen Angels,(1995),96 min,Comedy -  Crime -  Drama,7.6,,,44092,71
+899.,Sardar Udham,(2021),164 min,Biography -  Crime -  Drama,8.4,,,43967,
+900.,Nick of Time,(1995),90 min,Action -  Crime -  Drama,6.3,"$33,000,000","8,169,363",43882,
+901.,Rumble in the Bronx,(1995),87 min,Action -  Comedy -  Crime,6.7,"$7,500,000","32,392,047",43856,61
+902.,Taxi,(I) (2004),97 min,Action -  Comedy -  Crime,4.5,"$25,000,000","36,611,066",43617,27
+903.,It's a Mad Mad Mad Mad World,(1963),210 min,Action -  Adventure -  Comedy,7.5,"$9,400,000","46,300,000",43595,59
+904.,The Producers,(2005),134 min,Comedy -  Crime -  Musical,6.3,"$45,000,000","19,377,727",43587,52
+905.,Talaash: The Answer Lies Within,(2012),140 min,Crime -  Drama -  Mystery,7.2,"$7,395,080","2,706,375",43526,65
+906.,Balls of Fury,(2007),90 min,Comedy -  Crime -  Sport,5.3,,"32,844,290",43479,38
+907.,Chip 'n Dale: Rescue Rangers,(2022),97 min,Animation -  Action -  Adventure,7.0,"$70,000,000",,43378,66
+908.,Dirty Pretty Things,(2002),97 min,Crime -  Drama -  Thriller,7.3,"$10,000,000","8,111,360",43280,78
+909.,One for the Money,(2012),91 min,Action -  Comedy -  Crime,5.3,"$40,000,000","26,414,527",43279,22
+910.,Trust,(I) (2010),106 min,Crime -  Drama -  Thriller,6.9,"$4,000,000","120,016",43202,60
+911.,Brick Mansions,(2014),90 min,Action -  Crime -  Thriller,5.6,"$28,000,000","20,396,829",43194,40
+912.,Another 48 Hrs.,(1990),95 min,Action -  Comedy -  Crime,5.9,"$38,000,000","80,818,974",43018,23
+913.,13,(I) (2010),91 min,Crime -  Drama -  Thriller,6.0,"$20,000,000",,42885,29
+914.,Kill List,(2011),95 min,Action -  Crime -  Horror,6.4,"£500,000","26,297",42680,67
+915.,No Way Out,(1987),114 min,Action -  Crime -  Drama,7.1,"$15,000,000","35,509,515",42610,77
+916.,Drishyam,(2013),160 min,Crime -  Drama -  Thriller,8.3,"₹35,000,000",,42556,
+917.,Key Largo,(1948),100 min,Action -  Crime -  Drama,7.7,,,42390,
+918.,The Day of the Jackal,(1973),143 min,Crime -  Drama -  Thriller,7.8,,"16,056,255",42387,80
+919.,The Loved Ones,(2009),84 min,Crime -  Horror,6.6,,,42314,73
+920.,The Gunman,(2015),115 min,Action -  Adventure -  Crime,5.8,"$40,000,000","10,640,645",42283,39
+921.,Man Bites Dog,(1992),95 min,Comedy -  Crime -  Drama,7.4,"BEF 1,000,000","205,569",42257,67
+922.,Double Impact,(1991),110 min,Action -  Crime,5.6,"$15,000,000","30,102,717",42228,40
+923.,The Tall Man,(2012),106 min,Crime -  Drama -  Horror,5.9,"€15,000,000",,42115,52
+924.,Les Misérables,(1998),134 min,Crime -  Drama -  Romance,7.4,,"14,096,321",42078,65
+925.,Sea of Love,(1989),113 min,Crime -  Drama -  Mystery,6.8,"$19,000,000","58,571,513",42077,66
+926.,Pusher,(1996),110 min,Crime -  Thriller,7.3,"DKK 6,000,000","4,440",42069,72
+927.,Money Train,(1995),110 min,Action -  Comedy -  Crime,5.7,"$68,000,000","35,324,232",42027,
+928.,Narc,(2002),105 min,Crime -  Drama -  Mystery,7.1,"$6,500,000","10,460,089",41965,70
+929.,The Fifth Estate,(2013),128 min,Biography -  Crime -  Drama,6.2,"$28,000,000","3,254,172",41936,49
+930.,Dhamaka,(2021),103 min,Crime -  Drama -  Thriller,7.1,,,41786,
+931.,Hustle & Flow,(2005),116 min,Crime -  Drama -  Music,7.3,"$2,800,000","22,201,636",41772,68
+932.,Emily the Criminal,(2022),97 min,Crime -  Drama -  Thriller,6.7,"$3,000,000",,41712,75
+933.,Bad Education,(2019),108 min,Biography -  Comedy -  Crime,7.1,,,41702,79
+934.,Code 8,(2019),98 min,Action -  Crime -  Drama,6.1,,,41695,48
+935.,Antim: The Final Truth,(2021),138 min,Action -  Crime -  Drama,6.7,,,41592,
+936.,Snake Eyes,(2021),121 min,Action -  Adventure -  Crime,5.4,"$88,000,000",,41516,43
+937.,Death to Smoochy,(2002),109 min,Comedy -  Crime -  Drama,6.3,"$50,000,000","8,355,815",41503,38
+938.,The Curse of the Jade Scorpion,(2001),103 min,Comedy -  Crime -  Mystery,6.7,"$33,000,000","7,496,522",41445,52
+939.,Saving Silverman,(2001),90 min,Comedy -  Crime -  Romance,5.8,"$22,000,000","19,351,569",41423,22
+940.,A Bittersweet Life,(2005),119 min,Action -  Crime -  Drama,7.5,,,41396,
+941.,Regression,(I) (2015),106 min,Adventure -  Crime -  Drama,5.6,"$20,000,000","54,734",41387,32
+942.,Wasabi,(2001),94 min,Action -  Drama -  Comedy,6.6,"€15,300,000","81,525",41368,53
+943.,The Three Burials of Melquiades Estrada,(2005),121 min,Adventure -  Crime -  Drama,7.3,"$15,000,000","5,023,275",41207,77
+944.,Reindeer Games,(2000),104 min,Action -  Adventure -  Crime,5.8,"$42,000,000","23,360,779",41161,37
+945.,Death Wish,(1974),93 min,Action -  Crime -  Drama,6.9,"$3,000,000","22,000,000",41158,51
+946.,Ludo,(2020),150 min,Action -  Comedy -  Crime,7.6,,,41087,
+947.,Decision to Leave,(2022),139 min,Crime -  Drama -  Mystery,7.3,"$10,000,000",,41033,84
+948.,In the Bedroom,(2001),131 min,Crime -  Drama,7.4,"$1,700,000","35,930,604",40967,86
+949.,Romper Stomper,(1992),94 min,Crime -  Drama -  Thriller,6.8,,"175,340",40632,61
+950.,Mean Machine,(2001),99 min,Comedy -  Crime -  Drama,6.4,"£2,500,000","92,770",40595,45
+951.,Thesis,(1996),125 min,Crime -  Horror -  Mystery,7.4,"€721,214",,40399,
+952.,Midnight in the Garden of Good and Evil,(1997),155 min,Crime -  Drama -  Mystery,6.6,"$35,000,000","25,078,937",40397,57
+953.,"Roman J. Israel, Esq.",(2017),122 min,Crime -  Drama -  Thriller,6.5,"$22,000,000","11,962,712",40328,58
+954.,Apt Pupil,(1998),111 min,Crime -  Drama -  Thriller,6.7,"$14,000,000","8,838,938",40206,51
+955.,Deception,(2008),107 min,Crime -  Drama -  Mystery,6.0,"$25,000,000","4,597,760",40149,31
+956.,Chopper,(2000),94 min,Biography -  Crime -  Drama,7.1,"A$5,000,000","234,259",40148,68
+957.,Bullets Over Broadway,(1994),98 min,Comedy -  Crime,7.4,"$20,000,000","13,383,737",40095,

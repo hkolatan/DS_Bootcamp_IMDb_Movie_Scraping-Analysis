@@ -1,0 +1,380 @@
+Number,Title,Year,Runtime,Genre,Rating,Budget,Gross US & Canada,Votes,Metascore
+1.,Inception,(2010),148 min,Action -  Adventure -  Sci-Fi,8.8,"$160,000,000","292,576,195",2405966,74
+2.,The Matrix,(1999),136 min,Action -  Sci-Fi,8.7,"$63,000,000","171,479,930",1952615,73
+3.,Interstellar,(2014),169 min,Adventure -  Drama -  Sci-Fi,8.6,"$165,000,000","188,020,017",1901301,74
+4.,The Avengers,(2012),143 min,Action -  Sci-Fi,8.0,"$220,000,000","623,279,547",1412897,69
+5.,Star Wars: Episode IV - A New Hope,(1977),121 min,Action -  Adventure -  Fantasy,8.6,"$11,000,000","322,740,140",1390192,90
+6.,The Prestige,(2006),130 min,Drama -  Mystery -  Sci-Fi,8.5,"$40,000,000","53,089,891",1360893,66
+7.,Avatar,(2009),162 min,Action -  Adventure -  Fantasy,7.9,"$237,000,000","760,507,625",1339837,83
+8.,Star Wars: Episode V - The Empire Strikes Back,(1980),124 min,Action -  Adventure -  Fantasy,8.7,"$18,000,000","290,475,067",1317698,82
+9.,Back to the Future,(1985),116 min,Adventure -  Comedy -  Sci-Fi,8.5,"$19,000,000","210,609,762",1234712,87
+10.,Guardians of the Galaxy,(2014),121 min,Action -  Adventure -  Comedy,8.0,"$170,000,000","333,176,600",1207488,76
+11.,Avengers: Endgame,(2019),181 min,Action -  Adventure -  Drama,8.4,"$356,000,000","858,373,000",1174012,78
+12.,WALL·E,(2008),98 min,Animation -  Adventure -  Family,8.4,"$180,000,000","223,808,164",1139753,95
+13.,V for Vendetta,(2005),132 min,Action -  Drama -  Sci-Fi,8.2,"$54,000,000","70,511,035",1138808,62
+14.,Terminator 2: Judgment Day,(1991),137 min,Action -  Sci-Fi,8.6,"$102,000,000","204,843,350",1120401,75
+15.,Avengers: Infinity War,(2018),149 min,Action -  Adventure -  Sci-Fi,8.4,"$321,000,000","678,815,482",1117851,68
+16.,Iron Man,(2008),126 min,Action -  Adventure -  Sci-Fi,7.9,"$140,000,000","318,412,101",1079648,79
+17.,Star Wars: Episode VI - Return of the Jedi,(1983),131 min,Action -  Adventure -  Fantasy,8.3,"$32,500,000","309,125,409",1074736,58
+18.,Eternal Sunshine of the Spotless Mind,(2004),108 min,Drama -  Romance -  Sci-Fi,8.3,"$20,000,000","34,400,301",1028896,89
+19.,Mad Max: Fury Road,(2015),120 min,Action -  Adventure -  Sci-Fi,8.1,"$150,000,000","154,058,340",1027108,90
+20.,Jurassic Park,(1993),127 min,Action -  Adventure -  Sci-Fi,8.2,"$63,000,000","402,453,882",1011352,68
+21.,Star Wars: Episode VII - The Force Awakens,(2015),138 min,Action -  Adventure -  Sci-Fi,7.8,"$245,000,000","936,662,225",945672,80
+22.,The Hunger Games,(2012),142 min,Action -  Adventure -  Sci-Fi,7.2,"$78,000,000","408,010,692",945294,68
+23.,Alien,(1979),117 min,Horror -  Sci-Fi,8.5,"$11,000,000","78,900,000",901065,89
+24.,The Terminator,(1984),107 min,Action -  Sci-Fi,8.1,"$6,400,000","38,400,000",883317,84
+25.,Avengers: Age of Ultron,(2015),141 min,Action -  Adventure -  Sci-Fi,7.3,"$250,000,000","459,005,868",883012,66
+26.,The Martian,(2015),144 min,Adventure -  Drama -  Sci-Fi,8.0,"$108,000,000","228,433,663",876931,80
+27.,Iron Man 3,(2013),130 min,Action -  Adventure -  Sci-Fi,7.1,"$200,000,000","409,013,994",867390,62
+28.,Captain America: The Winter Soldier,(2014),136 min,Action -  Adventure -  Sci-Fi,7.8,"$170,000,000","259,766,572",864197,70
+29.,Captain America: The First Avenger,(2011),124 min,Action -  Adventure -  Sci-Fi,6.9,"$140,000,000","176,654,505",862415,66
+30.,A Clockwork Orange,(1971),136 min,Crime -  Sci-Fi,8.3,"$2,200,000","6,207,725",846044,77
+31.,Gravity,(2013),91 min,Drama -  Sci-Fi -  Thriller,7.7,"$100,000,000","274,092,705",839463,96
+32.,Spider-Man,(2002),121 min,Action -  Adventure -  Sci-Fi,7.4,"$139,000,000","403,706,375",836057,73
+33.,Iron Man 2,(2010),124 min,Action -  Sci-Fi,6.9,"$200,000,000","312,433,331",834821,57
+34.,Star Wars: Episode I - The Phantom Menace,(1999),136 min,Action -  Adventure -  Fantasy,6.5,"$115,000,000","474,544,677",822741,51
+35.,Donnie Darko,(2001),113 min,Drama -  Mystery -  Sci-Fi,8.0,"$6,000,000","1,480,006",817832,88
+36.,Star Wars: Episode III - Revenge of the Sith,(2005),140 min,Action -  Adventure -  Fantasy,7.6,"$113,000,000","380,262,555",809624,68
+37.,Captain America: Civil War,(2016),147 min,Action -  Sci-Fi,7.8,"$250,000,000","408,084,349",808930,75
+38.,Black Panther,(2018),134 min,Action -  Adventure -  Sci-Fi,7.3,"$200,000,000","700,059,566",799699,88
+39.,Spider-Man: No Way Home,(2021),148 min,Action -  Adventure -  Fantasy,8.2,"$200,000,000","804,747,988",791544,71
+40.,Blade Runner,(1982),117 min,Action -  Drama -  Sci-Fi,8.1,"$28,000,000","32,868,943",786002,84
+41.,Logan,(2017),137 min,Action -  Drama -  Sci-Fi,8.1,"$97,000,000","226,277,068",784833,77
+42.,Man of Steel,(2013),143 min,Action -  Adventure -  Sci-Fi,7.1,"$225,000,000","291,045,518",784828,55
+43.,I Am Legend,(2007),101 min,Action -  Drama -  Horror,7.2,"$150,000,000","256,386,216",778090,65
+44.,Thor: Ragnarok,(2017),130 min,Action -  Adventure -  Comedy,7.9,"$180,000,000","315,058,289",773136,74
+45.,Doctor Strange,(2016),115 min,Action -  Adventure -  Fantasy,7.5,"$165,000,000","232,641,920",763132,72
+46.,Aliens,(1986),137 min,Action -  Adventure -  Sci-Fi,8.4,"$18,500,000","85,160,248",730952,84
+47.,Star Wars: Episode II - Attack of the Clones,(2002),142 min,Action -  Adventure -  Fantasy,6.6,"$115,000,000","310,675,583",727592,54
+48.,X-Men: Days of Future Past,(2014),132 min,Action -  Adventure -  Sci-Fi,7.9,"$200,000,000","233,921,534",723871,75
+49.,Arrival,(II) (2016),116 min,Drama -  Mystery -  Sci-Fi,7.9,"$47,000,000","100,546,139",716531,81
+50.,Batman v Superman: Dawn of Justice,(2016),151 min,Action -  Adventure -  Sci-Fi,6.4,"$250,000,000","330,360,194",711029,44
+51.,Guardians of the Galaxy Vol. 2,(2017),136 min,Action -  Adventure -  Comedy,7.6,"$200,000,000","389,813,101",705444,67
+52.,X-Men: First Class,(2011),131 min,Action -  Sci-Fi,7.7,"$160,000,000","146,408,305",703710,65
+53.,Suicide Squad,(2016),123 min,Action -  Adventure -  Fantasy,5.9,"$175,000,000","325,100,054",697995,40
+54.,Edge of Tomorrow,(2014),113 min,Action -  Adventure -  Sci-Fi,7.9,"$178,000,000","100,206,256",697422,71
+55.,District 9,(2009),112 min,Action -  Sci-Fi -  Thriller,7.9,"$30,000,000","115,646,235",693768,81
+56.,Ant-Man,(2015),117 min,Action -  Comedy -  Sci-Fi,7.3,"$130,000,000","180,202,163",690376,64
+57.,World War Z,(2013),116 min,Action -  Adventure -  Horror,7.0,"$190,000,000","202,359,711",685901,63
+58.,2001: A Space Odyssey,(1968),149 min,Adventure -  Sci-Fi,8.3,"$12,000,000","56,954,992",683585,84
+59.,The Hunger Games: Catching Fire,(2013),146 min,Action -  Adventure -  Sci-Fi,7.5,"$130,000,000","424,668,047",682134,76
+60.,Spider-Man: Homecoming,(2017),133 min,Action -  Adventure -  Sci-Fi,7.4,"$175,000,000","334,201,140",677302,73
+61.,Wonder Woman,(2017),141 min,Action -  Adventure -  Fantasy,7.4,"$149,000,000","412,563,408",672879,76
+62.,The Amazing Spider-Man,(2012),136 min,Action -  Adventure -  Sci-Fi,6.9,"$230,000,000","262,030,663",670681,66
+63.,Dune,(2021),155 min,Action -  Adventure -  Drama,8.0,"$165,000,000","108,327,830",670568,74
+64.,Spider-Man 2,(2004),127 min,Action -  Adventure -  Sci-Fi,7.4,"$200,000,000","373,585,825",670379,83
+65.,Rogue One: A Star Wars Story,(2016),133 min,Action -  Adventure -  Sci-Fi,7.8,"$200,000,000","532,177,324",655984,65
+66.,Jurassic World,(2015),124 min,Action -  Adventure -  Sci-Fi,6.9,"$150,000,000","652,270,625",655674,59
+67.,Transformers,(2007),144 min,Action -  Adventure -  Sci-Fi,7.0,"$150,000,000","319,246,193",650143,61
+68.,Star Wars: Episode VIII - The Last Jedi,(2017),152 min,Action -  Adventure -  Fantasy,6.9,"$317,000,000","620,181,382",646318,84
+69.,Her,(2013),126 min,Drama -  Romance -  Sci-Fi,8.0,"$23,000,000","25,568,251",633935,91
+70.,12 Monkeys,(1995),129 min,Mystery -  Sci-Fi -  Thriller,8.0,"$29,000,000","57,141,459",628425,74
+71.,X-Men,(2000),104 min,Action -  Adventure -  Sci-Fi,7.3,"$75,000,000","157,299,717",626371,64
+72.,Prometheus,(I) (2012),124 min,Adventure -  Mystery -  Sci-Fi,7.0,"$130,000,000","126,477,084",620687,64
+73.,Star Trek,(2009),127 min,Action -  Adventure -  Sci-Fi,7.9,"$150,000,000","257,730,019",609712,82
+74.,The Matrix Reloaded,(2003),138 min,Action -  Sci-Fi,7.2,"$150,000,000","281,492,479",607439,62
+75.,Spider-Man 3,(2007),139 min,Action -  Adventure -  Sci-Fi,6.3,"$258,000,000","336,530,303",606013,59
+76.,Deadpool 2,(2018),119 min,Action -  Adventure -  Comedy,7.6,"$110,000,000","324,591,735",602785,66
+77.,Blade Runner 2049,(2017),164 min,Action -  Drama -  Mystery,8.0,"$150,000,000","92,054,159",600664,81
+78.,Limitless,(I) (2011),105 min,Sci-Fi -  Thriller,7.4,"$27,000,000","79,249,455",587799,59
+79.,Looper,(2012),119 min,Action -  Drama -  Sci-Fi,7.4,"$30,000,000","66,486,205",586148,84
+80.,Independence Day,(1996),145 min,Action -  Adventure -  Sci-Fi,7.0,"$75,000,000","306,169,255",585527,59
+81.,Men in Black,(1997),98 min,Action -  Adventure -  Comedy,7.3,"$90,000,000","250,690,539",582927,71
+82.,Captain Marvel,(2019),123 min,Action -  Adventure -  Sci-Fi,6.8,"$160,000,000","426,829,839",577169,64
+83.,Minority Report,(2002),145 min,Action -  Crime -  Mystery,7.6,"$102,000,000","132,072,926",564202,80
+84.,Watchmen,(2009),162 min,Action -  Drama -  Mystery,7.6,"$130,000,000","107,509,799",561953,56
+85.,Ex Machina,(2014),108 min,Drama -  Sci-Fi -  Thriller,7.7,"$15,000,000","25,442,958",560272,78
+86.,X2: X-Men United,(2003),134 min,Action -  Sci-Fi -  Thriller,7.4,"$110,000,000","214,949,694",559955,68
+87.,Despicable Me,(2010),95 min,Animation -  Adventure -  Comedy,7.6,"$69,000,000","251,513,985",559682,72
+88.,Spider-Man: Into the Spider-Verse,(2018),117 min,Animation -  Action -  Adventure,8.4,"$90,000,000","190,241,310",559539,87
+89.,Don't Look Up,(2021),138 min,Comedy -  Drama -  Sci-Fi,7.2,"$75,000,000",,555962,49
+90.,"I, Robot",(2004),115 min,Action -  Mystery -  Sci-Fi,7.1,"$120,000,000","144,801,023",553537,59
+91.,A Quiet Place,(2018),90 min,Drama -  Horror -  Sci-Fi,7.5,"$17,000,000","188,024,361",547447,82
+92.,Back to the Future Part II,(1989),108 min,Adventure -  Comedy -  Sci-Fi,7.8,"$40,000,000","118,500,000",546682,57
+93.,Rise of the Planet of the Apes,(2011),105 min,Action -  Drama -  Sci-Fi,7.6,"$93,000,000","176,760,185",539343,68
+94.,Oblivion,(I) (2013),124 min,Action -  Adventure -  Sci-Fi,7.0,"$120,000,000","89,021,735",536619,54
+95.,Source Code,(2011),93 min,Action -  Drama -  Mystery,7.5,"$32,000,000","54,712,227",530170,74
+96.,Tenet,(2020),150 min,Action -  Sci-Fi -  Thriller,7.3,"$205,000,000","58,456,624",528053,69
+97.,X-Men: The Last Stand,(2006),104 min,Action -  Adventure -  Sci-Fi,6.6,"$210,000,000","234,362,462",526043,58
+98.,The Matrix Revolutions,(2003),129 min,Action -  Sci-Fi,6.7,"$150,000,000","139,313,948",524538,47
+99.,X-Men Origins: Wolverine,(2009),107 min,Action -  Sci-Fi,6.5,"$150,000,000","179,883,157",514645,40
+100.,Spider-Man: Far from Home,(2019),129 min,Action -  Adventure -  Comedy,7.4,"$160,000,000","390,532,085",513254,69
+101.,Pacific Rim,(2013),131 min,Action -  Adventure -  Sci-Fi,6.9,"$190,000,000","101,802,906",512159,65
+102.,The Amazing Spider-Man 2,(2014),142 min,Action -  Adventure -  Sci-Fi,6.6,"$200,000,000","202,853,933",511294,53
+103.,Children of Men,(2006),109 min,Action -  Drama -  Sci-Fi,7.9,"$76,000,000","35,552,383",510688,84
+104.,Lucy,(I) (2014),89 min,Action -  Sci-Fi -  Thriller,6.4,"$40,000,000","126,663,600",510576,61
+105.,The Incredible Hulk,(2008),112 min,Action -  Adventure -  Sci-Fi,6.6,"$150,000,000","134,518,390",504011,61
+106.,Venom,(2018),112 min,Action -  Adventure -  Sci-Fi,6.6,"$100,000,000","213,515,506",503174,35
+107.,The Butterfly Effect,(2004),113 min,Drama -  Sci-Fi -  Thriller,7.6,"$13,000,000","57,938,693",500534,30
+108.,Aquaman,(2018),143 min,Action -  Adventure -  Fantasy,6.8,"$160,000,000","335,061,807",489594,55
+109.,Star Trek Into Darkness,(2013),132 min,Action -  Adventure -  Sci-Fi,7.7,"$190,000,000","228,778,661",488801,72
+110.,The Fifth Element,(1997),126 min,Action -  Adventure -  Sci-Fi,7.6,"$93,000,000","63,540,020",484890,52
+111.,The Maze Runner,(2014),113 min,Action -  Mystery -  Sci-Fi,6.8,"$34,000,000","102,427,862",482326,57
+112.,The Wolverine,(2013),126 min,Action -  Sci-Fi,6.7,"$120,000,000","132,556,852",476721,61
+113.,Big Hero 6,(2014),102 min,Animation -  Action -  Adventure,7.8,"$165,000,000","222,527,828",475066,74
+114.,Divergent,(2014),139 min,Action -  Adventure -  Mystery,6.6,"$85,000,000","150,947,895",470786,48
+115.,The Hunger Games: Mockingjay - Part 1,(2014),123 min,Action -  Adventure -  Sci-Fi,6.6,"$125,000,000","337,135,885",470405,64
+116.,Star Wars: Episode IX - The Rise of Skywalker,(2019),141 min,Action -  Adventure -  Fantasy,6.5,"$275,000,000","515,202,542",466005,53
+117.,Justice League,(2017),120 min,Action -  Adventure -  Fantasy,6.1,"$300,000,000","229,024,295",462171,45
+118.,Back to the Future Part III,(1990),118 min,Adventure -  Comedy -  Sci-Fi,7.4,"$40,000,000","87,727,583",459421,55
+119.,The Day After Tomorrow,(2004),124 min,Action -  Adventure -  Sci-Fi,6.4,"$125,000,000","186,740,799",459104,47
+120.,War of the Worlds,(2005),116 min,Action -  Adventure -  Sci-Fi,6.5,"$132,000,000","234,280,354",458824,73
+121.,Elysium,(I) (2013),109 min,Action -  Drama -  Sci-Fi,6.6,"$115,000,000","93,050,117",456705,61
+122.,Ready Player One,(2018),140 min,Action -  Adventure -  Sci-Fi,7.4,"$175,000,000","137,690,172",452393,64
+123.,Dawn of the Planet of the Apes,(2014),130 min,Action -  Adventure -  Drama,7.6,"$170,000,000","208,545,589",450873,79
+124.,X-Men: Apocalypse,(2016),144 min,Action -  Adventure -  Sci-Fi,6.9,"$178,000,000","155,442,489",444929,52
+125.,Everything Everywhere All at Once,(2022),139 min,Action -  Adventure -  Comedy,7.9,"$14,300,000","72,861,480",440715,81
+126.,The Thing,(1982),109 min,Horror -  Mystery -  Sci-Fi,8.2,"$15,000,000","13,782,838",437267,57
+127.,Doctor Strange in the Multiverse of Madness,(2022),126 min,Action -  Adventure -  Fantasy,6.9,"$200,000,000","411,331,607",436443,60
+128.,Armageddon,(1998),151 min,Action -  Adventure -  Sci-Fi,6.7,"$140,000,000","201,573,391",435515,42
+129.,Wreck-It Ralph,(2012),101 min,Animation -  Adventure -  Comedy,7.7,"$165,000,000","189,422,889",435426,72
+130.,Predator,(1987),107 min,Action -  Adventure -  Horror,7.8,"$15,000,000","59,735,548",433416,47
+131.,The Lost World: Jurassic Park,(1997),129 min,Action -  Adventure -  Sci-Fi,6.5,"$73,000,000","229,086,679",427912,59
+132.,Unbreakable,(2000),106 min,Drama -  Mystery -  Sci-Fi,7.3,"$75,000,000","95,011,339",426845,62
+133.,Ghostbusters,(1984),105 min,Action -  Comedy -  Fantasy,7.8,"$30,000,000","238,632,124",424803,71
+134.,28 Days Later,(2002),113 min,Drama -  Horror -  Sci-Fi,7.5,"$8,000,000","45,064,915",424201,73
+135.,Ant-Man and the Wasp,(2018),118 min,Action -  Adventure -  Comedy,7.0,"$162,000,000","216,648,740",422563,70
+136.,Godzilla,(2014),123 min,Action -  Adventure -  Sci-Fi,6.4,"$160,000,000","200,676,069",422176,62
+137.,In Time,(2011),109 min,Action -  Sci-Fi -  Thriller,6.7,"$40,000,000","37,520,095",421999,53
+138.,Passengers,(I) (2016),116 min,Drama -  Romance -  Sci-Fi,7.0,"$110,000,000","100,014,699",420187,41
+139.,E.T. the Extra-Terrestrial,(1982),115 min,Adventure -  Family -  Sci-Fi,7.9,"$10,500,000","435,110,554",419915,91
+140.,Transformers: Dark of the Moon,(2011),154 min,Action -  Adventure -  Sci-Fi,6.2,"$195,000,000","352,390,543",417128,42
+141.,Transformers: Revenge of the Fallen,(2009),149 min,Action -  Adventure -  Sci-Fi,5.9,"$200,000,000","402,111,870",414007,35
+142.,Zack Snyder's Justice League,(2021),242 min,Action -  Adventure -  Fantasy,8.0,"$300,000,000",,411244,54
+143.,Despicable Me 2,(2013),98 min,Animation -  Adventure -  Comedy,7.3,"$76,000,000","368,061,265",409544,62
+144.,Cloverfield,(2008),85 min,Action -  Adventure -  Horror,7.0,"$25,000,000","80,048,433",407933,64
+145.,Terminator 3: Rise of the Machines,(2003),109 min,Action -  Sci-Fi,6.3,"$200,000,000","150,371,112",407125,66
+146.,Shang-Chi and the Legend of the Ten Rings,(2021),132 min,Action -  Adventure -  Fantasy,7.4,"$200,000,000","224,543,292",399971,71
+147.,Black Widow,(2021),134 min,Action -  Adventure -  Sci-Fi,6.7,"$200,000,000","183,651,655",394953,68
+148.,Free Guy,(2021),115 min,Action -  Adventure -  Comedy,7.1,"$120,000,000","121,626,598",388639,62
+149.,Face/Off,(1997),138 min,Action -  Crime -  Sci-Fi,7.3,"$80,000,000","112,225,777",386543,82
+150.,Men in Black II,(2002),88 min,Action -  Adventure -  Comedy,6.2,"$140,000,000","190,418,803",385737,49
+151.,2012,(I) (2009),158 min,Action -  Adventure -  Sci-Fi,5.8,"$200,000,000","166,112,167",385550,49
+152.,Avatar: The Way of Water,(2022),192 min,Action -  Adventure -  Fantasy,7.7,"$350,000,000","659,682,302",374954,67
+153.,Signs,(2002),106 min,Drama -  Mystery -  Sci-Fi,6.8,"$72,000,000","227,966,634",372272,59
+154.,Men in Black 3,(2012),106 min,Action -  Adventure -  Comedy,6.8,"$225,000,000","179,020,854",372140,58
+155.,Snowpiercer,(2013),126 min,Action -  Drama -  Sci-Fi,7.1,"$39,200,000","4,563,650",370905,84
+156.,The Suicide Squad,(2021),132 min,Action -  Adventure -  Comedy,7.2,"$185,000,000","55,817,425",369606,72
+157.,Terminator Salvation,(2009),115 min,Action -  Adventure -  Sci-Fi,6.5,"$200,000,000","125,322,469",368479,49
+158.,The Lego Movie,(2014),100 min,Animation -  Action -  Adventure,7.7,"$60,000,000","257,760,692",367589,83
+159.,Cloud Atlas,(2012),172 min,Drama -  Mystery -  Sci-Fi,7.4,"$102,000,000","27,108,272",367058,55
+160.,Moon,(2009),97 min,Drama -  Mystery -  Sci-Fi,7.8,"$5,000,000","5,009,677",366066,67
+161.,About Time,(I) (2013),123 min,Comedy -  Drama -  Fantasy,7.8,"$12,000,000","15,322,921",363384,55
+162.,Thor: Love and Thunder,(2022),118 min,Action -  Adventure -  Comedy,6.2,"$250,000,000","343,256,830",360338,57
+163.,Super 8,(2011),112 min,Action -  Mystery -  Sci-Fi,7.0,"$50,000,000","127,004,179",360299,72
+164.,Solo: A Star Wars Story,(2018),135 min,Action -  Adventure -  Sci-Fi,6.9,"$275,000,000","213,767,512",359479,62
+165.,Bird Box,(2018),124 min,Horror -  Mystery -  Sci-Fi,6.6,,,357339,51
+166.,Eternals,(2021),156 min,Action -  Adventure -  Fantasy,6.3,"$200,000,000","164,870,234",357144,52
+167.,TRON: Legacy,(2010),125 min,Action -  Adventure -  Sci-Fi,6.8,"$170,000,000","172,062,763",344822,49
+168.,The Hunger Games: Mockingjay - Part 2,(2015),137 min,Action -  Adventure -  Sci-Fi,6.5,"$160,000,000","281,723,902",341855,65
+169.,Total Recall,(1990),113 min,Action -  Adventure -  Sci-Fi,7.5,"$65,000,000","119,394,840",339951,60
+170.,Real Steel,(2011),127 min,Action -  Drama -  Sci-Fi,7.0,"$110,000,000","85,468,508",339515,56
+171.,10 Cloverfield Lane,(2016),103 min,Drama -  Horror -  Mystery,7.2,"$15,000,000","72,082,998",338908,76
+172.,Annihilation,(I) (2018),115 min,Adventure -  Drama -  Horror,6.8,"$40,000,000","32,732,301",338154,79
+173.,Equilibrium,(2002),107 min,Action -  Drama -  Sci-Fi,7.3,"$20,000,000","1,203,974",337837,33
+174.,Hellboy,(2004),122 min,Action -  Adventure -  Fantasy,6.8,"$66,000,000","59,623,958",337786,72
+175.,Fantastic Four,(I) (2005),106 min,Action -  Adventure -  Fantasy,5.7,"$100,000,000","154,696,080",335475,40
+176.,Jurassic Park III,(2001),92 min,Action -  Adventure -  Sci-Fi,5.9,"$93,000,000","181,171,875",329787,42
+177.,Kong: Skull Island,(2017),118 min,Action -  Adventure -  Fantasy,6.6,"$185,000,000","168,052,812",329035,62
+178.,Jurassic World: Fallen Kingdom,(2018),128 min,Action -  Adventure -  Sci-Fi,6.1,"$170,000,000","417,719,760",326431,51
+179.,The Mist,(2007),126 min,Horror -  Sci-Fi -  Thriller,7.1,"$18,000,000","25,594,957",321713,58
+180.,The Island,(2005),136 min,Action -  Sci-Fi -  Thriller,6.8,"$126,000,000","35,818,913",320738,50
+181.,Transformers: Age of Extinction,(2014),165 min,Action -  Adventure -  Sci-Fi,5.6,"$210,000,000","245,439,076",320242,32
+182.,Deja Vu,(2006),126 min,Action -  Crime -  Sci-Fi,7.1,"$75,000,000","64,038,616",317302,59
+183.,A.I. Artificial Intelligence,(2001),146 min,Drama -  Sci-Fi,7.2,"$100,000,000","78,616,689",314278,65
+184.,Jumper,(2008),88 min,Action -  Adventure -  Sci-Fi,6.1,"$85,000,000","80,172,128",313187,35
+185.,Gattaca,(1997),106 min,Drama -  Sci-Fi -  Thriller,7.8,"$36,000,000","12,339,633",311592,64
+186.,Incredibles 2,(2018),118 min,Animation -  Action -  Adventure,7.6,"$200,000,000","608,581,744",308243,80
+187.,Alien³,(1992),114 min,Action -  Horror -  Sci-Fi,6.4,"$50,000,000","55,473,600",307079,59
+188.,Starship Troopers,(1997),129 min,Action -  Adventure -  Sci-Fi,7.3,"$105,000,000","54,814,377",304038,52
+189.,Serenity,(2005),119 min,Action -  Adventure -  Sci-Fi,7.8,"$39,000,000","25,514,517",299932,74
+190.,Predestination,(I) (2014),97 min,Action -  Drama -  Sci-Fi,7.4,"$5,100,000","68,372",290536,69
+191.,Green Lantern,(2011),114 min,Action -  Adventure -  Sci-Fi,5.5,"$200,000,000","116,601,172",289581,39
+192.,Alien: Covenant,(2017),122 min,Horror -  Sci-Fi -  Thriller,6.4,"$97,000,000","74,262,031",289043,65
+193.,The World's End,(2013),109 min,Action -  Comedy -  Sci-Fi,6.9,"$20,000,000","26,004,851",288389,81
+194.,Superman Returns,(2006),154 min,Action -  Adventure -  Sci-Fi,6.1,"$270,000,000","200,081,192",286925,72
+195.,Terminator Genisys,(2015),126 min,Action -  Adventure -  Sci-Fi,6.3,"$155,000,000","89,760,956",283932,38
+196.,Blade,(1998),120 min,Action -  Horror -  Sci-Fi,7.1,"$45,000,000","70,087,718",283679,47
+197.,28 Weeks Later,(2007),100 min,Action -  Adventure -  Horror,6.9,"$15,000,000","28,638,916",282999,78
+198.,Contact,(1997),150 min,Drama -  Mystery -  Sci-Fi,7.5,"$90,000,000","100,920,329",281989,62
+199.,Dredd,(2012),95 min,Action -  Crime -  Sci-Fi,7.1,"$50,000,000","13,414,714",281977,60
+200.,John Carter,(2012),132 min,Action -  Adventure -  Sci-Fi,6.6,"$250,000,000","73,078,100",278398,51
+201.,Resident Evil,(2002),100 min,Action -  Horror -  Sci-Fi,6.6,"$33,000,000","40,119,709",278063,33
+202.,Alita: Battle Angel,(2019),122 min,Action -  Adventure -  Sci-Fi,7.3,"$170,000,000","85,710,210",278000,53
+203.,Hellboy II: The Golden Army,(2008),120 min,Action -  Adventure -  Fantasy,7.0,"$85,000,000","75,754,670",277898,78
+204.,Vanilla Sky,(2001),136 min,Fantasy -  Mystery -  Romance,6.9,"$68,000,000","100,614,858",275405,45
+205.,Megamind,(2010),95 min,Animation -  Action -  Comedy,7.3,"$130,000,000","148,415,853",274949,63
+206.,Hulk,(2003),138 min,Action -  Sci-Fi,5.6,"$137,000,000","132,177,234",272391,54
+207.,Fantastic Four: Rise of the Silver Surfer,(2007),92 min,Action -  Adventure -  Fantasy,5.6,"$130,000,000","131,921,738",270714,45
+208.,The Lobster,(2015),119 min,Drama -  Romance -  Sci-Fi,7.1,"€4,000,000","8,699,235",268623,82
+209.,RoboCop,(1987),102 min,Action -  Crime -  Sci-Fi,7.6,"$13,000,000","53,424,681",266772,70
+210.,War for the Planet of the Apes,(2017),140 min,Action -  Adventure -  Drama,7.4,"$150,000,000","146,880,162",265859,82
+211.,Black Panther: Wakanda Forever,(2022),161 min,Action -  Adventure -  Drama,6.7,"$250,000,000","453,721,831",263774,67
+212.,The Adjustment Bureau,(2011),106 min,Romance -  Sci-Fi -  Thriller,7.0,"$50,200,000","62,495,645",262266,60
+213.,Maze Runner: The Scorch Trials,(2015),131 min,Action -  Adventure -  Sci-Fi,6.3,"$61,000,000","81,697,192",260102,43
+214.,The Matrix Resurrections,(I) (2021),148 min,Action -  Sci-Fi,5.7,"$190,000,000",,260090,63
+215.,Total Recall,(I) (2012),118 min,Action -  Adventure -  Sci-Fi,6.2,"$125,000,000","58,877,969",259424,43
+216.,Batman & Robin,(1997),125 min,Action -  Sci-Fi,3.7,"$125,000,000","107,325,195",259108,28
+217.,Chappie,(2015),120 min,Action -  Crime -  Drama,6.8,"$49,000,000","31,569,268",258883,41
+218.,Paul,(2011),104 min,Adventure -  Comedy -  Sci-Fi,6.9,"$40,000,000","37,412,945",258565,57
+219.,Sunshine,(2007),107 min,Sci-Fi -  Thriller,7.2,"£26,000,000","3,675,753",256514,64
+220.,Chronicle,(2012),84 min,Action -  Drama -  Sci-Fi,7.0,"$12,000,000","64,575,175",256367,69
+221.,Alien: Resurrection,(1997),109 min,Action -  Horror -  Sci-Fi,6.2,"$75,000,000","47,748,610",253721,63
+222.,Glass,(2019),129 min,Drama -  Horror -  Sci-Fi,6.6,"$20,000,000","111,048,468",252604,43
+223.,Battleship,(2012),131 min,Action -  Adventure -  Sci-Fi,5.8,"$209,000,000","65,422,625",251895,41
+224.,Star Trek Beyond,(2016),122 min,Action -  Adventure -  Sci-Fi,7.0,"$185,000,000","158,848,340",251320,68
+225.,Pitch Black,(2000),109 min,Action -  Horror -  Sci-Fi,7.1,"$23,000,000","39,240,659",246446,49
+226.,Minions,(2015),91 min,Animation -  Adventure -  Comedy,6.4,"$74,000,000","336,045,770",246424,56
+227.,Ender's Game,(2013),114 min,Action -  Adventure -  Sci-Fi,6.6,"$110,000,000","61,737,191",246096,51
+228.,A Quiet Place Part II,(2020),97 min,Drama -  Horror -  Sci-Fi,7.2,"$55,000,000","160,072,261",246072,71
+229.,Ad Astra,(2019),123 min,Adventure -  Drama -  Mystery,6.5,"$90,000,000","50,188,370",245379,80
+230.,The Divergent Series: Insurgent,(2015),119 min,Action -  Adventure -  Sci-Fi,6.2,"$110,000,000","130,179,072",244772,42
+231.,Black Adam,(2022),125 min,Action -  Adventure -  Fantasy,6.3,"$195,000,000","168,152,111",243880,41
+232.,The Fountain,(2006),97 min,Drama -  Mystery -  Romance,7.2,"$35,000,000","10,144,010",243449,51
+233.,The Platform,(2019),94 min,Horror -  Sci-Fi -  Thriller,7.0,,,243227,73
+234.,Cloudy with a Chance of Meatballs,(2009),90 min,Animation -  Adventure -  Comedy,6.9,"$100,000,000","124,870,275",242963,66
+235.,I Am Number Four,(2011),111 min,Action -  Adventure -  Sci-Fi,6.1,"$60,000,000","55,100,437",241562,36
+236.,Knowing,(2009),121 min,Action -  Mystery -  Sci-Fi,6.2,"$50,000,000","79,957,634",239832,41
+237.,Life,(I) (2017),104 min,Horror -  Sci-Fi -  Thriller,6.6,"$58,000,000","30,234,022",239057,54
+238.,Mr. Nobody,(2009),141 min,Drama -  Fantasy -  Romance,7.7,"$47,000,000","3,600",238546,63
+239.,Cube,(1997),90 min,Drama -  Horror -  Mystery,7.2,"CA$365,000","501,818",237977,61
+240.,The Invisible Man,(I) (2020),124 min,Drama -  Horror -  Mystery,7.1,"$7,000,000","70,410,000",236888,72
+241.,Ghostbusters,(2016),117 min,Action -  Comedy -  Fantasy,6.8,"$144,000,000","128,344,089",236558,60
+242.,Predators,(2010),107 min,Action -  Adventure -  Fantasy,6.4,"$40,000,000","52,000,688",236462,51
+243.,Venom: Let There Be Carnage,(2021),97 min,Action -  Sci-Fi -  Thriller,5.9,"$110,000,000","213,550,366",235819,49
+244.,The Chronicles of Riddick,(2004),119 min,Action -  Adventure -  Sci-Fi,6.6,"$105,000,000","57,761,012",235219,38
+245.,Mars Attacks!,(1996),106 min,Comedy -  Sci-Fi,6.4,"$70,000,000","37,771,017",233944,52
+246.,RoboCop,(2014),117 min,Action -  Crime -  Sci-Fi,6.1,"$100,000,000","58,607,007",233139,52
+247.,Transcendence,(I) (2014),119 min,Action -  Drama -  Sci-Fi,6.2,"$100,000,000","23,022,309",233053,42
+248.,The Purge,(I) (2013),85 min,Horror -  Sci-Fi -  Thriller,5.7,"$3,000,000","64,473,115",230084,41
+249.,Cowboys & Aliens,(2011),119 min,Action -  Drama -  Sci-Fi,6.0,"$163,000,000","100,240,551",225737,50
+250.,Nope,(2022),130 min,Horror -  Mystery -  Sci-Fi,6.8,"$68,000,000","123,277,080",225654,77
+251.,Blade II,(2002),117 min,Action -  Horror -  Sci-Fi,6.7,"$54,000,000","82,348,319",225096,52
+252.,Planet of the Apes,(2001),119 min,Action -  Adventure -  Sci-Fi,5.7,"$100,000,000","180,011,740",223348,50
+253.,Ghost in the Shell,(2017),107 min,Action -  Crime -  Drama,6.3,"$110,000,000","40,563,557",220201,52
+254.,Godzilla vs. Kong,(2021),113 min,Action -  Sci-Fi -  Thriller,6.3,"$200,000,000","100,916,094",218856,59
+255.,Bolt,(2008),96 min,Animation -  Adventure -  Comedy,6.8,"$150,000,000","114,053,579",218296,67
+256.,Planet Terror,(2007),105 min,Action -  Comedy -  Horror,7.1,,,216384,
+257.,Teenage Mutant Ninja Turtles,(2014),101 min,Action -  Adventure -  Comedy,5.8,"$125,000,000","191,204,754",214296,31
+258.,The Tomorrow War,(2021),138 min,Action -  Adventure -  Drama,6.5,"$200,000,000",,213326,45
+259.,Death Race,(2008),105 min,Action -  Sci-Fi -  Thriller,6.4,"$45,000,000","36,316,032",213228,43
+260.,Ghostbusters II,(1989),108 min,Action -  Comedy -  Fantasy,6.6,"$25,000,000","112,494,738",213157,56
+261.,Mad Max,(1979),88 min,Action -  Adventure -  Sci-Fi,6.8,"$300,000","8,750,000",212868,73
+262.,The Adam Project,(2022),106 min,Action -  Adventure -  Comedy,6.7,"$116,000,000",,212743,55
+263.,G.I. Joe: The Rise of Cobra,(2009),118 min,Action -  Adventure -  Sci-Fi,5.7,"$175,000,000","152,267,519",211637,32
+264.,The Happening,(2008),91 min,Adventure -  Drama -  Sci-Fi,5.0,"$48,000,000","64,506,874",211484,34
+265.,The Iron Giant,(1999),86 min,Animation -  Action -  Adventure,8.1,"$70,000,000","23,159,305",208006,85
+266.,Close Encounters of the Third Kind,(1977),138 min,Drama -  Sci-Fi,7.6,"$20,000,000","132,088,635",207914,90
+267.,Prey,(I) (2022),100 min,Action -  Adventure -  Drama,7.1,"$65,000,000",,205834,71
+268.,Alien vs. Predator,(2004),101 min,Action -  Adventure -  Horror,5.6,"$60,000,000","80,282,231",205274,29
+269.,Brazil,(1985),132 min,Drama -  Sci-Fi,7.9,"$15,000,000","9,929,135",204761,84
+270.,After Earth,(2013),100 min,Action -  Adventure -  Sci-Fi,4.8,"$130,000,000","60,522,097",204734,33
+271.,Dark City,(1998),100 min,Fantasy -  Mystery -  Sci-Fi,7.6,"$27,000,000","14,378,331",204594,66
+272.,Resident Evil: Apocalypse,(2004),94 min,Action -  Horror -  Sci-Fi,6.1,"$45,000,000","51,201,453",204120,35
+273.,Space Jam,(1996),88 min,Animation -  Adventure -  Comedy,6.5,"$80,000,000","90,463,534",203626,59
+274.,Assassin's Creed,(2016),115 min,Action -  Adventure -  Sci-Fi,5.6,"$125,000,000","54,647,948",202817,36
+275.,The Hitchhiker's Guide to the Galaxy,(2005),109 min,Adventure -  Comedy -  Sci-Fi,6.7,"$50,000,000","51,085,416",202523,63
+276.,Waterworld,(1995),177 min,Action -  Adventure -  Sci-Fi,6.3,"$175,000,000","88,246,220",201852,56
+277.,Cars 2,(2011),106 min,Animation -  Adventure -  Comedy,6.2,"$200,000,000","191,452,396",200073,57
+278.,Resident Evil: Extinction,(2007),94 min,Action -  Horror -  Sci-Fi,6.2,"$45,000,000","50,648,679",199925,41
+279.,Lilo & Stitch,(2002),85 min,Animation -  Adventure -  Comedy,7.3,"$80,000,000","145,794,338",198946,73
+280.,Godzilla,(I) (1998),139 min,Action -  Sci-Fi -  Thriller,5.4,"$130,000,000","136,314,294",197175,32
+281.,Spaceballs,(1987),96 min,Adventure -  Comedy -  Sci-Fi,7.1,"$22,700,000","38,119,483",196946,46
+282.,Stargate,(1994),116 min,Action -  Adventure -  Sci-Fi,7.0,"$55,000,000","71,565,669",196647,42
+283.,X-Men: Dark Phoenix,(2019),113 min,Action -  Adventure -  Sci-Fi,5.7,"$200,000,000","65,845,974",193864,43
+284.,Akira,(1988),124 min,Animation -  Action -  Drama,8.0,"¥1,100,000,000","553,171",192969,67
+285.,PK,(2014),153 min,Comedy -  Drama -  Sci-Fi,8.1,,"10,616,104",192713,
+286.,Upgrade,(2018),100 min,Action -  Sci-Fi -  Thriller,7.5,"$5,000,000","11,977,130",192385,67
+287.,The Man from Earth,(2007),87 min,Drama -  Fantasy -  Mystery,7.9,"$200,000",,192219,
+288.,Ghostbusters: Afterlife,(2021),124 min,Adventure -  Comedy -  Fantasy,7.1,"$75,000,000","129,360,575",191428,45
+289.,Jupiter Ascending,(2015),127 min,Action -  Adventure -  Sci-Fi,5.3,"$176,000,000","47,387,723",191117,40
+290.,The Fly,(1986),96 min,Drama -  Horror -  Sci-Fi,7.6,"$15,000,000","40,456,565",190392,79
+291.,Godzilla: King of the Monsters,(2019),132 min,Action -  Adventure -  Fantasy,6.0,"$170,000,000","110,500,138",189792,48
+292.,K-PAX,(2001),120 min,Drama -  Mystery -  Sci-Fi,7.4,"$68,000,000","50,338,485",187900,49
+293.,Valerian and the City of a Thousand Planets,(2017),136 min,Action -  Adventure -  Fantasy,6.4,"$177,200,000","41,189,488",187779,51
+294.,Melancholia,(2011),135 min,Drama -  Sci-Fi,7.1,"$7,400,000","3,029,870",187749,81
+295.,Event Horizon,(1997),96 min,Horror -  Sci-Fi -  Thriller,6.6,"$60,000,000","26,673,242",187524,35
+296.,Tomorrowland,(2015),130 min,Action -  Adventure -  Family,6.4,"$190,000,000","93,436,322",185947,60
+297.,The Road Warrior,(1981),96 min,Action -  Adventure -  Sci-Fi,7.6,"$3,000,000","12,465,371",185699,77
+298.,Planet of the Apes,(1968),112 min,Adventure -  Sci-Fi,8.0,"$5,800,000","33,395,426",184890,79
+299.,G.I. Joe: Retaliation,(2013),110 min,Action -  Adventure -  Sci-Fi,5.7,"$130,000,000","122,523,060",184136,41
+300.,Terminator: Dark Fate,(2019),128 min,Action -  Adventure -  Sci-Fi,6.2,"$185,000,000","62,253,077",183946,54
+301.,Demolition Man,(1993),115 min,Action -  Sci-Fi -  Thriller,6.7,"$57,000,000","58,055,768",183508,34
+302.,Independence Day: Resurgence,(2016),120 min,Action -  Adventure -  Sci-Fi,5.2,"$165,000,000","103,144,286",183405,32
+303.,The Abyss,(1989),140 min,Adventure -  Drama -  Mystery,7.5,"$70,000,000","54,461,047",183178,62
+304.,Deep Impact,(1998),120 min,Action -  Drama -  Sci-Fi,6.2,"$75,000,000","140,464,664",182941,40
+305.,Pi,(1998),84 min,Drama -  Horror -  Mystery,7.3,"$60,000","3,216,970",182485,72
+306.,Battle Los Angeles,(2011),116 min,Action -  Adventure -  Sci-Fi,5.7,"$70,000,000","83,552,429",182378,37
+307.,Jurassic World: Dominion,(2022),147 min,Action -  Adventure -  Sci-Fi,5.6,"$165,000,000","376,851,080",182337,38
+308.,Blade: Trinity,(2004),113 min,Action -  Horror -  Sci-Fi,5.8,"$65,000,000","52,411,906",182245,38
+309.,Mortal Kombat,(2021),110 min,Action -  Adventure -  Fantasy,6.0,"$55,000,000","42,201,013",180248,44
+310.,Superman,(1978),143 min,Action -  Adventure -  Sci-Fi,7.4,"$55,000,000","134,218,018",180150,82
+311.,Hot Tub Time Machine,(2010),101 min,Comedy -  Sci-Fi,6.4,"$36,000,000","50,287,556",179715,63
+312.,The League of Extraordinary Gentlemen,(2003),110 min,Action -  Adventure -  Fantasy,5.8,"$78,000,000","66,465,204",179404,30
+313.,The Meg,(2018),113 min,Action -  Horror -  Sci-Fi,5.6,"$130,000,000","143,005,856",178420,46
+314.,Metropolis,(1927),153 min,Drama -  Sci-Fi,8.3,"DEM 6,000,000","1,236,166",177899,98
+315.,Army of the Dead,(2021),148 min,Action -  Crime -  Drama,5.7,"$70,000,000","1,000,000",177863,57
+316.,Surrogates,(2009),89 min,Action -  Sci-Fi -  Thriller,6.3,"$80,000,000","38,577,772",177538,45
+317.,Isle of Dogs,(2018),101 min,Animation -  Adventure -  Comedy,7.8,,"32,015,231",176682,82
+318.,Resident Evil: Afterlife,(2010),96 min,Action -  Horror -  Sci-Fi,5.8,"$60,000,000","60,128,566",174936,37
+319.,Rampage,(2018),107 min,Action -  Adventure -  Sci-Fi,6.1,"$120,000,000","101,028,233",174833,45
+320.,Predator 2,(1990),108 min,Action -  Horror -  Sci-Fi,6.3,"$35,000,000","30,669,413",174140,46
+321.,The Day the Earth Stood Still,(2008),104 min,Adventure -  Drama -  Sci-Fi,5.5,"$80,000,000","79,366,978",173805,40
+322.,Nausicaä of the Valley of the Wind,(1984),117 min,Animation -  Adventure -  Sci-Fi,8.0,"$1,000,000","495,770",173631,86
+323.,Bumblebee,(I) (2018),114 min,Action -  Adventure -  Sci-Fi,6.7,"$135,000,000","127,195,589",172988,66
+324.,Riddick,(2013),119 min,Action -  Adventure -  Sci-Fi,6.4,"$38,000,000","42,025,135",172417,49
+325.,Fantastic Four,(2015),100 min,Action -  Adventure -  Sci-Fi,4.3,"$120,000,000","56,117,548",171097,27
+326.,Pokémon: Detective Pikachu,(2019),104 min,Action -  Adventure -  Comedy,6.5,"$150,000,000","144,105,346",170906,53
+327.,Idiocracy,(2006),84 min,Adventure -  Comedy -  Sci-Fi,6.5,"$2,400,000","438,653",169983,66
+328.,Ralph Breaks the Internet,(2018),112 min,Animation -  Adventure -  Comedy,7.0,"$175,000,000","201,091,711",169096,71
+329.,Galaxy Quest,(1999),102 min,Adventure -  Comedy -  Sci-Fi,7.4,"$45,000,000","71,583,916",169062,70
+330.,Monsters vs. Aliens,(2009),94 min,Animation -  Action -  Adventure,6.4,"$175,000,000","198,351,526",168535,56
+331.,Dune,(1984),137 min,Action -  Adventure -  Sci-Fi,6.3,"$40,000,000","30,925,690",165403,41
+332.,Wild Wild West,(1999),106 min,Action -  Comedy -  Sci-Fi,4.9,"$170,000,000","113,805,681",163678,38
+333.,Next,(2007),96 min,Action -  Sci-Fi -  Thriller,6.2,"$70,000,000","18,211,013",162205,42
+334.,"Honey, I Shrunk the Kids",(1989),93 min,Adventure -  Comedy -  Family,6.4,"$18,000,000","130,724,172",159839,63
+335.,The Lego Batman Movie,(2017),104 min,Animation -  Action -  Adventure,7.3,"$80,000,000","175,750,384",158947,75
+336.,The Running Man,(1987),101 min,Action -  Sci-Fi -  Thriller,6.7,"$27,000,000","38,122,105",158609,45
+337.,Underworld: Awakening,(2012),88 min,Action -  Fantasy -  Horror,6.3,"$70,000,000","62,321,039",157573,39
+338.,Transformers: The Last Knight,(2017),154 min,Action -  Adventure -  Sci-Fi,5.2,"$217,000,000","130,168,683",157441,27
+339.,The Purge: Anarchy,(2014),103 min,Action -  Horror -  Sci-Fi,6.4,"$9,000,000","71,962,800",156394,50
+340.,Pandorum,(2009),108 min,Action -  Horror -  Mystery,6.7,"$33,000,000","10,330,853",154603,28
+341.,The Time Traveler's Wife,(2009),107 min,Comedy -  Drama -  Fantasy,7.1,"$39,000,000","63,414,846",153957,47
+342.,Robots,(2005),91 min,Animation -  Adventure -  Comedy,6.4,"$75,000,000","128,200,012",153637,64
+343.,Pixels,(2015),105 min,Action -  Comedy -  Fantasy,5.6,"$88,000,000","78,747,585",150120,27
+344.,Under the Skin,(I) (2013),108 min,Drama -  Horror -  Mystery,6.3,"$13,300,000","2,605,039",148938,80
+345.,Never Let Me Go,(2010),103 min,Drama -  Romance -  Sci-Fi,7.1,"$15,000,000","2,434,652",148847,69
+346.,Maze Runner: The Death Cure,(2018),143 min,Action -  Adventure -  Sci-Fi,6.2,"$62,000,000","58,032,443",148818,50
+347.,Escape from New York,(1981),99 min,Action -  Adventure -  Sci-Fi,7.1,"$6,000,000","25,244,700",148435,76
+348.,Ghost in the Shell,(1995),83 min,Animation -  Action -  Crime,7.9,"¥330,000,000","515,905",147941,76
+349.,Sonic the Hedgehog,(2020),99 min,Action -  Adventure -  Comedy,6.5,"$85,000,000","148,974,665",146815,47
+350.,Resident Evil: Retribution,(2012),95 min,Action -  Horror -  Sci-Fi,5.3,"$65,000,000","42,345,531",145881,39
+351.,9,(I) (2009),79 min,Animation -  Action -  Adventure,7.0,"$30,000,000","31,743,332",143002,60
+352.,"Dude, Where's My Car?",(2000),83 min,Comedy -  Mystery -  Sci-Fi,5.5,"$13,000,000","46,729,800",142544,30
+353.,Despicable Me 3,(2017),89 min,Animation -  Adventure -  Comedy,6.2,"$80,000,000","264,624,300",142208,49
+354.,The Dark Tower,(2017),95 min,Action -  Adventure -  Fantasy,5.6,"$60,000,000","50,701,325",141754,34
+355.,Mad Max Beyond Thunderdome,(1985),107 min,Action -  Adventure -  Sci-Fi,6.2,"$10,000,000","36,200,000",141037,71
+356.,The Curse of the Were-Rabbit,(2005),85 min,Animation -  Adventure -  Comedy,7.5,"$30,000,000","56,110,897",140097,87
+357.,R.I.P.D.,(2013),96 min,Action -  Adventure -  Comedy,5.6,"$130,000,000","33,618,855",139369,25
+358.,Men in Black: International,(2019),114 min,Action -  Adventure -  Comedy,5.6,"$110,000,000","80,001,807",139103,38
+359.,The Thing,(I) (2011),103 min,Horror -  Mystery -  Sci-Fi,6.2,"$38,000,000","16,928,670",139056,49
+360.,Stalker,(1979),162 min,Drama -  Sci-Fi,8.1,"RUR 1,000,000","234,723",138102,83
+361.,The Predator,(2018),107 min,Action -  Adventure -  Horror,5.3,"$88,000,000","51,024,708",137516,48
+362.,Gamer,(2009),95 min,Action -  Sci-Fi -  Thriller,5.7,"$50,000,000","20,488,579",137215,27
+363.,Deep Blue Sea,(1999),105 min,Action -  Adventure -  Sci-Fi,5.9,"$60,000,000","73,648,142",137154,54
+364.,Morbius,(2022),104 min,Action -  Adventure -  Horror,5.2,"$75,000,000","73,865,530",135880,35
+365.,They Live,(1988),94 min,Action -  Horror -  Sci-Fi,7.2,"$4,000,000","13,008,928",135590,55
+366.,Bill & Ted's Excellent Adventure,(1989),90 min,Adventure -  Comedy -  Music,6.9,"$8,500,000","40,485,039",135521,50
+367.,Coherence,(2013),89 min,Drama -  Mystery -  Sci-Fi,7.2,"$50,000","68,877",135336,65
+368.,Hollow Man,(2000),112 min,Action -  Horror -  Sci-Fi,5.8,"$95,000,000","73,209,340",134235,24
+369.,Love and Monsters,(2020),109 min,Action -  Adventure -  Comedy,6.9,,"1,070,714",133870,63
+370.,Evolution,(2001),101 min,Comedy -  Sci-Fi,6.1,"$80,000,000","38,345,494",132067,40
+371.,Daybreakers,(2009),98 min,Action -  Horror -  Sci-Fi,6.4,"$20,000,000","30,101,577",131495,57
+372.,Mortal Engines,(2018),128 min,Action -  Adventure -  Fantasy,6.1,"$100,000,000","15,951,040",130572,44
+373.,Æon Flux,(2005),93 min,Action -  Adventure -  Sci-Fi,5.4,"$62,000,000","25,857,987",130572,36
+374.,The Watch,(I) (2012),102 min,Comedy -  Sci-Fi,5.7,"$68,000,000","35,353,000",130236,36
+375.,Ant-Man and the Wasp: Quantumania,(2023),124 min,Action -  Adventure -  Comedy,6.2,"$200,000,000",,130074,48
+376.,Black Mirror: Bandersnatch,(2018),90 min,Drama -  Fantasy -  Mystery,7.1,,,130007,
+377.,Escape Room,(I) (2019),99 min,Action -  Adventure -  Horror,6.4,"$9,000,000","57,005,601",129798,48
+378.,Aliens vs. Predator: Requiem,(2007),94 min,Action -  Adventure -  Horror,4.6,"$40,000,000","41,797,066",129046,29
+379.,I Origins,(2014),106 min,Drama -  Mystery -  Romance,7.3,"$1,000,000","334,658",128744,57
